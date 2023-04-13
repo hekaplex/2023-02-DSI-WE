@@ -21,5 +21,5 @@
 #### Threat Intelligence Anlayst
 
 ## YES, I would like to persue my own capstone project:
-### The topic will be - Prediction of Stoke.
+### The topic will be - Prediction of Stroke.
 ### Using 3 - 5 models.
