@@ -13,7 +13,7 @@
 
 ### My personal goals between now and Aug 2023 would be able to utilize all related tools to analyze datasets. Tools including KQL, Python, Power BI and SQL.
 ### My goal between now and Aug 2024 would be to obtain a position that related to Data Science.
-## My capstone will be focusing on DA.
+### My capstone will be focusing on DA.
 #### DA Data Analyst
 #### DS Data Scientist
 #### DE Data Engineer
