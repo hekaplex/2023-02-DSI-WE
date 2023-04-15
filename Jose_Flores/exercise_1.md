@@ -11,8 +11,7 @@
 
 
 
-# **Markdown Basics**
----
+
 # List one goal for between now and Aug 2023
 
 *My short term goal for August of 2023 is to get at least one certification PL 300 and possibly two with Azure Fundamentals 900*
