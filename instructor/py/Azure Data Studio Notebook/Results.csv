@@ -1,0 +1,51 @@
+(No column name)
+"SELECT 'jewelry_kmeans' as table_name, Count(*) as row_count from [jewelry_kmeans]
+UNION"
+"SELECT 'jewelry_kmeans_ssis' as table_name, Count(*) as row_count from [jewelry_kmeans_ssis]
+UNION"
+"SELECT 'ContactUpdates' as table_name, Count(*) as row_count from [ContactUpdates]
+UNION"
+"SELECT 'GLAccounts' as table_name, Count(*) as row_count from [GLAccounts]
+UNION"
+"SELECT 'InvoiceArchive' as table_name, Count(*) as row_count from [InvoiceArchive]
+UNION"
+"SELECT 'InvoiceLineItems' as table_name, Count(*) as row_count from [InvoiceLineItems]
+UNION"
+"SELECT 'Invoices' as table_name, Count(*) as row_count from [Invoices]
+UNION"
+"SELECT 'Terms' as table_name, Count(*) as row_count from [Terms]
+UNION"
+"SELECT 'Vendors' as table_name, Count(*) as row_count from [Vendors]
+UNION"
+"SELECT 'sysdiagrams' as table_name, Count(*) as row_count from [sysdiagrams]
+UNION"
+"SELECT 'Invoices2' as table_name, Count(*) as row_count from [Invoices2]
+UNION"
+"SELECT 'SequenceTable' as table_name, Count(*) as row_count from [SequenceTable]
+UNION"
+"SELECT 'PQ_Sample' as table_name, Count(*) as row_count from [PQ_Sample]
+UNION"
+"SELECT 'test' as table_name, Count(*) as row_count from [test]
+UNION"
+"SELECT 'test2' as table_name, Count(*) as row_count from [test2]
+UNION"
+"SELECT 'XtabVendors' as table_name, Count(*) as row_count from [XtabVendors]
+UNION"
+"SELECT 'InvoiceEmpty' as table_name, Count(*) as row_count from [InvoiceEmpty]
+UNION"
+"SELECT 'VendorCopy' as table_name, Count(*) as row_count from [VendorCopy]
+UNION"
+"SELECT 'InvoiceCopy' as table_name, Count(*) as row_count from [InvoiceCopy]
+UNION"
+"SELECT 'OutstandingInvoices' as table_name, Count(*) as row_count from [OutstandingInvoices]
+UNION"
+"SELECT 'OustandingInvoiceSummary' as table_name, Count(*) as row_count from [OustandingInvoiceSummary]
+UNION"
+"SELECT 'OutsandingInvoiceSummary' as table_name, Count(*) as row_count from [OutsandingInvoiceSummary]
+UNION"
+"SELECT 'OutstandingInvoiceSummary' as table_name, Count(*) as row_count from [OutstandingInvoiceSummary]
+UNION"
+"SELECT 'VendorPayment' as table_name, Count(*) as row_count from [VendorPayment]
+UNION"
+"SELECT 'SumInvoices' as table_name, Count(*) as row_count from [SumInvoices]
+UNION"
