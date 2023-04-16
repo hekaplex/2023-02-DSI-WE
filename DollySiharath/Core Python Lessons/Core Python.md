@@ -51,15 +51,19 @@ print(Courses_01.union(Courses_02))
 key is separated form its value by the colon : 
 
 
-* Functions and Other structure
+Functions and Other structure
  * Pointers =  passing by value and by reference.
  * Comprehensions =  a short and concise way to construct new sequences (such as lists, set, dictionary etc.) 
 
 
-* Control Flow
+Control Flow
 * For Loop = A for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).
 
+
 * While Loop = With the while loop we can execute a set of statements as long as a condition is true.
+
+
+
 
 * Exception Handling 
 An exception in Python is an incident that happens while executing a program that causes the regular course of the program's commands to be disrupted.
@@ -88,3 +92,96 @@ Sr.No.	Name of the Exception	Description of the Exception
 
 
  * File I/O
+Python io module allows us to manage the file-related input and output operations. There are three main types of I/O: text I/O, binary I/O and raw I/O.
+
+How do you use input and output files in Python?
+Input-Output and Files in Python (Python Open, Read and Write to File)
+#1) Open a File.
+#2) Reading Data from the File.
+#3) Writing Data to File.
+#4) Close a File.
+#5) Create & Delete a File.
+
+
+character	purpose
+r	Opens a file for reading only. (default)
+w	Opens a file for writing only, 
+    deleting earlier contents
+a	Opens a file for appending.
+t	opens file in text format (default)
+b	Opens a file in binary format.
++	Opens a file for simultaneous reading and writing.
+x	opens file for exclusive creation.
+
+Syntax:
+
+file = open(name, mode) 
+
+file object = open(<file-name>, <access-mode>, <buffering>)     
+
+example:
+ # open it in ‘w’ mode.
+
+ import os
+f=open("python.txt","w")
+f.write("Hello")
+f.write("World")
+f.close()
+
+ import os
+f=open("python.txt","w")
+f.writelines(lines)
+f.close()
+
+import os
+f=open("c:/diff/python/test.txt","w")
+f.writelines(lines)
+f.close()
+
+
+# create a new file to write.
+import os
+f=open("c:/diff/python/test02.txt","x")
+f.write("Hello World")
+f.close()
+
+
+# Del a file.
+import os
+f=remove("c:/diff/python/test02.txt")
+
+
+#  check if file exist for del. file.
+import os
+if os.path.exists("c:/diff/python/test02.txt"):
+    os.remove("test02.txt")
+else:
+     print("file not found")    
+
+
+ # open it in ‘r’ mode.
+ # the print(f.read()) - telling python to read the entire file.
+ import os
+f=open("c:/diff/python/test.txt","r")
+print(f.read())
+f.close()
+
+
+# read the fist 10 char. of the first line in the file.
+ import os
+f=open("c:/diff/python/test.txt","r")
+print(f.read(10))
+f.close()
+
+
+# read line by line / one line at a time in the file.
+ import os
+f=open("c:/diff/python/test.txt","r")
+print(f.readline())
+f.close()
+
+# read the first 3 char.in a line. 
+ import os
+f=open("c:/diff/python/test.txt","r")
+print(f.readline(3))
+f.close()
