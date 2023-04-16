@@ -1,0 +1,6 @@
+Shane, 30, Math, student
+John, 21, Physics, student
+Bob, 28, Chemistry, student
+Mr. Smith, 35, Math, teacher
+Dr. Adams, 42, Physics, teacher
+Ms. Johnson, 29, Chemistry, teacher
