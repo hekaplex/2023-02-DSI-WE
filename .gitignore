@@ -133,3 +133,15 @@ dap1_allfiles.zip
 globalterrorismdb_0718dist.txt
 kdd_threat_detection.zip
 .gitignore
+BrianScott/EIA Data/eia_data.pkl
+BrianScott/EIA Data/bpat_wide.csv
+BrianScott/EIA Data/bpat_wide.xlsx
+BrianScott/Fires Case Study/_fileindex_RDS-2013-0009.4.html
+BrianScott/Fires Case Study/_metadata_RDS-2013-0009.4.html
+BrianScott/Fires Case Study/_metadata_RDS-2013-0009.4.xml
+BrianScott/Fires Case Study/fires_clean.pkl
+BrianScott/Fires Case Study/fires_prepared.pkl
+BrianScott/Fires Case Study/fires_raw.pkl
+BrianScott/Fires Case Study/RDS-2013-0009.4_SQLITE.zip
+BrianScott/Fires Case Study/Data/FPA_FOD_20170508.sqlite
+BrianScott/Fires Case Study/Supplements/FPA_FOD_Source_List.pdf
