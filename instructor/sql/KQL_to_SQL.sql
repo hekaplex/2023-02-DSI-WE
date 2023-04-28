@@ -6,20 +6,6 @@ StormEvents
 | order by event_count desc
 | limit 10
 */
-SELECT TOP 10 State, COUNT(*) as event_count
-FROM StormEvents
-WHERE StartTime >= '2010-01-01' AND StartTime < '2011-01-01'
-GROUP BY State
-ORDER BY event_count DESC
-
-/*
-KQL Example:
-StormEvents
-| where StartTime >= datetime(2010-01-01) and StartTime < datetime(2011-01-01)
-| summarize event_count = count() by State
-| order by event_count desc
-| limit 10cm
-*/
 SELECT 
 	TOP 10 State
 	, COUNT(*) as event_count
@@ -45,39 +31,20 @@ StormEvents
 | order by year, event_count desc
 
 */
-SELECT YEAR(StartTime) as year, EventType, COUNT(*) as event_count
-FROM StormEvents
-WHERE StartTime >= '2010-01-01' AND StartTime < '2011-01-01'
-GROUP BY YEAR(StartTime), EventType
-ORDER BY YEAR(StartTime), event_count DESC
+SELECT 
+	YEAR(StartTime) as year
+	, EventType, COUNT(*) as event_count
+FROM 
+	StormEvents
+WHERE 
+	StartTime >= '2010-01-01' 
+	AND 
+	StartTime < '2011-01-01'
+GROUP BY 
+	YEAR(StartTime), EventType
+ORDER BY 
+	YEAR(StartTime), event_count DESC
 
-/*
-KQL Example:
-StormEvents
-| where StartTime >= datetime(2010-01-01) and StartTime < datetime(2011-01-01)
-| summarize event_count = count() by bin(StartTime, 1d), State
-| order by StartTime, State
-
-*/
-SELECT CONVERT(date, StartTime) as StartTime, State, COUNT(*) as event_count
-FROM StormEvents
-WHERE StartTime >= '2010-01-01' AND StartTime < '2011-01-01'
-GROUP BY CONVERT(date, StartTime), State
-ORDER BY StartTime, State
-
-/*
-KQL Example:
-StormEvents
-| where StartTime >= datetime(2010-01-01) and StartTime < datetime(2011-01-01)
-| summarize event_count = count() by bin(StartTime, 1d), State
-| order by StartTime, State
-
-*/
-SELECT CONVERT(date, StartTime) as StartTime, State, COUNT(*) as event_count
-FROM StormEvents
-WHERE StartTime >= '2010-01-01' AND StartTime < '2011-01-01'
-GROUP BY CONVERT(date, StartTime), State
-ORDER BY StartTime, State
 
 /*
 KQL Example:
