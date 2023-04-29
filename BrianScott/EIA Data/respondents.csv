@@ -1,79 +1,78 @@
-respondent-name,count
-PUD No. 1 of Douglas County,35007
-Public Utility District No. 1 of Chelan County,34994
-California,34993
-Southeast,34992
-Midwest,34992
-Seattle City Light,34985
-Western Area Power Administration - Rocky Mountain Region,34985
-NorthWestern Corporation,34985
-New York,34984
-"City of Tacoma, Department of Public Utilities, Light Division",34984
-Carolinas,34982
-Los Angeles Department of Water and Power,34979
-Duke Energy Progress West,34979
-City of Homestead,34977
-New England,34975
-New York Independent System Operator,34975
-Gainesville Regional Utilities,34974
-PacifiCorp West,34974
-"Public Utility District No. 2 of Grant County, Washington",34974
-Texas,34974
-Public Service Company of Colorado,34973
-Portland General Electric Company,34972
-Florida,34971
-Western Area Power Administration - Desert Southwest Region,34971
-United States Lower 48,34970
-"Associated Electric Cooperative, Inc.",34969
-JEA,34969
-"Southern Company Services, Inc. - Trans",34968
-Northwest,34968
-South Carolina Public Service Authority,34967
-Tucson Electric Power,34966
-"Puget Sound Energy, Inc.",34966
-Southwest Power Pool,34965
-Imperial Irrigation District,34964
-El Paso Electric Company,34964
-Western Area Power Administration - Upper Great Plains West,34961
-Duke Energy Carolinas,34960
-Arizona Public Service Company,34960
-Louisville Gas and Electric Company and Kentucky Utilities Company,34959
-Nevada Power Company,34958
-"Duke Energy Florida, Inc.",34958
-Idaho Power Company,34957
-Tampa Electric Company,34957
-Central,34957
-ISO New England,34957
-Avista Corporation,34955
-City of Tallahassee,34955
-Southwest,34951
-"Electric Reliability Council of Texas, Inc.",34951
-"Midcontinent Independent System Operator, Inc.",34948
-Turlock Irrigation District,34948
-Bonneville Power Administration,34937
-Duke Energy Progress East,34937
-Balancing Authority of Northern California,34936
-Mid-Atlantic,34935
-PacifiCorp East,34925
-Florida Municipal Power Pool,34924
-"PJM Interconnection, LLC",34917
-Seminole Electric Cooperative,34910
-"Dominion Energy South Carolina, Inc.",34883
-California Independent System Operator,34848
-Tennessee,34844
-Tennessee Valley Authority,34840
-Florida Power & Light Co.,34479
-Southwestern Power Administration,34302
-Public Service Company of New Mexico,33515
-Salt River Project Agricultural Improvement and Power District,30871
-"NaturEner Power Watch, LLC",17371
-"NaturEner Wind Watch, LLC",17369
-"Gridforce Energy Management, LLC",17369
-"Griffith Energy, LLC",17368
-"Alcoa Power Generating, Inc. - Yadkin Division",17366
-"Arlington Valley, LLC",17362
-"Avangrid Renewables, LLC",17355
-Southeastern Power Administration,17353
-"New Harquahala Generating Company, LLC",17341
-GridLiance,11519
-respondent-name,1
+respondent,respondent_name,count
+AECI,"Associated Electric Cooperative, Inc.",34722
+AVA,Avista Corporation,34732
+AVRN,"Avangrid Renewables, LLC",17308
+AZPS,Arizona Public Service Company,34713
+BANC,Balancing Authority of Northern California,34703
+BPAT,Bonneville Power Administration,34709
+CAL,California,34738
+CAR,Carolinas,34737
+CENT,Central,34712
+CHPD,Public Utility District No. 1 of Chelan County,34747
+CISO,California Independent System Operator,34604
+CPLE,Duke Energy Progress East,34690
+CPLW,Duke Energy Progress West,34752
+DEAA,"Arlington Valley, LLC",17312
+DOPD,PUD No. 1 of Douglas County,34751
+DUK,Duke Energy Carolinas,34745
+EPE,El Paso Electric Company,34743
+ERCO,"Electric Reliability Council of Texas, Inc.",34717
+FLA,Florida,34721
+FMPP,Florida Municipal Power Pool,34698
+FPC,"Duke Energy Florida, Inc.",34733
+FPL,Florida Power & Light Co.,34241
+GCPD,"Public Utility District No. 2 of Grant County, Washington",34744
+GLHB,GridLiance,11505
+GRID,"Gridforce Energy Management, LLC",17316
+GRIF,"Griffith Energy, LLC",17320
+GVL,Gainesville Regional Utilities,34736
+GWA,"NaturEner Power Watch, LLC",17315
+HGMA,"New Harquahala Generating Company, LLC",17296
+HST,City of Homestead,34734
+IID,Imperial Irrigation District,34732
+IPCO,Idaho Power Company,34739
+ISNE,ISO New England,34728
+JEA,JEA,34752
+LDWP,Los Angeles Department of Water and Power,34745
+LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,34726
+MIDA,Mid-Atlantic,34702
+MIDW,Midwest,34754
+MISO,"Midcontinent Independent System Operator, Inc.",34687
+NE,New England,34763
+NEVP,Nevada Power Company,34720
+NW,Northwest,34738
+NWMT,NorthWestern Corporation,34745
+NY,New York,34773
+NYIS,New York Independent System Operator,34739
+PACE,PacifiCorp East,34679
+PACW,PacifiCorp West,34740
+PGE,Portland General Electric Company,34743
+PJM,"PJM Interconnection, LLC",34687
+PNM,Public Service Company of New Mexico,33271
+PSCO,Public Service Company of Colorado,34740
+PSEI,"Puget Sound Energy, Inc.",34727
+SC,South Carolina Public Service Authority,34737
+SCEG,"Dominion Energy South Carolina, Inc.",34690
+SCL,Seattle City Light,34728
+SE,Southeast,34749
+SEC,Seminole Electric Cooperative,34682
+SEPA,Southeastern Power Administration,17295
+SOCO,"Southern Company Services, Inc. - Trans",34729
+SPA,Southwestern Power Administration,34076
+SRP,Salt River Project Agricultural Improvement and Power District,30680
+SW,Southwest,34720
+SWPP,Southwest Power Pool,34733
+TAL,City of Tallahassee,34721
+TEC,Tampa Electric Company,34724
+TEN,Tennessee,34646
+TEPC,Tucson Electric Power,34737
+TEX,Texas,34764
+TIDC,Turlock Irrigation District,34742
+TPWR,"City of Tacoma, Department of Public Utilities, Light Division",34736
+TVA,Tennessee Valley Authority,34609
+US48,United States Lower 48,34733
+WACM,Western Area Power Administration - Rocky Mountain Region,34736
+WALC,Western Area Power Administration - Desert Southwest Region,34734
+WAUW,Western Area Power Administration - Upper Great Plains West,34727
+WWA,"NaturEner Wind Watch, LLC",17315
+YAD,"Alcoa Power Generating, Inc. - Yadkin Division",17317

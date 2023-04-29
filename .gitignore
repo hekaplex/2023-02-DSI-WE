@@ -1,8 +1,157 @@
 ../.idea/
 eia2022.csv
+Murach Python for Analysis/python_analysis/case_studies/curry/curry_case_study.ipynb
+Murach Python for Analysis/python_analysis/case_studies/fires/fires_case_study.ipynb
+Murach Python for Analysis/python_analysis/case_studies/fires/Maps/states.dbf
+Murach Python for Analysis/python_analysis/case_studies/fires/Maps/states.prj
+Murach Python for Analysis/python_analysis/case_studies/fires/Maps/states.sbn
+Murach Python for Analysis/python_analysis/case_studies/fires/Maps/states.sbx
+Murach Python for Analysis/python_analysis/case_studies/fires/Maps/states.shp
+Murach Python for Analysis/python_analysis/case_studies/fires/Maps/states.shp.xml
+Murach Python for Analysis/python_analysis/case_studies/fires/Maps/states.shx
+Murach Python for Analysis/python_analysis/case_studies/polling/polling_case_study.ipynb
+Murach Python for Analysis/python_analysis/case_studies/social/social_survey_case_study.ipynb
+Murach Python for Analysis/python_analysis/data/download_more_data.ipynb
+Murach Python for Analysis/python_analysis/data/fires_clean.pkl
+Murach Python for Analysis/python_analysis/data/mortality.csv
+Murach Python for Analysis/python_analysis/data/president_polls_2016.csv
+Murach Python for Analysis/python_analysis/data/shots.json
+Murach Python for Analysis/python_analysis/data/test_anaconda.ipynb
+Murach Python for Analysis/python_analysis/examples/ch01/ch01_examples.ipynb
+Murach Python for Analysis/python_analysis/examples/ch02/ch02_examples.ipynb
+Murach Python for Analysis/python_analysis/examples/ch02/mortality_data.pkl
+Murach Python for Analysis/python_analysis/examples/ch02/mortality_wide.xlsx
+Murach Python for Analysis/python_analysis/examples/ch03/ch03_examples.ipynb
+Murach Python for Analysis/python_analysis/examples/ch03/mortality_prepped.pkl
+Murach Python for Analysis/python_analysis/examples/ch03/mortality_wide.pkl
+Murach Python for Analysis/python_analysis/examples/ch04/ch04_examples.ipynb
+Murach Python for Analysis/python_analysis/examples/ch04/mortality_prepped.pkl
+Murach Python for Analysis/python_analysis/examples/ch05/ch05_examples.ipynb
+Murach Python for Analysis/python_analysis/examples/ch06/ch06_examples.ipynb
+Murach Python for Analysis/python_analysis/examples/ch06/mortality_cleaned.pkl
+Murach Python for Analysis/python_analysis/examples/ch06/mortality_group.pkl
+Murach Python for Analysis/python_analysis/examples/ch06/mortality_missing_values.csv
+Murach Python for Analysis/python_analysis/examples/ch07/cars.csv
+Murach Python for Analysis/python_analysis/examples/ch07/ch07_examples.ipynb
+Murach Python for Analysis/python_analysis/examples/ch07/fires_by_month.pkl
+Murach Python for Analysis/python_analysis/examples/ch07/fires_cleaned.pkl
+Murach Python for Analysis/python_analysis/examples/ch07/pointsScoredGame.pkl
+Murach Python for Analysis/python_analysis/examples/ch07/shot_cleaned.pkl
+Murach Python for Analysis/python_analysis/examples/ch07/top_states.pkl
+Murach Python for Analysis/python_analysis/examples/ch07/workData.pkl
+Murach Python for Analysis/python_analysis/examples/ch08/cars.pkl
+Murach Python for Analysis/python_analysis/examples/ch08/ch08_examples.ipynb
+Murach Python for Analysis/python_analysis/examples/ch08/fires_prepared.pkl
+Murach Python for Analysis/python_analysis/examples/ch09/AAPL.csv
+Murach Python for Analysis/python_analysis/examples/ch09/acresBurned.pkl
+Murach Python for Analysis/python_analysis/examples/ch09/ch09_examples.ipynb
+Murach Python for Analysis/python_analysis/examples/ch10/ch10_examples.ipynb
+Murach Python for Analysis/python_analysis/examples/ch10/housingData.csv
+Murach Python for Analysis/python_analysis/examples/ch10/mortality_data.pkl
+Murach Python for Analysis/python_analysis/examples/ch11/cars.csv
+Murach Python for Analysis/python_analysis/examples/ch11/ch11_examples.ipynb
+Murach Python for Analysis/python_analysis/exercises/ch01/ex_1-1_polling.ipynb
+Murach Python for Analysis/python_analysis/exercises/ch02/ex_2-1_mortality.ipynb
+Murach Python for Analysis/python_analysis/exercises/ch02/ex_2-2_mortality.ipynb
+Murach Python for Analysis/python_analysis/exercises/ch02/mortality_data.pkl
+Murach Python for Analysis/python_analysis/exercises/ch02/mortality_wide.pkl
+Murach Python for Analysis/python_analysis/exercises/ch03/ex_3-1_mortality.ipynb
+Murach Python for Analysis/python_analysis/exercises/ch03/mortality_prepped.pkl
+Murach Python for Analysis/python_analysis/exercises/ch03/mortality_wide.pkl
+Murach Python for Analysis/python_analysis/exercises/ch04/ex_4-1_mortality.ipynb
+Murach Python for Analysis/python_analysis/exercises/ch04/mortality_prepped.pkl
+Murach Python for Analysis/python_analysis/exercises/ch05/ex1/ex_5-1.ipynb
+Murach Python for Analysis/python_analysis/exercises/ch05/ex2/ex_5-2.ipynb
+Murach Python for Analysis/python_analysis/exercises/ch05/ex3/ex_5-3.ipynb
+Murach Python for Analysis/python_analysis/exercises/ch05/ex4/ex_5-4.ipynb
+Murach Python for Analysis/python_analysis/exercises/ch05/ex5/ex_5-5.ipynb
+Murach Python for Analysis/python_analysis/exercises/ch06/cars.csv
+Murach Python for Analysis/python_analysis/exercises/ch06/ex_6-1_polls.ipynb
+Murach Python for Analysis/python_analysis/exercises/ch06/ex_6-2_cars.ipynb
+Murach Python for Analysis/python_analysis/exercises/ch06/president_polls_2016.csv
+Murach Python for Analysis/python_analysis/exercises/ch07/cars.csv
+Murach Python for Analysis/python_analysis/exercises/ch07/ex_7-1_fires.ipynb
+Murach Python for Analysis/python_analysis/exercises/ch07/ex_7-2_cars.ipynb
+Murach Python for Analysis/python_analysis/exercises/ch07/fires_by_month.pkl
+Murach Python for Analysis/python_analysis/exercises/ch08/cars.pkl
+Murach Python for Analysis/python_analysis/exercises/ch08/ex_8-1_fires.ipynb
+Murach Python for Analysis/python_analysis/exercises/ch08/ex_8-2_cars.ipynb
+Murach Python for Analysis/python_analysis/exercises/ch08/fires_by_month.pkl
+Murach Python for Analysis/python_analysis/exercises/ch09/ex_9-1_stocks.ipynb
+Murach Python for Analysis/python_analysis/exercises/ch09/stocks.pkl
+Murach Python for Analysis/python_analysis/exercises/ch10/ex_10-1_fish.ipynb
+Murach Python for Analysis/python_analysis/exercises/ch10/Fish.csv
+Murach Python for Analysis/python_analysis/exercises/ch10/info.txt
+Murach Python for Analysis/python_analysis/exercises/ch11/ex_11-1_fish.ipynb
+Murach Python for Analysis/python_analysis/exercises/ch11/Fish.csv
+Murach Python for Analysis/python_analysis/exercises/ch11/info.txt
+Murach Python for Analysis/python_analysis/exercises/ch12/ex_12-1_polls.ipynb
+Murach Python for Analysis/python_analysis/exercises/ch13/ex_13-1_fires.ipynb
+Murach Python for Analysis/python_analysis/exercises/ch14/ex_14-1_social.ipynb
+Murach Python for Analysis/python_analysis/exercises/ch15/ex_15-1_curry.ipynb
+Murach Python for Analysis/python_analysis/solutions/ch01/ex_1-1_polling_sol.ipynb
+Murach Python for Analysis/python_analysis/solutions/ch01/ex_1-1_practice_sol.ipynb
+Murach Python for Analysis/python_analysis/solutions/ch02/ex_2-2_mortality_sol.ipynb
+Murach Python for Analysis/python_analysis/solutions/ch02/mortality_data.pkl
+Murach Python for Analysis/python_analysis/solutions/ch02/mortality_wide.pkl
+Murach Python for Analysis/python_analysis/solutions/ch03/ex_3-1_mortality_sol.ipynb
+Murach Python for Analysis/python_analysis/solutions/ch03/mortality_prepped.pkl
+Murach Python for Analysis/python_analysis/solutions/ch03/mortality_wide.pkl
+Murach Python for Analysis/python_analysis/solutions/ch04/barCharts.png
+Murach Python for Analysis/python_analysis/solutions/ch04/ex_4-1_mortality_sol.ipynb
+Murach Python for Analysis/python_analysis/solutions/ch04/mortality_prepped.pkl
+Murach Python for Analysis/python_analysis/solutions/ch05/ex1/ex_5-1_sol.ipynb
+Murach Python for Analysis/python_analysis/solutions/ch05/ex2/ex_5-2_sol.ipynb
+Murach Python for Analysis/python_analysis/solutions/ch05/ex3/ex_5-3_sol.ipynb
+Murach Python for Analysis/python_analysis/solutions/ch05/ex4/ex_5-4_sol.ipynb
+Murach Python for Analysis/python_analysis/solutions/ch05/ex5/ex_5-5_sol.ipynb
+Murach Python for Analysis/python_analysis/solutions/ch06/cars.csv
+Murach Python for Analysis/python_analysis/solutions/ch06/ex_6-1_polls_sol.ipynb
+Murach Python for Analysis/python_analysis/solutions/ch06/ex_6-2_cars_sol.ipynb
+Murach Python for Analysis/python_analysis/solutions/ch06/president_polls_2016.csv
+Murach Python for Analysis/python_analysis/solutions/ch07/cars.csv
+Murach Python for Analysis/python_analysis/solutions/ch07/ex_7-1_fires_sol.ipynb
+Murach Python for Analysis/python_analysis/solutions/ch07/ex_7-2_cars_sol.ipynb
+Murach Python for Analysis/python_analysis/solutions/ch07/fires_by_month.pkl
+Murach Python for Analysis/python_analysis/solutions/ch08/cars.pkl
+Murach Python for Analysis/python_analysis/solutions/ch08/ex_8-1_fires_sol.ipynb
+Murach Python for Analysis/python_analysis/solutions/ch08/ex_8-2_cars_sol.ipynb
+Murach Python for Analysis/python_analysis/solutions/ch08/fires_by_month.pkl
+Murach Python for Analysis/python_analysis/solutions/ch09/ex_9-1_stocks_sol.ipynb
+Murach Python for Analysis/python_analysis/solutions/ch09/stocks.pkl
+Murach Python for Analysis/python_analysis/solutions/ch10/ex_10-1_fish_sol.ipynb
+Murach Python for Analysis/python_analysis/solutions/ch10/Fish.csv
+Murach Python for Analysis/python_analysis/solutions/ch10/info.txt
+Murach Python for Analysis/python_analysis/solutions/ch11/ex_11-1_fish_sol.ipynb
+Murach Python for Analysis/python_analysis/solutions/ch11/Fish.csv
+Murach Python for Analysis/python_analysis/solutions/ch11/info.txt
+Murach Python for Analysis/python_analysis/solutions/ch12/ex_12-1_polls_sol.ipynb
+Murach Python for Analysis/python_analysis/solutions/ch13/ex_13-1_fires_sol.ipynb
+Murach Python for Analysis/python_analysis/solutions/ch14/ex_14-1_social_sol.ipynb
+Murach Python for Analysis/python_analysis/solutions/ch15/ex_15-1_curry_sol.ipynb
+dap1_allfiles.zip
+globalterrorismdb_0718dist.txt
+kdd_threat_detection.zip
+.gitignore
 BrianScott/EIA Data/eia_data.pkl
-ShaneDirksen/CIC_malmem/Obfuscated-MalMem2022.csv
-BrianScott/EIA Data/bpat_wide.xlsx
 BrianScott/EIA Data/bpat_wide.csv
-BrianScott/EIA Data/respondents.csv
+BrianScott/EIA Data/bpat_wide.xlsx
+BrianScott/Fires Case Study/_fileindex_RDS-2013-0009.4.html
+BrianScott/Fires Case Study/_metadata_RDS-2013-0009.4.html
+BrianScott/Fires Case Study/_metadata_RDS-2013-0009.4.xml
+BrianScott/Fires Case Study/fires_clean.pkl
+BrianScott/Fires Case Study/fires_prepared.pkl
+BrianScott/Fires Case Study/fires_raw.pkl
 BrianScott/Fires Case Study/RDS-2013-0009.4_SQLITE.zip
+BrianScott/Fires Case Study/Data/FPA_FOD_20170508.sqlite
+BrianScott/Fires Case Study/Supplements/FPA_FOD_Source_List.pdf
+BrianScott/EIA Data/type-respondent.csv
+BrianScott/EIA Data/eia.csv
+BrianScott/EIA Data/eia2021.csv
+BrianScott/EIA Data/eia2020.csv
+BrianScott/EIA Data/eiadata.json
+BrianScott/EIA Data/eiadata.json
+BrianScott/EIA Data/BA_dict.json
+BrianScott/EIA Data/eia2018.csv
+BrianScott/EIA Data/eia2019.csv
+BrianScott/EIA Data/eiadata.json
