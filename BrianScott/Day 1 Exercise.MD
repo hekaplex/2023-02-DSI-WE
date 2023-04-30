@@ -20,4 +20,6 @@
       - I think this is important considering current limits on long-term transmission
    - Analysis would ideally be granular in time, i.e. hourly
    - Would need to consider transfer to neighboring grids (included in EIA data)
+   - Can I calculate hourly carbon intensity for a Balancing Authority? Probably not
+   - Monthly carbon intensity should be available from EIA plant-level data
 
