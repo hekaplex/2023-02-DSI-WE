@@ -1,0 +1,1362 @@
+,FL_City,FL_PopByMM,FL_DiagPer100k
+16,FL Cape Coral,"3,293",14.6
+17,FL Hollywood,"4,329",8.9
+18,FL Melbourne,"3,889",9.3
+19,FL Pompano Beach,"2,511",11.2
+8311,FL Gainesville,"124,354",7.0
+8312,FL Clearwater,"5,844",9.3
+8313,FL Hialeah,"224,669",15.3
+8314,FL Hollywood,"2,380",11.4
+8315,FL Coral Springs,"5,410",10.1
+8317,FL Deerfield Beach,"4,712",17.7
+8318,FL Clearwater,"6,677",11.7
+8319,FL Gainesville,"2,180",4.5
+8320,FL Fort Lauderdale,"2,699",10.1
+8321,FL Clearwater,"107,685",9.4
+8322,FL Gainesville,"2,770",10.9
+8323,FL Davie,479,8.2
+8324,FL Cape Coral,"9,287",11.8
+8328,FL Fort Lauderdale,"3,729",9.1
+8329,FL Hialeah,"6,140",19.6
+8330,FL Deltona,"2,832",14.2
+8331,FL Boca Raton,"2,224",1.1
+8333,FL Boynton Beach,"3,673",12.1
+8334,FL Hollywood,"3,577",9.4
+8335,FL Davie,"6,009",8.2
+8337,FL Boynton Beach,"2,015",10.7
+8338,FL Davie,"7,535",10.1
+8340,FL Gainesville,"3,021",15.1
+8341,FL Gainesville,"4,734",4.9
+8343,FL Clearwater,"2,804",12.8
+8344,FL Coral Springs,"4,982",8.4
+8345,FL Boca Raton,"3,878",10.1
+8347,FL Hialeah,"7,688",18.8
+8348,FL Coral Springs,"6,145",9.4
+8349,FL Deerfield Beach,"2,206",8.8
+8352,FL Fort Lauderdale,"3,381",9.0
+8354,FL Clearwater,"1,485",10.5
+8355,FL Boca Raton,"4,912",9.9
+8356,FL Hollywood,"4,082",8.7
+8357,FL Fort Lauderdale,"6,637",10.0
+8358,FL Hollywood,"4,630",11.0
+8359,FL Boca Raton,"1,079",8.3
+8361,FL Fort Lauderdale,742,10.6
+8362,FL Boca Raton,"4,276",10.0
+8363,FL Clearwater,"2,426",13.8
+8366,FL Boynton Beach,"1,938",17.6
+8367,FL Fort Lauderdale,"5,572",13.6
+8368,FL Hialeah,"5,170",14.7
+8370,FL Coral Springs,"5,866",10.1
+8372,FL Hialeah,"6,447",18.7
+8373,FL Hialeah,"4,535",14.1
+8374,FL Hialeah,"3,315",18.2
+8378,FL Coral Springs,"3,015",7.0
+8379,FL Cape Coral,"8,526",9.6
+8380,FL Cape Coral,"4,382",10.9
+8382,FL Fort Lauderdale,"2,802",8.7
+8384,FL Gainesville,"7,644",4.8
+8385,FL Deerfield Beach,"2,263",10.2
+8386,FL Cape Coral,"11,066",9.5
+8388,FL Hollywood,"4,082",9.5
+8389,FL Fort Lauderdale,"4,980",11.1
+8392,FL Davie,"4,672",8.4
+8394,FL Fort Lauderdale,"1,968",11.8
+8395,FL Boca Raton,"5,222",8.7
+8396,FL Boca Raton,"2,924",10.5
+8397,FL Deltona,"6,530",10.5
+8399,FL Clearwater,"2,682",12.0
+8400,FL Boynton Beach,"4,619",12.9
+8401,FL Hialeah,"5,508",16.5
+8403,FL Boynton Beach,"6,185",15.6
+8404,FL Hollywood,"5,909",11.6
+8405,FL Hialeah,"4,683",20.2
+8406,FL Fort Lauderdale,"2,466",18.1
+8409,FL Hollywood,"4,007",8.8
+8412,FL Clearwater,"4,073",9.9
+8413,FL Deerfield Beach,"3,824",7.7
+8414,FL Clearwater,"6,436",10.9
+8415,FL Hollywood,"3,869",9.8
+8418,FL Cape Coral,"8,065",12.7
+8419,FL Gainesville,"2,559",2.5
+8420,FL Cape Coral,"2,354",12.9
+8422,FL Hollywood,"3,271",11.5
+8423,FL Deerfield Beach,"4,463",14.1
+8424,FL Gainesville,"5,926",1.3
+8427,FL Deltona,"5,866",12.0
+8428,FL Clearwater,92,14.0
+8429,FL Davie,"7,410",8.4
+8430,FL Boynton Beach,"68,217",11.8
+8431,FL Deltona,"6,829",12.5
+8435,FL Gainesville,974,7.5
+8436,FL Coral Springs,"4,129",8.1
+8437,FL Hialeah,"5,768",18.6
+8438,FL Hollywood,559,11.4
+8440,FL Hialeah,"7,318",19.1
+8441,FL Fort Lauderdale,"4,988",14.1
+8444,FL Davie,"6,165",10.2
+8445,FL Clearwater,"5,063",10.6
+8446,FL Cape Coral,"2,057",12.5
+8447,FL Boca Raton,"1,025",8.1
+8448,FL Boynton Beach,601,8.8
+8449,FL Gainesville,155,8.6
+8450,FL Deerfield Beach,"3,551",15.6
+8454,FL Gainesville,"4,010",17.4
+8455,FL Clearwater,"1,472",9.2
+8456,FL Cape Coral,337,8.3
+8458,FL Boca Raton,"5,183",9.8
+8460,FL Deltona,"2,505",10.3
+8461,FL Hollywood,"2,521",8.6
+8462,FL Hollywood,"3,532",11.4
+8463,FL Gainesville,"2,482",6.2
+8464,FL Fort Lauderdale,"3,565",8.6
+8465,FL Fort Lauderdale,"2,234",13.4
+8466,FL Fort Lauderdale,"4,113",9.0
+8467,FL Coral Springs,"4,634",7.0
+8468,FL Boynton Beach,"3,163",9.7
+8469,FL Fort Lauderdale,"4,659",10.1
+8470,FL Gainesville,"2,149",3.5
+8471,FL Deltona,"3,637",12.4
+8476,FL Gainesville,"124,354",10.9
+8477,FL Hialeah,"5,320",15.6
+8479,FL Cape Coral,"3,899",12.2
+8480,FL Coral Springs,"6,192",6.5
+8483,FL Boca Raton,"2,838",11.5
+8484,FL Hollywood,"3,894",11.8
+8485,FL Deerfield Beach,"2,365",14.0
+8486,FL Coral Springs,"6,046",8.5
+8487,FL Fort Lauderdale,"2,683",9.8
+8488,FL Clearwater,"2,487",9.7
+8493,FL Boca Raton,287,5.4
+8494,FL Hialeah,"4,056",13.7
+8496,FL Gainesville,"6,358",11.0
+8497,FL Cape Coral,"5,423",9.0
+8498,FL Deltona,"7,540",12.2
+8499,FL Clearwater,"4,475",10.6
+8500,FL Gainesville,"3,604",4.8
+8501,FL Hollywood,"4,642",10.4
+8502,FL Clearwater,519,12.3
+8504,FL Cape Coral,"5,332",9.2
+8505,FL Coral Springs,"3,235",9.2
+8506,FL Hollywood,"5,160",11.5
+8507,FL Boca Raton,"1,839",9.7
+8508,FL Hollywood,"1,597",9.7
+8510,FL Hialeah,"6,487",16.9
+8511,FL Clearwater,"5,793",14.6
+8512,FL Boynton Beach,833,5.8
+8517,FL Fort Lauderdale,"3,797",15.3
+8518,FL Davie,"3,210",8.6
+8523,FL Hollywood,"6,647",11.5
+8524,FL Hialeah,"2,498",15.8
+8525,FL Gainesville,"1,690",5.5
+8527,FL Coral Springs,"4,903",8.3
+8528,FL Fort Lauderdale,"1,296",7.4
+8530,FL Hialeah,"4,806",18.0
+8531,FL Boca Raton,"3,298",8.3
+8532,FL Davie,"4,421",7.9
+8534,FL Boca Raton,"3,314",10.2
+8537,FL Deerfield Beach,"5,257",9.5
+8538,FL Deltona,"7,224",11.6
+8539,FL Clearwater,"3,799",13.5
+8541,FL Deerfield Beach,"6,063",10.0
+8542,FL Cape Coral,"8,392",9.1
+8543,FL Gainesville,"6,207",5.9
+8546,FL Fort Lauderdale,799,11.7
+8547,FL Hialeah,"5,939",17.0
+8548,FL Davie,"1,197",9.1
+8549,FL Boynton Beach,"3,120",12.8
+8550,FL Clearwater,"2,898",10.2
+8552,FL Boynton Beach,"68,217",10.2
+8554,FL Boynton Beach,"1,254",10.8
+8555,FL Hialeah,"1,976",15.4
+8557,FL Davie,"5,863",7.4
+8564,FL Fort Lauderdale,183,19.8
+8566,FL Deltona,"85,182",11.9
+8567,FL Gainesville,88,10.0
+8569,FL Davie,525,5.7
+8571,FL Boca Raton,"4,171",7.2
+8572,FL Gainesville,"3,308",8.0
+8574,FL Coral Springs,"4,241",7.5
+8576,FL Clearwater,"3,374",10.3
+8577,FL Hollywood,"4,237",9.8
+8578,FL Coral Springs,"121,096",8.5
+8580,FL Fort Lauderdale,"3,938",10.3
+8581,FL Cape Coral,"6,528",10.5
+8582,FL Gainesville,"3,657",7.0
+8583,FL Fort Lauderdale,"7,372",15.3
+8584,FL Hialeah,"7,044",17.9
+8586,FL Fort Lauderdale,"3,026",16.2
+8588,FL Clearwater,"3,592",10.5
+8590,FL Hialeah,"6,109",19.8
+8591,FL Fort Lauderdale,"1,761",9.3
+8592,FL Coral Springs,"5,522",7.4
+8593,FL Boynton Beach,"3,726",15.0
+8594,FL Boynton Beach,"3,611",17.3
+8596,FL Boca Raton,"1,253",9.4
+8598,FL Boca Raton,"3,801",7.4
+8600,FL Cape Coral,"5,245",11.4
+8602,FL Boynton Beach,"2,364",9.3
+8604,FL Hialeah,"5,069",13.5
+8606,FL Fort Lauderdale,"1,787",6.3
+8609,FL Coral Springs,"8,850",7.7
+8610,FL Hialeah,"6,441",13.0
+8613,FL Hialeah,"6,480",17.7
+8615,FL Hollywood,"6,008",14.5
+8617,FL Clearwater,"3,189",10.0
+8619,FL Fort Lauderdale,"3,855",11.9
+8620,FL Coral Springs,905,5.4
+8621,FL Hialeah,"4,782",17.8
+8622,FL Clearwater,686,8.8
+8624,FL Deerfield Beach,"4,724",8.6
+8625,FL Boca Raton,"1,010",11.8
+8626,FL Fort Lauderdale,"3,392",8.9
+8629,FL Gainesville,"4,976",8.1
+8630,FL Deltona,"5,959",12.2
+8631,FL Clearwater,983,9.3
+8633,FL Gainesville,"2,906",9.1
+8635,FL Clearwater,"5,167",13.7
+8637,FL Fort Lauderdale,"2,722",7.5
+8638,FL Davie,"7,906",7.5
+8639,FL Boynton Beach,"4,843",9.8
+8640,FL Hialeah,"3,900",22.2
+8641,FL Hollywood,"3,843",8.2
+8643,FL Cape Coral,"6,343",8.9
+8644,FL Coral Springs,"5,032",11.7
+8645,FL Hollywood,"1,184",9.1
+8646,FL Clearwater,"4,319",12.0
+8647,FL Gainesville,"6,343",3.9
+8649,FL Fort Lauderdale,"3,403",18.2
+8651,FL Boca Raton,"84,392",8.9
+8654,FL Davie,"91,992",8.4
+8655,FL Boynton Beach,"3,751",7.1
+8657,FL Hialeah,"4,323",18.6
+8659,FL Hollywood,"6,488",8.5
+8660,FL Gainesville,"4,120",4.2
+8661,FL Cape Coral,"154,305",11.2
+8663,FL Gainesville,"1,364",8.4
+8664,FL Cape Coral,"6,721",12.2
+8665,FL Coral Springs,"4,070",7.7
+8667,FL Cape Coral,"2,954",15.3
+8668,FL Hollywood,"2,401",13.1
+8671,FL Deerfield Beach,"4,626",10.4
+8672,FL Davie,"2,545",8.0
+8673,FL Cape Coral,"3,540",12.0
+8674,FL Clearwater,"2,010",17.5
+8676,FL Clearwater,"1,448",8.6
+8677,FL Deltona,"2,254",10.5
+8678,FL Fort Lauderdale,"4,621",19.9
+8680,FL Davie,"3,228",11.6
+8682,FL Coral Springs,"5,713",8.8
+8684,FL Hialeah,"4,923",18.6
+8685,FL Hialeah,"6,256",17.0
+8686,FL Gainesville,"6,914",7.8
+8688,FL Clearwater,"2,712",9.3
+8689,FL Boca Raton,"4,470",6.2
+8690,FL Hialeah,"4,082",18.5
+8691,FL Davie,"5,024",5.9
+8692,FL Hialeah,"6,568",15.3
+8693,FL Deerfield Beach,"5,219",12.8
+8694,FL Hollywood,"6,706",11.7
+8695,FL Fort Lauderdale,"2,890",7.9
+8696,FL Boca Raton,"84,392",7.3
+8697,FL Coral Springs,"121,096",8.6
+8699,FL Cape Coral,"4,933",11.3
+8700,FL Fort Lauderdale,"165,521",10.8
+8702,FL Deerfield Beach,"3,321",14.9
+8703,FL Cape Coral,"4,686",12.8
+8705,FL Fort Lauderdale,"6,592",15.3
+8706,FL Hollywood,"3,942",11.0
+8707,FL Gainesville,"6,438",9.1
+8709,FL Deltona,"85,182",11.1
+8710,FL Gainesville,"3,564",9.1
+8711,FL Boca Raton,"6,318",9.0
+8712,FL Cape Coral,"3,594",12.4
+8713,FL Boca Raton,600,9.8
+8714,FL Deltona,"4,520",11.1
+8715,FL Hialeah,"5,412",17.6
+8716,FL Boynton Beach,"2,161",17.5
+8717,FL Boynton Beach,"1,501",14.9
+8718,FL Hialeah,"7,435",17.2
+8720,FL Fort Lauderdale,"2,366",18.5
+8723,FL Hialeah,"4,864",18.0
+8725,FL Gainesville,"1,188",7.7
+8729,FL Clearwater,"4,027",8.3
+8733,FL Fort Lauderdale,"2,174",9.5
+8734,FL Coral Springs,"3,297",9.3
+8736,FL Fort Lauderdale,"4,493",8.3
+8737,FL Hollywood,"2,687",11.6
+8739,FL Deltona,"6,995",12.3
+8741,FL Deltona,"2,164",10.7
+8743,FL Gainesville,"7,431",4.3
+8744,FL Fort Lauderdale,"1,215",11.8
+8745,FL Fort Lauderdale,"3,260",8.5
+8747,FL Boynton Beach,240,20.5
+8748,FL Coral Springs,"3,652",9.1
+8749,FL Davie,"91,992",8.5
+8751,FL Hialeah,"6,696",17.6
+8753,FL Gainesville,"1,281",3.3
+8754,FL Hollywood,"140,768",9.9
+8755,FL Hialeah,"4,049",20.9
+8757,FL Cape Coral,"2,135",14.0
+8759,FL Boynton Beach,"3,723",10.4
+8762,FL Hialeah,"224,669",17.8
+8763,FL Davie,"7,975",8.9
+8764,FL Clearwater,"1,379",14.0
+8766,FL Fort Lauderdale,"3,467",6.4
+8767,FL Deerfield Beach,"6,577",8.8
+8768,FL Hollywood,"5,839",12.8
+8770,FL Coral Springs,"1,819",7.3
+8771,FL Gainesville,"5,665",12.6
+8773,FL Davie,660,8.1
+8775,FL Hialeah,"3,066",20.2
+8777,FL Hollywood,"5,531",11.5
+8779,FL Hollywood,"4,852",11.4
+8780,FL Cape Coral,"5,940",13.9
+8781,FL Fort Lauderdale,"2,992",7.9
+8782,FL Clearwater,"2,519",8.9
+8783,FL Deltona,"6,936",10.9
+8784,FL Gainesville,"3,418",18.7
+8786,FL Hialeah,"4,855",21.0
+8787,FL Fort Lauderdale,"1,405",8.7
+8788,FL Fort Lauderdale,60,16.9
+8789,FL Deltona,"5,131",12.1
+8790,FL Clearwater,"5,888",10.1
+8792,FL Hialeah,"6,641",17.4
+8794,FL Gainesville,565,16.0
+8797,FL Hialeah,"5,962",14.6
+8798,FL Coral Springs,"6,982",9.3
+8800,FL Gainesville,145,9.5
+8802,FL Clearwater,"1,144",10.7
+8803,FL Davie,288,8.8
+8804,FL Boca Raton,"3,794",8.2
+8805,FL Davie,"6,468",9.1
+8807,FL Boca Raton,"5,012",9.0
+8808,FL Coral Springs,"5,213",8.1
+8809,FL Fort Lauderdale,"6,890",5.8
+8810,FL Deerfield Beach,"75,018",11.7
+8811,FL Gainesville,"1,269",6.4
+8812,FL Clearwater,"107,685",11.2
+8813,FL Boynton Beach,"2,892",8.7
+8814,FL Boca Raton,"3,108",12.0
+8815,FL Fort Lauderdale,"2,879",8.7
+8816,FL Fort Lauderdale,"5,289",8.3
+8817,FL Hollywood,"1,896",10.2
+8818,FL Gainesville,"2,877",2.4
+8819,FL Deltona,"3,958",13.0
+8820,FL Fort Lauderdale,"1,063",11.0
+8822,FL Clearwater,"1,868",10.6
+8823,FL Coral Springs,"5,003",7.9
+8824,FL Fort Lauderdale,"165,521",9.7
+8826,FL Boynton Beach,"4,717",6.8
+8828,FL Hialeah,"7,159",20.4
+8829,FL Fort Lauderdale,"3,241",18.2
+8834,FL Boca Raton,"4,040",9.2
+8835,FL Gainesville,363,14.7
+8836,FL Boca Raton,"2,228",8.2
+8838,FL Deerfield Beach,"7,944",15.3
+8840,FL Clearwater,"2,899",12.7
+8841,FL Cape Coral,"9,067",9.3
+8843,FL Clearwater,"1,363",9.8
+8844,FL Fort Lauderdale,"4,742",8.3
+8845,FL Cape Coral,"6,229",10.7
+8846,FL Hollywood,"3,086",16.1
+8847,FL Deerfield Beach,"3,491",9.6
+8849,FL Hialeah,"3,942",18.8
+8850,FL Hollywood,"140,768",11.0
+8851,FL Fort Lauderdale,"4,254",9.8
+8853,FL Boynton Beach,"5,068",10.4
+8854,FL Davie,"5,379",8.2
+8855,FL Boynton Beach,"2,110",12.1
+8856,FL Coral Springs,"3,172",8.0
+8857,FL Davie,"4,984",7.3
+8858,FL Boynton Beach,109,13.9
+8859,FL Hialeah,"5,501",17.9
+8862,FL Cape Coral,"4,055",12.5
+8863,FL Fort Lauderdale,"3,123",8.2
+8864,FL Hollywood,"4,980",9.9
+8865,FL Hialeah,"5,451",21.1
+8866,FL Coral Springs,"3,068",8.7
+8867,FL Fort Lauderdale,"3,929",8.8
+8868,FL Deerfield Beach,"75,018",9.9
+8869,FL Deerfield Beach,"4,412",9.4
+8871,FL Boca Raton,"2,288",9.4
+8874,FL Cape Coral,"5,283",11.2
+8875,FL Clearwater,93,12.8
+8876,FL Hollywood,"5,595",12.5
+8877,FL Deltona,"4,272",13.0
+8878,FL Cape Coral,"154,305",9.3
+8880,FL Cape Coral,"4,608",10.9
+8881,FL Hollywood,"2,805",12.5
+8882,FL Jacksonville,"5,235",12.4
+8883,FL Lakeland,"2,034",4.8
+8884,FL Orlando,317,5.0
+8885,FL Miami,"6,942",17.6
+8886,FL Palm Bay,"11,661",10.4
+8887,FL Lakeland,"2,171",18.1
+8888,FL Miami,"6,315",18.0
+8889,FL Lauderhill,"3,802",18.2
+8890,FL Jacksonville,"4,777",21.8
+8891,FL Palm Bay,"3,644",14.9
+8892,FL Jacksonville,"3,441",11.6
+8893,FL Palm Coast,"3,975",13.7
+8894,FL Miami,"9,593",16.8
+8895,FL Orlando,"1,492",8.0
+8896,FL Jacksonville,"4,053",11.3
+8897,FL Jacksonville,"6,068",10.7
+8898,FL Jacksonville,"3,169",8.0
+8899,FL Jacksonville,"7,697",9.3
+8900,FL Miami,"3,827",20.8
+8901,FL Largo,"2,962",11.7
+8903,FL Miami Beach,"2,158",7.8
+8904,FL Miami Beach,"2,991",8.9
+8905,FL Lakeland,"3,138",16.5
+8906,FL Melbourne,"2,413",9.5
+8907,FL Orlando,"3,004",21.8
+8908,FL Miami,71,22.7
+8909,FL Jacksonville,"2,621",12.8
+8910,FL Melbourne,"2,616",8.3
+8911,FL Jacksonville,"7,042",7.8
+8912,FL Jacksonville,"6,084",17.6
+8913,FL Miami Gardens,"1,242",12.4
+8914,FL Jacksonville,"2,378",13.8
+8915,FL Miami,"2,837",7.2
+8916,FL Miramar,"3,197",12.3
+8917,FL Palm Bay,"7,216",11.4
+8918,FL Orlando,"1,555",10.9
+8919,FL Lakeland,664,9.7
+8920,FL Lauderhill,"6,806",14.3
+8921,FL Miami,"3,442",6.5
+8922,FL Orlando,788,8.3
+8923,FL Miami Beach,"2,327",8.5
+8924,FL Largo,98,11.2
+8925,FL Jacksonville,"3,512",14.9
+8926,FL Palm Coast,"5,246",12.1
+8927,FL Jacksonville,"2,881",21.4
+8928,FL Jacksonville,"4,659",11.4
+8929,FL Jacksonville,"7,133",12.2
+8930,FL Largo,"3,311",14.2
+8931,FL Miami Gardens,"7,578",12.9
+8932,FL Orlando,"2,691",14.8
+8933,FL Orlando,"6,640",8.1
+8934,FL Miami,"1,592",18.1
+8935,FL Melbourne,"4,561",11.2
+8936,FL Miami,"4,010",16.4
+8937,FL Orlando,"3,142",7.8
+8938,FL Largo,126,6.0
+8939,FL Orlando,"6,302",13.9
+8940,FL Largo,"2,974",13.8
+8941,FL Jacksonville,"3,226",17.9
+8942,FL Jacksonville,"9,233",3.9
+8943,FL Largo,"5,057",10.5
+8944,FL Jacksonville,"3,494",10.1
+8945,FL Miami Beach,"3,812",13.6
+8946,FL Lakeland,707,6.5
+8947,FL Miramar,"10,159",10.5
+8948,FL Miami,"6,998",13.1
+8949,FL Miramar,"8,371",8.8
+8950,FL Orlando,241,9.4
+8951,FL Jacksonville,"3,669",10.9
+8952,FL Jacksonville,"3,964",20.1
+8953,FL Miami,"1,069",3.1
+8954,FL Jacksonville,"6,525",11.4
+8955,FL Jacksonville,"1,722",9.1
+8958,FL Orlando,"2,074",7.6
+8959,FL Miami,"2,295",12.5
+8960,FL Jacksonville,"5,339",10.2
+8961,FL Palm Coast,"5,819",9.1
+8962,FL Jacksonville,"1,543",15.4
+8963,FL Lauderhill,"5,555",13.6
+8964,FL Lakeland,"4,811",11.9
+8965,FL Jacksonville,"9,815",9.4
+8966,FL Miami,"5,733",16.9
+8968,FL Jacksonville,"11,917",10.3
+8969,FL Lakeland,"2,075",22.8
+8970,FL Jacksonville,"2,903",9.5
+8971,FL Miami,"3,336",20.8
+8972,FL Largo,"1,701",8.0
+8973,FL Largo,"1,023",13.6
+8974,FL Orlando,170,9.6
+8975,FL Miami,"399,457",15.2
+8976,FL Jacksonville,"2,608",6.9
+8977,FL Lakeland,"1,348",14.1
+8978,FL Jacksonville,"2,877",19.2
+8979,FL Orlando,"4,252",19.9
+8980,FL Miami Beach,"1,584",15.3
+8981,FL Miami Gardens,"7,643",14.6
+8982,FL Jacksonville,"3,185",7.5
+8983,FL Miramar,"10,560",8.2
+8984,FL Orlando,656,9.8
+8985,FL Jacksonville,"821,784",11.2
+8986,FL Miami,"6,377",18.0
+8987,FL Miami Beach,"4,170",11.8
+8988,FL Jacksonville,"4,151",11.5
+8989,FL Miami,"2,096",15.3
+8990,FL Jacksonville,"2,605",9.6
+8991,FL Miami,"4,129",15.9
+8992,FL Largo,991,9.2
+8993,FL Orlando,"3,805",6.5
+8994,FL Jacksonville,"5,692",10.5
+8995,FL Jacksonville,"5,447",11.1
+8997,FL Miami Beach,"3,127",8.2
+8998,FL Lauderhill,"4,497",16.9
+8999,FL Orlando,72,16.2
+9000,FL Palm Bay,"103,190",10.4
+9001,FL Miami Beach,"2,436",8.9
+9002,FL Jacksonville,"4,349",8.7
+9003,FL Miami,"4,161",15.4
+9005,FL Palm Bay,"8,241",12.4
+9006,FL Orlando,"7,246",11.3
+9007,FL Jacksonville,"5,495",12.0
+9008,FL Orlando,"238,300",11.6
+9009,FL Jacksonville,"3,850",24.8
+9010,FL Miami,"4,544",15.7
+9011,FL Melbourne,"6,764",9.6
+9012,FL Orlando,"2,088",10.3
+9013,FL Lakeland,"4,158",7.3
+9014,FL Jacksonville,"8,257",7.6
+9015,FL Lakeland,"3,309",8.8
+9016,FL Jacksonville,"5,009",7.3
+9017,FL Jacksonville,"5,125",10.5
+9018,FL Miami Beach,"3,790",11.4
+9019,FL Jacksonville,"3,240",13.6
+9020,FL Miami,408,3.5
+9021,FL Jacksonville,"4,856",14.0
+9022,FL Miramar,"5,488",10.4
+9023,FL Miami,"1,756",8.1
+9024,FL Orlando,"6,451",13.5
+9025,FL Miami,"6,062",19.2
+9026,FL Jacksonville,"6,261",6.2
+9027,FL Miami Beach,"2,625",9.3
+9028,FL Orlando,"2,197",18.0
+9029,FL Largo,"4,419",13.2
+9030,FL Orlando,"3,350",8.5
+9031,FL Lakeland,"2,101",12.6
+9032,FL Jacksonville,"7,835",6.9
+9033,FL Miami,"3,690",16.4
+9034,FL Miami Gardens,"4,613",16.5
+9035,FL Lakeland,62,7.4
+9036,FL Jacksonville,"10,618",11.0
+9037,FL Jacksonville,"3,795",22.2
+9038,FL Miami Gardens,"107,167",14.8
+9039,FL Miami,"3,681",10.6
+9040,FL Miramar,"5,540",12.0
+9041,FL Jacksonville,"4,970",21.5
+9042,FL Palm Coast,"2,408",13.7
+9043,FL Miami Beach,"5,062",8.8
+9044,FL Largo,"4,534",11.7
+9045,FL Orlando,"7,058",7.2
+9046,FL Jacksonville,"6,077",8.9
+9047,FL Orlando,"1,642",7.8
+9048,FL Largo,"2,579",17.7
+9049,FL Orlando,"238,300",10.0
+9050,FL Miami,"4,703",19.2
+9051,FL Lakeland,"4,234",12.7
+9052,FL Palm Bay,"9,330",11.9
+9053,FL Jacksonville,"3,395",23.3
+9054,FL Jacksonville,"2,380",15.0
+9055,FL Jacksonville,"1,688",12.7
+9056,FL Palm Coast,"5,523",12.3
+9057,FL Jacksonville,"7,045",14.5
+9058,FL Jacksonville,"8,449",10.7
+9059,FL Miramar,"5,262",9.6
+9060,FL Jacksonville,"2,778",20.5
+9061,FL Jacksonville,"6,238",8.5
+9062,FL Miami,"1,622",9.6
+9063,FL Orlando,"1,128",13.8
+9064,FL Orlando,"4,998",18.5
+9065,FL Miami,"4,204",19.2
+9066,FL Lauderhill,"6,042",12.5
+9067,FL Miami Beach,"87,779",10.4
+9068,FL Miami,"2,815",15.3
+9069,FL Orlando,"3,167",7.5
+9070,FL Orlando,"4,688",8.7
+9071,FL Lakeland,"3,159",9.5
+9072,FL Largo,"1,530",15.2
+9073,FL Jacksonville,"3,678",9.4
+9074,FL Jacksonville,"6,707",7.6
+9075,FL Miami,364,10.3
+9076,FL Miami,"2,553",11.0
+9077,FL Melbourne,"4,107",12.0
+9078,FL Palm Bay,"5,447",12.3
+9079,FL Miramar,"5,272",12.0
+9080,FL Jacksonville,"5,960",8.0
+9081,FL Miramar,"10,083",7.5
+9082,FL Jacksonville,"4,046",12.0
+9083,FL Orlando,"2,315",10.0
+9084,FL Lakeland,"4,098",9.8
+9085,FL Orlando,830,9.8
+9086,FL Orlando,"1,777",8.9
+9087,FL Largo,"77,648",12.2
+9088,FL Jacksonville,"3,362",12.0
+9089,FL Melbourne,"1,157",10.1
+9090,FL Miami,"2,176",17.2
+9091,FL Orlando,165,18.3
+9092,FL Jacksonville,"4,228",9.5
+9093,FL Miami Beach,"2,944",12.1
+9094,FL Orlando,"3,464",13.3
+9095,FL Jacksonville,"4,772",13.3
+9096,FL Palm Coast,"5,866",12.1
+9097,FL Miramar,"23,101",8.1
+9098,FL Miami,"5,647",11.1
+9099,FL Lauderhill,"3,246",13.5
+9100,FL Miami Gardens,"6,465",16.1
+9101,FL Miami,"5,461",18.7
+9102,FL Miami,"6,893",17.1
+9103,FL Orlando,"2,157",10.9
+9104,FL Lakeland,"1,874",21.0
+9105,FL Miami Beach,"2,978",6.8
+9107,FL Jacksonville,"9,609",9.2
+9108,FL Jacksonville,"2,487",11.8
+9109,FL Melbourne,"2,420",11.6
+9110,FL Largo,493,11.2
+9111,FL Lauderhill,"5,095",15.7
+9112,FL Jacksonville,"5,546",10.1
+9113,FL Jacksonville,"2,633",3.9
+9114,FL Largo,"1,343",10.7
+9115,FL Miami,"1,630",18.0
+9116,FL Orlando,"1,946",10.7
+9117,FL Palm Bay,"103,190",11.9
+9118,FL Jacksonville,"2,911",11.5
+9119,FL Jacksonville,"5,745",14.5
+9121,FL Jacksonville,"6,804",9.8
+9122,FL Jacksonville,"4,854",9.3
+9123,FL Jacksonville,"7,077",8.5
+9124,FL Jacksonville,"821,784",11.3
+9125,FL Miami Gardens,650,17.4
+9127,FL Jacksonville,"5,767",13.3
+9128,FL Jacksonville,"4,869",10.1
+9129,FL Miami,"2,909",19.0
+9130,FL Palm Bay,"5,182",11.8
+9131,FL Jacksonville,"11,983",7.2
+9132,FL Largo,165,9.8
+9133,FL Melbourne,"6,243",9.8
+9134,FL Miami,"3,479",16.8
+9135,FL Palm Coast,"75,180",12.4
+9136,FL Melbourne,"3,300",19.0
+9137,FL Jacksonville,"4,862",9.4
+9138,FL Miami,"7,327",14.1
+9139,FL Orlando,276,4.5
+9140,FL Miami,"4,002",6.2
+9141,FL Lakeland,"4,552",15.5
+9142,FL Miami Gardens,"6,504",15.9
+9143,FL Miami,"6,956",16.4
+9144,FL Lauderhill,"66,887",14.0
+9145,FL Jacksonville,"11,511",7.4
+9146,FL Miami,"3,655",16.1
+9148,FL Largo,268,14.5
+9149,FL Jacksonville,"2,927",7.8
+9150,FL Jacksonville,"7,929",10.4
+9151,FL Jacksonville,"3,424",10.1
+9152,FL Orlando,"2,063",13.0
+9153,FL Lakeland,"3,057",15.8
+9154,FL Orlando,"6,604",8.5
+9155,FL Jacksonville,"7,255",15.8
+9156,FL Jacksonville,"5,108",9.5
+9157,FL Miami Beach,"4,106",14.7
+9158,FL Miami Gardens,"2,043",21.1
+9159,FL Jacksonville,"4,147",22.1
+9160,FL Palm Bay,"6,849",13.5
+9161,FL Miami Gardens,"5,232",13.7
+9162,FL Jacksonville,"2,405",20.3
+9163,FL Miami,"3,387",18.2
+9164,FL Palm Bay,"6,760",10.1
+9165,FL Miami,"2,403",13.6
+9166,FL Orlando,"4,821",7.6
+9167,FL Largo,"1,085",9.8
+9168,FL Melbourne,"2,562",9.0
+9169,FL Miami,"5,323",16.0
+9170,FL Lakeland,"2,034",10.2
+9171,FL Palm Coast,"7,924",10.8
+9172,FL Miami,"4,416",18.2
+9173,FL Jacksonville,"4,555",8.3
+9174,FL Miami,"3,027",21.5
+9175,FL Orlando,"4,707",5.6
+9176,FL Melbourne,"3,624",15.5
+9177,FL Miami,"5,527",9.8
+9178,FL Largo,"77,648",9.2
+9179,FL Miami Beach,"1,836",10.6
+9180,FL Jacksonville,"6,161",14.2
+9181,FL Miami Gardens,"4,645",14.4
+9182,FL Lakeland,"1,848",13.8
+9183,FL Jacksonville,"4,239",11.3
+9184,FL Jacksonville,"4,201",9.1
+9185,FL Miami,"5,780",13.6
+9186,FL Jacksonville,"3,412",13.4
+9187,FL Miami Gardens,"5,336",12.6
+9188,FL Lakeland,"3,578",9.3
+9189,FL Lakeland,"1,632",9.9
+9190,FL Miami,"5,344",18.0
+9191,FL Jacksonville,"3,840",19.9
+9192,FL Orlando,"2,829",8.4
+9193,FL Miami,"3,932",19.9
+9194,FL Miami,"5,388",17.9
+9195,FL Orlando,"10,808",5.7
+9196,FL Lakeland,"2,466",10.1
+9197,FL Miami,826,10.5
+9198,FL Miami,"5,270",14.0
+9200,FL Jacksonville,"5,069",11.0
+9201,FL Miramar,"122,041",9.8
+9202,FL Jacksonville,"2,145",8.8
+9203,FL Jacksonville,"3,955",14.6
+9204,FL Miami,"6,076",19.8
+9205,FL Largo,"1,579",14.1
+9206,FL Orlando,291,15.1
+9207,FL Miami Gardens,"6,370",15.6
+9208,FL Orlando,"2,339",16.4
+9209,FL Jacksonville,"4,234",9.5
+9210,FL Largo,"2,069",12.7
+9211,FL Miami,"3,542",18.6
+9212,FL Jacksonville,"3,898",11.9
+9213,FL Orlando,"3,173",6.1
+9214,FL Jacksonville,"9,281",7.2
+9215,FL Miami,592,18.3
+9216,FL Melbourne,"76,068",9.8
+9217,FL Orlando,"2,629",5.4
+9218,FL Jacksonville,"3,592",9.9
+9219,FL Jacksonville,"7,468",8.6
+9220,FL Jacksonville,"3,281",20.7
+9221,FL Lakeland,"3,221",12.0
+9222,FL Miami,347,15.4
+9223,FL Jacksonville,"4,426",8.6
+9224,FL Jacksonville,"6,459",12.8
+9225,FL Melbourne,"4,920",11.5
+9226,FL Miami Gardens,"4,693",14.8
+9227,FL Palm Bay,119,11.5
+9228,FL Miami,"1,561",4.4
+9229,FL Orlando,"5,656",10.1
+9230,FL Lakeland,"97,422",13.1
+9231,FL Miami,"3,817",8.5
+9232,FL Lauderhill,"1,523",11.6
+9234,FL Orlando,"4,445",13.0
+9235,FL Orlando,"7,599",11.9
+9236,FL Miami,"1,258",4.1
+9237,FL Orlando,"1,524",12.9
+9238,FL Miami,"6,368",5.6
+9239,FL Miami,"3,260",16.7
+9240,FL Miami Beach,"3,152",7.8
+9241,FL Lauderhill,"2,194",10.2
+9242,FL Jacksonville,"3,463",12.1
+9243,FL Jacksonville,"3,422",17.6
+9244,FL Palm Coast,"3,826",15.2
+9245,FL Miami Beach,"1,932",11.1
+9246,FL Jacksonville,"2,203",10.2
+9247,FL Miami,"3,798",18.3
+9248,FL Jacksonville,"3,390",11.0
+9249,FL Miami Beach,"87,779",10.1
+9250,FL Jacksonville,"5,677",9.6
+9251,FL Largo,"1,325",14.0
+9252,FL Melbourne,"4,393",11.2
+9253,FL Melbourne,"2,316",10.9
+9254,FL Jacksonville,"3,121",15.4
+9255,FL Orlando,"2,035",9.9
+9256,FL Miami,"4,853",18.1
+9257,FL Jacksonville,"1,426",23.9
+9258,FL Palm Coast,"75,180",9.3
+9259,FL Lakeland,"4,276",13.2
+9260,FL Jacksonville,"2,284",15.8
+9261,FL Jacksonville,"4,681",10.4
+9262,FL Palm Coast,"4,317",14.5
+9263,FL Largo,"2,370",10.5
+9264,FL Orlando,"4,319",7.6
+9265,FL Miami Beach,"4,237",12.1
+9266,FL Orlando,"2,709",10.4
+9267,FL Miami,"2,229",8.1
+9268,FL Miramar,"10,952",8.3
+9269,FL Palm Bay,"4,753",10.9
+9270,FL Jacksonville,"7,115",10.3
+9271,FL Jacksonville,"2,496",21.1
+9272,FL Miami Gardens,"5,546",14.2
+9273,FL Miami Beach,"3,000",10.7
+9274,FL Jacksonville,"5,396",11.9
+9275,FL Lauderhill,"6,061",14.3
+9276,FL Miami,"3,582",18.6
+9277,FL Orlando,"3,743",6.2
+9278,FL Miami,"2,320",17.9
+9279,FL Jacksonville,"7,685",10.0
+9280,FL Miami,"5,735",12.0
+9281,FL Miami,"5,752",16.2
+9282,FL Jacksonville,"7,179",9.9
+9283,FL Lauderhill,"66,887",13.7
+9284,FL Jacksonville,"2,947",12.1
+9285,FL Miami,"3,421",17.7
+9286,FL Miami,"6,293",18.0
+9287,FL Miami,"1,178",8.1
+9288,FL Miami Beach,"2,930",9.2
+9289,FL Lakeland,"3,710",11.1
+9290,FL Palm Bay,"12,266",11.4
+9291,FL Lauderhill,"2,828",15.4
+9292,FL Jacksonville,"2,440",11.9
+9293,FL Melbourne,510,7.4
+9294,FL Miami,"2,453",10.9
+9295,FL Melbourne,"3,259",9.6
+9296,FL Orlando,"4,665",5.9
+9297,FL Largo,"3,921",10.7
+9298,FL Largo,"3,382",10.2
+9299,FL Jacksonville,"2,038",14.0
+9300,FL Largo,"3,893",16.4
+9301,FL Palm Coast,"7,274",12.5
+9302,FL Lakeland,"2,015",19.7
+9303,FL Lakeland,"1,731",18.1
+9304,FL Orlando,"4,618",7.4
+9305,FL Miami Gardens,"8,862",11.4
+9306,FL Miami,"1,592",5.8
+9307,FL Jacksonville,"6,495",10.3
+9308,FL Miramar,"4,992",11.6
+9309,FL Jacksonville,"3,703",14.5
+9310,FL Orlando,"2,401",15.9
+9311,FL Melbourne,"5,786",11.1
+9312,FL Miami,"1,659",15.6
+9313,FL Largo,"2,952",11.2
+9314,FL Miami,"4,963",18.7
+9315,FL Jacksonville,"6,925",14.4
+9316,FL Orlando,108,11.5
+9317,FL Miami,"4,450",17.4
+9318,FL Palm Bay,"6,262",12.8
+9319,FL Jacksonville,"5,017",22.0
+9320,FL Miami Gardens,"107,167",14.7
+9321,FL Lauderhill,"6,781",9.9
+9322,FL Miami,"7,881",18.5
+9323,FL Miami,"3,813",17.0
+9324,FL Jacksonville,"7,977",7.9
+9325,FL Jacksonville,"7,527",8.4
+9326,FL Orlando,"1,232",10.1
+9327,FL Miami Gardens,"2,259",18.4
+9328,FL Miami,"3,769",19.1
+9329,FL Lakeland,"2,077",22.7
+9330,FL Jacksonville,"8,935",9.4
+9331,FL Orlando,"4,086",18.2
+9332,FL Palm Bay,"6,864",12.6
+9333,FL Jacksonville,"3,629",16.6
+9334,FL Jacksonville,"5,845",9.7
+9335,FL Miramar,"4,729",12.2
+9336,FL Jacksonville,"14,437",12.3
+9337,FL Miami,"2,331",18.7
+9338,FL Largo,"3,220",10.7
+9339,FL Orlando,"4,631",11.2
+9340,FL Orlando,"6,290",5.8
+9341,FL Jacksonville,"6,908",9.7
+9342,FL Miami Beach,"2,612",11.3
+9343,FL Miami,"3,573",12.4
+9344,FL Jacksonville,"2,934",11.9
+9345,FL Melbourne,"2,838",13.2
+9346,FL Miami,458,12.7
+9347,FL Miami,"5,160",23.3
+9348,FL Melbourne,"76,068",11.6
+9349,FL Largo,"1,352",10.2
+9350,FL Lakeland,"3,412",10.0
+9351,FL Miami,"4,655",6.0
+9352,FL Lauderhill,"1,880",15.3
+9353,FL Jacksonville,"2,196",24.7
+9354,FL Palm Coast,"6,321",13.7
+9355,FL Miami,"6,305",18.5
+9356,FL Orlando,"3,197",6.4
+9357,FL Jacksonville,"2,311",3.5
+9358,FL Jacksonville,"5,764",9.4
+9359,FL Lauderhill,"5,638",18.2
+9360,FL Miami Beach,"4,825",5.5
+9361,FL Miami,"3,412",20.9
+9362,FL Miami,"2,451",19.4
+9363,FL Miami,"3,781",21.4
+9364,FL Lauderhill,"4,939",10.3
+9365,FL Melbourne,"5,710",11.7
+9367,FL Orlando,"4,051",8.3
+9368,FL Jacksonville,"12,821",7.1
+9370,FL Lakeland,732,7.5
+9371,FL Miami Beach,"4,953",12.3
+9372,FL Miami,"2,705",16.4
+9373,FL Jacksonville,"4,953",11.8
+9374,FL Miami,"8,883",12.6
+9375,FL Jacksonville,"5,483",16.5
+9376,FL Miami Gardens,"1,313",19.3
+9377,FL Miramar,"5,070",13.1
+9378,FL Jacksonville,"1,874",9.5
+9379,FL Jacksonville,"3,320",10.2
+9380,FL Lakeland,"1,254",10.6
+9381,FL Jacksonville,"3,998",17.9
+9382,FL Palm Bay,274,6.5
+9383,FL Lakeland,"3,513",13.2
+9384,FL Miami,"2,576",15.5
+9385,FL Jacksonville,"7,388",12.5
+9386,FL Jacksonville,"6,000",9.6
+9387,FL Miramar,"122,041",11.0
+9388,FL Jacksonville,"2,611",7.9
+9389,FL Jacksonville,"2,915",10.6
+9390,FL Largo,"4,475",8.8
+9391,FL Jacksonville,353,8.3
+9392,FL Miami Gardens,"7,668",16.1
+9393,FL Miami,"2,861",5.0
+9394,FL Jacksonville,"5,397",18.4
+9395,FL Miami,"7,230",23.3
+9396,FL Miami Gardens,"3,082",12.1
+9397,FL Palm Coast,"4,039",13.1
+9398,FL Lakeland,"3,737",20.6
+9399,FL Jacksonville,"3,148",12.6
+9400,FL Miami Beach,59,1.5
+9401,FL Orlando,"1,224",22.7
+9402,FL Largo,"1,484",11.0
+9403,FL Miami,"3,190",14.9
+9404,FL Lakeland,896,5.8
+9405,FL Lakeland,167,8.8
+9406,FL Jacksonville,"9,820",6.5
+9407,FL Miami Beach,"4,298",12.7
+9408,FL Miami,"2,642",8.2
+9409,FL Miami Gardens,"1,473",16.7
+9410,FL Jacksonville,"4,120",10.4
+9411,FL Jacksonville,"5,263",12.4
+9412,FL Palm Bay,"8,322",11.8
+9413,FL Lakeland,"2,767",13.6
+9414,FL Miami Gardens,"3,419",17.9
+9415,FL Jacksonville,"4,311",10.2
+9416,FL Orlando,"4,596",12.5
+9417,FL Miami,"2,920",6.0
+9418,FL Jacksonville,"4,477",12.1
+9419,FL Orlando,"4,121",4.7
+9420,FL Largo,259,9.5
+9421,FL Orlando,160,14.1
+9422,FL Miami,"9,431",5.0
+9423,FL Miami,"3,776",9.8
+9424,FL Miramar,"5,912",11.6
+9425,FL Orlando,"1,262",23.1
+9426,FL Miami Gardens,"5,283",13.4
+9427,FL Lakeland,"97,422",11.3
+9428,FL Orlando,"5,712",7.5
+9429,FL Miami Beach,"2,014",15.0
+9430,FL Lakeland,"3,303",17.5
+9431,FL Jacksonville,"10,076",8.8
+9432,FL Orlando,"2,852",8.1
+9433,FL Largo,"6,002",12.7
+9434,FL Jacksonville,"4,476",7.6
+9435,FL Palm Coast,"6,965",10.8
+9436,FL Lakeland,"1,484",18.1
+9437,FL Miami Beach,"2,699",7.8
+9438,FL Miami Gardens,"5,247",13.7
+9439,FL Largo,"3,010",14.1
+9440,FL Jacksonville,"5,217",9.6
+9441,FL Jacksonville,"4,491",8.6
+9442,FL Miami Beach,"2,733",14.1
+9443,FL Orlando,713,9.3
+9444,FL Jacksonville,"4,017",16.1
+9445,FL Miami,"7,034",17.4
+9446,FL Jacksonville,"4,551",10.5
+9447,FL Jacksonville,"3,414",9.4
+9448,FL Orlando,244,13.5
+9449,FL Orlando,"5,850",8.0
+9450,FL Miramar,"3,353",13.2
+9452,FL Jacksonville,"7,368",8.9
+9453,FL Melbourne,"2,486",21.9
+9454,FL Miami,"5,485",17.9
+9455,FL Orlando,84,10.5
+9456,FL Jacksonville,"3,057",11.8
+9457,FL Palm Coast,"3,663",12.9
+9458,FL Jacksonville,"3,041",9.6
+9459,FL Palm Coast,"2,012",10.6
+9460,FL Orlando,631,7.6
+9461,FL Orlando,"3,390",13.5
+9462,FL Miami Beach,"2,389",5.9
+9463,FL Jacksonville,"4,225",21.5
+9464,FL Melbourne,92,5.5
+9465,FL Orlando,"2,055",5.4
+9466,FL Jacksonville,"2,554",13.6
+9467,FL Largo,"1,565",11.0
+9468,FL Miami,"399,457",14.4
+9469,FL Jacksonville,"5,389",10.7
+9470,FL Largo,111,10.9
+9471,FL Orlando,"3,655",10.3
+9472,FL Jacksonville,"8,893",9.4
+9473,FL St. Petersburg,"2,300",12.7
+9474,FL Tampa,"2,792",10.7
+9475,FL Tampa,"4,825",13.6
+9476,FL Tallahassee,"2,499",16.3
+9477,FL St. Petersburg,"3,333",13.1
+9478,FL Sunrise,546,5.7
+9479,FL Tallahassee,"7,310",5.6
+9481,FL Port St. Lucie,"3,909",11.2
+9482,FL Tampa,"2,071",17.2
+9483,FL Pembroke Pines,"5,276",9.9
+9484,FL St. Petersburg,"244,769",9.7
+9485,FL Port St. Lucie,"14,229",10.2
+9487,FL St. Petersburg,"3,775",8.0
+9488,FL Tallahassee,"3,628",6.3
+9492,FL West Palm Beach,863,10.6
+9493,FL Plantation,"84,955",8.8
+9494,FL Tampa,"6,224",5.7
+9498,FL St. Petersburg,"2,599",9.7
+9500,FL Plantation,"4,266",9.2
+9502,FL St. Petersburg,"2,332",7.9
+9504,FL St. Petersburg,"3,511",8.4
+9505,FL Pembroke Pines,"8,743",8.1
+9506,FL Tallahassee,"2,018",6.2
+9507,FL Tampa,"2,166",10.8
+9509,FL Pompano Beach,"1,550",12.1
+9510,FL Tampa,"5,093",16.1
+9511,FL Pembroke Pines,"6,407",12.5
+9512,FL Tampa,"1,931",5.2
+9514,FL Tampa,"3,042",7.4
+9515,FL Sunrise,"3,718",15.8
+9516,FL Tallahassee,"4,791",5.8
+9517,FL Tampa,"2,673",17.3
+9518,FL Tallahassee,"3,326",2.4
+9519,FL West Palm Beach,"5,322",11.7
+9521,FL Tampa,"3,982",7.2
+9522,FL West Palm Beach,"5,482",8.6
+9524,FL Tallahassee,"4,273",8.7
+9527,FL Tampa,"3,736",9.2
+9528,FL Tampa,"2,412",7.7
+9530,FL Tallahassee,"181,376",7.0
+9531,FL St. Petersburg,"3,591",10.4
+9532,FL West Palm Beach,"3,694",20.6
+9534,FL St. Petersburg,"5,115",10.2
+9535,FL Sunrise,"3,038",8.6
+9536,FL Tallahassee,"2,144",6.3
+9538,FL Tampa,178,9.5
+9539,FL West Palm Beach,"6,469",7.3
+9541,FL St. Petersburg,"4,556",9.6
+9543,FL St. Petersburg,"3,550",20.4
+9544,FL St. Petersburg,"3,720",19.0
+9545,FL Tampa,"3,587",7.2
+9546,FL Pompano Beach,"3,496",9.3
+9549,FL Pembroke Pines,"5,408",7.6
+9550,FL St. Petersburg,"3,628",10.6
+9552,FL Pompano Beach,"3,534",11.9
+9554,FL Tampa,"2,416",18.8
+9555,FL Tampa,"3,733",6.3
+9556,FL West Palm Beach,"3,463",8.2
+9557,FL Tallahassee,"2,735",8.0
+9558,FL West Palm Beach,"1,361",8.1
+9559,FL Tampa,"2,831",19.6
+9563,FL Sunrise,"84,439",11.2
+9565,FL Port St. Lucie,"7,159",10.1
+9567,FL West Palm Beach,"2,999",10.0
+9568,FL Tallahassee,"3,280",8.6
+9569,FL Sunrise,"1,442",7.6
+9570,FL Pompano Beach,"4,499",9.2
+9571,FL Tallahassee,"2,973",6.3
+9572,FL St. Petersburg,"5,097",10.0
+9573,FL St. Petersburg,"2,529",9.4
+9579,FL St. Petersburg,"4,797",9.6
+9580,FL Pembroke Pines,"4,484",8.8
+9581,FL Tallahassee,"3,313",5.5
+9584,FL Tampa,"3,792",13.3
+9585,FL St. Petersburg,"3,328",15.7
+9586,FL Pompano Beach,"2,553",11.9
+9587,FL St. Petersburg,"3,327",8.6
+9588,FL West Palm Beach,596,11.1
+9589,FL Tallahassee,"5,725",6.5
+9590,FL Tampa,"3,779",10.3
+9591,FL Tallahassee,696,5.6
+9592,FL Pembroke Pines,"7,225",10.2
+9593,FL Tampa,140,30.9
+9594,FL Tampa,"2,796",16.2
+9599,FL St. Petersburg,"5,359",7.1
+9601,FL Plantation,"5,997",10.4
+9602,FL Tampa,"4,244",16.2
+9605,FL Port St. Lucie,"20,218",12.9
+9606,FL Tampa,574,13.5
+9607,FL Plantation,"2,757",8.8
+9608,FL Pembroke Pines,"3,063",9.2
+9610,FL Tampa,"2,567",12.8
+9611,FL St. Petersburg,"3,097",12.5
+9612,FL Tampa,"2,386",4.6
+9613,FL Pompano Beach,"3,584",18.6
+9614,FL Pembroke Pines,"7,165",6.8
+9616,FL St. Petersburg,"2,996",7.5
+9617,FL Tampa,740,3.9
+9618,FL Tampa,"5,271",6.3
+9619,FL Pompano Beach,"3,017",18.3
+9620,FL Tampa,"3,125",6.6
+9622,FL Tampa,"3,052",21.0
+9623,FL St. Petersburg,"4,032",9.9
+9625,FL Pembroke Pines,"3,882",8.9
+9626,FL Tampa,"1,783",8.6
+9627,FL Tallahassee,"5,016",6.7
+9628,FL Pembroke Pines,"3,427",12.8
+9629,FL Pompano Beach,"3,838",11.3
+9630,FL Tampa,"4,308",5.6
+9631,FL West Palm Beach,"3,124",11.3
+9632,FL Tampa,"5,214",7.7
+9633,FL Tampa,"6,888",16.7
+9634,FL Sunrise,598,9.5
+9635,FL Tallahassee,"1,314",11.9
+9636,FL Tampa,"3,753",7.5
+9637,FL Pompano Beach,"3,542",10.0
+9639,FL Sunrise,"2,750",12.5
+9640,FL West Palm Beach,"3,126",6.8
+9642,FL Tampa,"1,494",12.0
+9645,FL Port St. Lucie,"6,600",13.0
+9646,FL Port St. Lucie,"7,147",9.4
+9647,FL Tampa,"3,539",8.8
+9648,FL St. Petersburg,"1,651",12.4
+9649,FL Pembroke Pines,"10,245",9.0
+9650,FL Tallahassee,"3,737",6.3
+9652,FL West Palm Beach,"3,575",12.3
+9653,FL Tampa,142,15.4
+9654,FL West Palm Beach,"99,919",11.6
+9658,FL St. Petersburg,"2,052",18.0
+9660,FL Port St. Lucie,"5,786",11.8
+9661,FL St. Petersburg,"3,843",9.9
+9662,FL Tampa,"1,923",7.5
+9663,FL Pembroke Pines,"6,417",10.1
+9666,FL Tampa,"4,871",19.2
+9667,FL Tallahassee,545,4.6
+9670,FL St. Petersburg,"2,395",10.9
+9671,FL St. Petersburg,"5,358",10.7
+9673,FL Sunrise,"4,797",8.0
+9674,FL Tallahassee,"4,475",7.1
+9675,FL Tampa,"2,463",18.6
+9676,FL St. Petersburg,"3,481",9.8
+9677,FL Tallahassee,"3,472",4.7
+9679,FL St. Petersburg,"6,996",5.3
+9681,FL St. Petersburg,"3,338",9.4
+9682,FL Tallahassee,"1,998",9.4
+9683,FL West Palm Beach,"4,958",16.3
+9686,FL Tampa,"1,435",12.8
+9689,FL Tallahassee,"2,393",5.1
+9692,FL Plantation,"3,934",7.8
+9694,FL Tampa,"7,000",12.5
+9695,FL Tampa,"3,533",5.0
+9698,FL St. Petersburg,"4,945",8.1
+9699,FL Plantation,"6,543",7.7
+9700,FL Pembroke Pines,"4,521",9.2
+9703,FL St. Petersburg,"3,982",11.3
+9705,FL Tampa,"1,844",2.9
+9706,FL Tampa,"3,264",13.1
+9708,FL Sunrise,"84,439",10.3
+9712,FL Port St. Lucie,"4,473",11.1
+9713,FL Pompano Beach,"7,181",13.6
+9714,FL Tampa,"3,699",17.7
+9715,FL Tallahassee,"1,613",14.5
+9717,FL Tampa,"2,729",18.0
+9718,FL St. Petersburg,"2,882",17.7
+9719,FL Plantation,237,12.6
+9720,FL Plantation,"4,409",7.6
+9722,FL Tampa,"3,630",6.4
+9726,FL Plantation,"4,206",11.5
+9730,FL Tampa,"3,526",5.8
+9731,FL Tallahassee,874,7.1
+9732,FL Pompano Beach,"3,202",11.1
+9734,FL St. Petersburg,"3,838",9.3
+9736,FL Tampa,"3,886",13.5
+9737,FL Tampa,"3,964",11.4
+9738,FL Tampa,"1,975",13.4
+9739,FL Sunrise,"5,882",9.2
+9740,FL Tallahassee,563,2.0
+9741,FL St. Petersburg,"2,427",12.1
+9746,FL Pembroke Pines,"6,736",8.6
+9748,FL Tampa,"3,670",7.1
+9749,FL Pompano Beach,"7,134",16.7
+9750,FL Tampa,"3,768",9.9
+9751,FL Pompano Beach,"1,739",11.1
+9754,FL Tampa,"3,057",8.9
+9755,FL Tallahassee,"2,004",8.1
+9756,FL Port St. Lucie,"164,603",11.1
+9757,FL Tampa,"5,706",14.1
+9758,FL West Palm Beach,"1,048",9.2
+9759,FL Tallahassee,"7,383",4.2
+9760,FL Sunrise,"4,607",17.6
+9761,FL Port St. Lucie,"21,785",9.5
+9762,FL West Palm Beach,"1,571",16.8
+9763,FL Port St. Lucie,"4,890",11.6
+9769,FL Pompano Beach,"4,686",11.8
+9770,FL St. Petersburg,"3,969",10.3
+9772,FL St. Petersburg,"2,774",11.3
+9775,FL Pembroke Pines,"7,569",24.5
+9776,FL Tampa,103,6.6
+9777,FL St. Petersburg,"4,802",9.4
+9778,FL Tallahassee,"3,648",7.3
+9785,FL Tampa,"1,643",4.1
+9786,FL St. Petersburg,"3,153",11.0
+9788,FL Sunrise,"5,312",11.2
+9789,FL Tampa,"5,471",6.4
+9791,FL St. Petersburg,"4,381",11.5
+9793,FL Pompano Beach,"6,241",12.3
+9794,FL Tampa,"3,285",16.6
+9795,FL Tampa,"3,073",5.9
+9796,FL Tallahassee,"5,121",6.3
+9797,FL St. Petersburg,"2,032",14.9
+9798,FL West Palm Beach,"4,387",11.9
+9800,FL Pembroke Pines,"3,452",8.4
+9801,FL Tallahassee,"2,188",10.7
+9802,FL Tallahassee,"4,675",5.4
+9803,FL Pompano Beach,"2,300",10.0
+9804,FL Sunrise,"5,271",15.7
+9807,FL Port St. Lucie,"5,366",8.5
+9808,FL Tallahassee,"1,546",8.1
+9809,FL West Palm Beach,"3,882",12.4
+9811,FL Plantation,"5,501",8.2
+9813,FL West Palm Beach,"99,919",11.0
+9815,FL Port St. Lucie,"5,915",11.7
+9816,FL Port St. Lucie,548,12.8
+9817,FL Tampa,"1,047",15.3
+9819,FL Plantation,"3,252",7.0
+9820,FL Plantation,"7,847",7.4
+9821,FL Pembroke Pines,"6,315",9.9
+9823,FL Tampa,"5,031",7.3
+9824,FL Tampa,"1,965",14.9
+9825,FL Tampa,"5,724",15.1
+9827,FL Pembroke Pines,256,10.8
+9828,FL Pompano Beach,"6,199",10.1
+9829,FL Tampa,"335,709",10.6
+9830,FL Sunrise,"4,650",8.9
+9831,FL Tampa,"2,308",12.8
+9832,FL Tampa,"1,784",12.4
+9833,FL Tampa,"1,134",7.7
+9836,FL Tallahassee,"2,072",8.0
+9837,FL Tampa,"1,055",13.7
+9838,FL West Palm Beach,"4,750",13.4
+9839,FL Pembroke Pines,"154,750",9.5
+9840,FL Pembroke Pines,"5,860",10.2
+9841,FL Port St. Lucie,"8,658",10.6
+9843,FL Tallahassee,"4,126",5.0
+9844,FL Tampa,"3,100",11.2
+9845,FL Tampa,"1,549",3.5
+9848,FL St. Petersburg,"5,019",10.1
+9849,FL Tallahassee,"2,433",2.7
+9851,FL Pompano Beach,"99,845",10.4
+9852,FL Tampa,214,1.4
+9853,FL Plantation,"4,510",8.4
+9854,FL Port St. Lucie,"6,981",10.7
+9855,FL Pompano Beach,"8,694",11.6
+9856,FL Tallahassee,"3,858",14.1
+9859,FL Tallahassee,"7,193",8.4
+9860,FL West Palm Beach,"1,201",8.3
+9862,FL St. Petersburg,"3,095",8.3
+9864,FL Plantation,"3,402",6.7
+9867,FL Tampa,413,11.9
+9868,FL Pembroke Pines,"3,787",9.8
+9869,FL Pembroke Pines,"154,750",10.5
+9870,FL Tampa,"4,363",7.3
+9871,FL St. Petersburg,"1,883",10.6
+9872,FL St. Petersburg,"3,604",9.6
+9873,FL Pompano Beach,"2,641",9.7
+9875,FL Tampa,"5,381",7.6
+9877,FL St. Petersburg,"4,651",18.2
+9879,FL Tampa,"1,580",9.4
+9880,FL Tampa,"2,063",18.5
+9881,FL Tallahassee,"4,323",8.7
+9883,FL Tampa,"2,245",11.9
+9885,FL West Palm Beach,"4,109",15.6
+9886,FL Tampa,"2,583",13.3
+9887,FL Pembroke Pines,"5,182",8.3
+9888,FL Tampa,"4,184",10.9
+9891,FL St. Petersburg,"3,568",9.6
+9895,FL Tampa,"5,340",6.0
+9897,FL St. Petersburg,"2,017",9.3
+9898,FL Tallahassee,"1,996",7.9
+9899,FL Sunrise,"3,110",9.6
+9901,FL Sunrise,"6,651",9.2
+9902,FL West Palm Beach,"3,389",9.5
+9904,FL St. Petersburg,"2,590",9.8
+9905,FL Tampa,703,20.6
+9907,FL Tampa,"3,491",9.2
+9908,FL Port St. Lucie,"164,603",9.6
+9909,FL St. Petersburg,"2,600",11.6
+9912,FL Pembroke Pines,"2,323",20.9
+9913,FL Tallahassee,"2,692",11.5
+9915,FL Plantation,"6,270",12.9
+9916,FL Pompano Beach,"2,870",12.4
+9917,FL Tallahassee,"6,552",1.5
+9918,FL St. Petersburg,"2,724",10.8
+9920,FL Tallahassee,426,9.6
+9923,FL West Palm Beach,"2,566",11.2
+9924,FL Port St. Lucie,"11,824",11.6
+9927,FL West Palm Beach,"3,455",14.6
+9931,FL Port St. Lucie,"2,516",13.1
+9932,FL Tallahassee,"6,007",7.5
+9934,FL Port St. Lucie,"6,509",9.8
+9935,FL Pompano Beach,"3,515",9.5
+9938,FL Tallahassee,"181,376",9.8
+9940,FL West Palm Beach,"1,833",19.2
+9941,FL Plantation,515,7.8
+9942,FL Tampa,"5,160",2.3
+9944,FL St. Petersburg,"3,221",7.3
+9946,FL Tampa,"5,505",6.0
+9947,FL Tallahassee,"3,932",8.1
+9948,FL Plantation,"3,159",9.4
+9950,FL Pembroke Pines,"6,392",9.2
+9951,FL Tampa,"1,835",17.2
+9952,FL Tampa,"4,462",14.0
+9954,FL Tallahassee,439,7.0
+9955,FL Tampa,"5,465",7.2
+9956,FL Tampa,"2,879",12.3
+9957,FL West Palm Beach,"6,293",9.3
+9959,FL Tallahassee,114,8.0
+9960,FL Plantation,"84,955",8.2
+9961,FL Tallahassee,"2,932",11.6
+9962,FL St. Petersburg,"4,715",12.8
+9963,FL Tampa,"2,914",15.6
+9964,FL Tampa,"6,637",15.0
+9965,FL Sunrise,"6,846",7.0
+9966,FL St. Petersburg,"3,192",4.8
+9967,FL Sunrise,"4,093",17.0
+9968,FL St. Petersburg,"4,561",10.1
+9972,FL St. Petersburg,"2,588",7.2
+9973,FL St. Petersburg,"244,769",10.9
+9974,FL Tampa,"5,238",7.7
+9978,FL Pembroke Pines,"5,517",7.6
+9981,FL Tampa,153,7.0
+9982,FL West Palm Beach,"5,679",14.3
+9983,FL Port St. Lucie,"5,869",12.1
+9984,FL Plantation,"6,166",8.7
+9986,FL Pompano Beach,"99,845",11.9
+9988,FL Tampa,"3,830",7.4
+9989,FL Tallahassee,"3,035",10.5
+9990,FL Pembroke Pines,"6,533",9.0
+9991,FL St. Petersburg,"3,916",18.8
+9993,FL Tampa,"335,709",11.2
+9994,FL Sunrise,"6,655",11.3
+9995,FL St. Petersburg,"5,165",9.1
+9997,FL Tallahassee,"1,072",6.9
+9998,FL Pompano Beach,"4,212",10.6
+9999,FL Tampa,"2,701",12.2
+10001,FL Sunrise,"4,660",14.4
+10002,FL Tallahassee,"2,896",9.5
+10003,FL Sunrise,"3,314",8.4
+10005,FL Tampa,"2,014",12.3
+10006,FL West Palm Beach,"2,279",9.7
+10007,FL Port St. Lucie,"4,350",12.6
+10010,FL Tampa,662,7.6
+10011,FL Sunrise,179,11.6
+10012,FL St. Petersburg,"2,354",9.0
+10013,FL St. Petersburg,"5,253",15.5
+10014,FL Pembroke Pines,"6,734",8.0
+10016,FL St. Petersburg,"3,708",9.7
+10017,FL St. Petersburg,"3,375",21.1
+10020,FL West Palm Beach,"3,897",9.9
+10022,FL Tampa,"2,485",15.1
+10024,FL Pembroke Pines,"2,448",7.0
+10025,FL St. Petersburg,"3,248",9.9
+10027,FL Pembroke Pines,"3,875",12.9
+10028,FL St. Petersburg,"3,737",15.7
+10030,FL Pompano Beach,"4,058",10.6
+10031,FL Tampa,"4,461",8.2
+10032,FL Port St. Lucie,"9,843",10.9
+10033,FL Pompano Beach,"1,288",12.6
+10034,FL Tallahassee,"7,989",7.3
+10035,FL Tallahassee,"2,965",11.3
+10036,FL West Palm Beach,"3,920",11.2
+10037,FL Tallahassee,"4,515",7.6
+10040,FL Sunrise,"6,320",8.2
+10041,FL Plantation,"5,379",9.0
+10043,FL Tampa,398,16.5
+10046,FL Tampa,"3,253",5.8
+10048,FL St. Petersburg,"4,711",13.1
+10049,FL Tallahassee,"2,334",8.4
+10050,FL Tallahassee,"2,593",6.0
+10051,FL Plantation,"1,871",9.4
+10052,FL West Palm Beach,575,12.8
+10054,FL St. Petersburg,"2,693",12.5
+10055,FL Pompano Beach,"1,761",7.7
+10056,FL Plantation,"4,734",7.7
+10058,FL St. Petersburg,"4,260",10.8
+10059,FL Tampa,"2,958",9.7
+10061,FL Tallahassee,151,6.2
+10062,FL St. Petersburg,"3,020",9.8
+10063,FL Pembroke Pines,"5,496",10.2
+10064,FL Tampa,"4,129",17.7
+10066,FL Tampa,"3,165",9.7
+10067,FL Tampa,"4,457",11.6
+10068,FL St. Petersburg,"4,290",9.7
+10071,FL Tampa,"5,863",7.4
+10073,FL Tampa,"3,009",17.8
+10074,FL Tallahassee,"3,418",3.2
+10075,FL St. Petersburg,83,12.3
+10076,FL Tampa,"1,922",13.0

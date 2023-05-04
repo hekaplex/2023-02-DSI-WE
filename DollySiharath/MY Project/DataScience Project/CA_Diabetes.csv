@@ -1,0 +1,5482 @@
+,CA_City,CA_PopByMM,CA_DiagPer100k
+0,CA Inglewood,"2,472",12.7
+5,CA Antioch,"5,038",12.1
+6,CA Burbank,"2,274",7.6
+7,CA Folsom,"72,203",7.1
+8,CA Moreno Valley,"193,365",10.7
+9,CA Palmdale,"6,117",9.7
+10,CA Riverside,"3,902",6.3
+11,CA Roseville,"4,840",5.9
+12,CA San Francisco,"805,235",8.6
+13,CA San Jose,"945,942",8.8
+20,CA Santa Clara,"116,468",6.9
+21,CA Santa Maria,"7,800",9.7
+22,CA Thousand Oaks,"3,597",6.9
+23,CA Union City,"69,516",9.3
+24,CA Vacaville,"92,428",8.6
+25,CA West Covina,"2,246",8.8
+606,CA Corona,"3,285",10.0
+607,CA Anaheim,"4,848",11.3
+611,CA Anaheim,"5,061",9.1
+616,CA Alhambra,"3,464",12.0
+621,CA Alhambra,"4,255",10.7
+624,CA Anaheim,"336,265",9.9
+626,CA Anaheim,"3,886",9.5
+629,CA Anaheim,"6,488",9.1
+632,CA Anaheim,"4,160",8.9
+634,CA Anaheim,"7,643",10.7
+643,CA Alhambra,"3,355",10.9
+650,CA Alameda,"4,119",6.5
+651,CA Alameda,"6,526",8.3
+653,CA Anaheim,"2,147",10.2
+658,CA Anaheim,"4,496",8.0
+660,CA Anaheim,"1,648",3.9
+664,CA Anaheim,"5,485",8.4
+675,CA Antioch,498,7.6
+676,CA Anaheim,"4,847",9.7
+681,CA Alameda,"4,567",7.3
+688,CA Anaheim,"6,212",7.9
+692,CA Anaheim,"6,326",9.6
+702,CA Alameda,"3,646",7.8
+707,CA Antioch,"4,197",7.9
+709,CA Anaheim,"4,131",7.6
+714,CA Anaheim,"8,735",10.0
+716,CA Antioch,"5,950",8.2
+725,CA Alhambra,"3,206",13.3
+738,CA Anaheim,"5,614",11.8
+742,CA Anaheim,578,11.8
+743,CA Alhambra,"3,387",13.2
+751,CA Anaheim,"1,940",11.6
+759,CA Alhambra,"5,654",9.6
+766,CA Anaheim,"8,470",10.5
+770,CA Anaheim,"1,727",11.8
+772,CA Antioch,"3,173",10.2
+775,CA Alhambra,"5,770",11.2
+776,CA Anaheim,"5,219",8.5
+783,CA Anaheim,"336,265",10.8
+785,CA Anaheim,"6,551",11.1
+786,CA Antioch,"4,300",10.0
+787,CA Anaheim,"6,546",10.2
+788,CA Alameda,"6,259",8.1
+800,CA Anaheim,758,17.3
+801,CA Alameda,"4,357",8.7
+803,CA Antioch,"102,372",10.1
+805,CA Alhambra,"4,998",9.9
+807,CA Anaheim,"4,808",11.2
+817,CA Anaheim,"4,330",8.4
+820,CA Anaheim,"4,034",8.8
+821,CA Anaheim,"6,922",10.1
+827,CA Anaheim,"3,414",9.7
+841,CA Anaheim,"5,912",12.1
+843,CA Antioch,"4,517",8.4
+845,CA Alhambra,"3,842",12.0
+847,CA Anaheim,"5,475",7.3
+852,CA Alameda,"4,107",9.2
+853,CA Anaheim,"1,039",9.7
+856,CA Anaheim,"8,725",11.6
+861,CA Anaheim,"3,589",11.2
+862,CA Anaheim,"6,421",7.0
+867,CA Alhambra,"83,089",11.5
+877,CA Anaheim,"1,337",11.5
+880,CA Anaheim,"10,413",9.6
+881,CA Alhambra,"3,942",10.7
+883,CA Antioch,"6,595",11.0
+886,CA Anaheim,499,5.0
+890,CA Antioch,"4,166",9.8
+891,CA Alameda,"4,640",7.4
+893,CA Anaheim,"7,094",9.4
+903,CA Anaheim,"6,578",11.5
+908,CA Alameda,"73,812",7.5
+909,CA Anaheim,"4,635",11.3
+915,CA Alameda,"4,722",9.9
+916,CA Anaheim,"3,658",9.1
+919,CA Alameda,"4,651",7.6
+925,CA Anaheim,"2,662",9.1
+930,CA Alhambra,"4,098",13.3
+934,CA Alhambra,"4,361",14.0
+935,CA Anaheim,"5,537",10.6
+940,CA Antioch,"4,881",10.8
+945,CA Alhambra,"2,596",12.3
+955,CA Antioch,"3,933",10.7
+957,CA Antioch,"6,343",8.5
+958,CA Anaheim,"9,584",11.3
+959,CA Alameda,"3,183",8.4
+960,CA Alhambra,"4,686",10.7
+965,CA Anaheim,"1,238",9.8
+977,CA Anaheim,"6,366",10.3
+982,CA Antioch,"12,836",8.9
+985,CA Alhambra,"3,802",12.0
+989,CA Anaheim,"1,956",9.5
+992,CA Anaheim,"1,372",9.5
+993,CA Antioch,"102,372",9.7
+996,CA Anaheim,"1,530",7.8
+1000,CA Anaheim,"1,227",12.7
+1004,CA Anaheim,"5,222",10.5
+1006,CA Alhambra,"5,447",10.5
+1007,CA Anaheim,"7,424",11.3
+1015,CA Anaheim,"1,893",11.0
+1017,CA Anaheim,"5,651",10.0
+1019,CA Alameda,"4,896",9.6
+1023,CA Anaheim,"3,954",8.1
+1026,CA Antioch,"7,229",11.3
+1033,CA Alameda,"4,866",8.0
+1045,CA Anaheim,"4,135",7.5
+1049,CA Alhambra,"83,089",10.9
+1054,CA Inglewood,"5,124",12.5
+1056,CA Anaheim,"4,834",7.1
+1057,CA Alhambra,"4,871",12.4
+1062,CA Anaheim,"3,862",9.7
+1064,CA Antioch,"3,467",10.9
+1065,CA Anaheim,"5,816",8.5
+1076,CA Alhambra,"3,858",10.1
+1078,CA Anaheim,"2,292",8.6
+1081,CA Alhambra,"3,279",12.1
+1084,CA Antioch,"2,378",10.1
+1085,CA Antioch,"4,194",8.3
+1092,CA Anaheim,"1,756",12.4
+1097,CA Anaheim,"6,131",10.3
+1099,CA Alameda,"73,812",8.3
+1104,CA Anaheim,"4,006",9.8
+1106,CA Anaheim,378,8.9
+1114,CA Anaheim,"3,591",11.7
+1117,CA Alameda,"3,271",9.2
+1118,CA Anaheim,"5,097",12.3
+1121,CA Anaheim,805,7.3
+1122,CA Antioch,"6,416",9.7
+1126,CA Alhambra,"4,218",11.2
+1136,CA Anaheim,"5,913",11.0
+1137,CA Alameda,"7,074",8.6
+1142,CA Anaheim,"3,186",11.3
+1145,CA Anaheim,"7,474",10.9
+1154,CA Antioch,"6,620",10.0
+1159,CA Antioch,"5,641",8.9
+1160,CA Anaheim,"1,407",10.7
+1164,CA Anaheim,"3,529",9.1
+1173,CA Alameda,"2,928",7.8
+1176,CA Anaheim,"6,861",9.7
+1183,CA Anaheim,"7,141",11.5
+1201,CA Daly City,"5,063",10.7
+1202,CA Concord,"3,364",8.1
+1203,CA Bakersfield,"7,257",8.3
+1204,CA Berkeley,"3,640",7.0
+1205,CA Chula Vista,"5,380",9.8
+1206,CA Bellflower,"7,055",9.3
+1207,CA Compton,"2,506",10.9
+1208,CA Bellflower,"1,572",8.5
+1209,CA Downey,"3,762",9.4
+1210,CA Downey,"3,861",10.8
+1211,CA Bakersfield,"7,012",10.1
+1212,CA Corona,"7,008",11.9
+1213,CA Carson,"7,126",12.0
+1214,CA Bakersfield,"11,196",8.1
+1215,CA Carlsbad,"4,942",8.0
+1216,CA Buena Park,"3,563",12.1
+1217,CA Compton,"3,285",12.3
+1218,CA Chula Vista,"3,374",10.1
+1219,CA Bakersfield,"3,113",14.0
+1220,CA Bakersfield,834,7.7
+1221,CA Citrus Heights,"4,478",9.0
+1222,CA Chino,"5,753",8.3
+1224,CA Costa Mesa,"3,042",8.3
+1225,CA Chino,"77,983",10.7
+1226,CA Corona,"5,799",7.5
+1227,CA Apple Valley,"69,135",10.4
+1228,CA Clovis,"5,176",8.7
+1229,CA Burbank,"4,985",7.7
+1230,CA Compton,"3,152",12.6
+1231,CA Concord,"7,367",9.0
+1232,CA Bakersfield,"5,579",11.4
+1233,CA Daly City,"5,068",11.3
+1234,CA Carson,"7,214",10.7
+1235,CA Compton,699,10.0
+1236,CA Chula Vista,"3,780",9.0
+1237,CA Baldwin Park,"75,390",12.4
+1238,CA Chino,"4,374",9.0
+1239,CA Baldwin Park,"2,905",11.0
+1240,CA Corona,"3,319",9.7
+1241,CA Clovis,"5,708",11.1
+1242,CA Bakersfield,"3,653",10.7
+1243,CA Downey,"3,588",10.9
+1244,CA Berkeley,"3,633",6.2
+1245,CA Downey,"111,772",9.6
+1246,CA Berkeley,"4,396",6.4
+1247,CA Chico,"1,674",6.5
+1248,CA Carlsbad,"3,841",7.9
+1249,CA Bakersfield,"2,963",7.9
+1250,CA Daly City,"1,230",11.9
+1251,CA Carlsbad,"6,650",6.1
+1252,CA Chico,"5,716",8.7
+1253,CA Concord,"1,697",7.5
+1254,CA Costa Mesa,"6,591",5.9
+1255,CA Carlsbad,"6,958",7.8
+1256,CA Chula Vista,"3,431",12.2
+1257,CA Carson,"3,142",10.7
+1258,CA Daly City,"101,123",10.3
+1259,CA Citrus Heights,"6,799",9.5
+1260,CA Chino Hills,"4,541",9.4
+1261,CA Baldwin Park,"7,305",12.0
+1262,CA Bakersfield,"7,449",12.8
+1263,CA Chino Hills,"74,799",8.9
+1265,CA Bakersfield,"347,483",10.8
+1266,CA Clovis,"3,064",13.9
+1267,CA Concord,"3,417",9.1
+1268,CA Carson,"6,805",11.7
+1269,CA Citrus Heights,"2,339",7.5
+1270,CA Apple Valley,"4,018",10.3
+1271,CA Compton,69,10.9
+1272,CA Bakersfield,"5,147",13.8
+1273,CA Corona,"6,360",10.0
+1274,CA Chula Vista,"243,916",10.9
+1275,CA Berkeley,"2,007",6.3
+1276,CA Costa Mesa,"5,767",8.4
+1277,CA Concord,"4,802",8.0
+1278,CA Bakersfield,"3,340",11.8
+1279,CA Costa Mesa,"6,393",10.3
+1280,CA Chico,"4,801",5.2
+1281,CA Baldwin Park,322,7.8
+1282,CA Chico,"1,745",6.5
+1283,CA Bakersfield,"4,004",7.3
+1284,CA Concord,"122,067",8.6
+1285,CA Carlsbad,965,6.3
+1286,CA Bakersfield,"2,974",9.0
+1287,CA Bakersfield,"4,586",8.0
+1288,CA Carlsbad,"5,712",8.8
+1289,CA Corona,"2,053",12.2
+1290,CA Chula Vista,"3,966",13.8
+1291,CA Chino Hills,"11,112",10.0
+1292,CA Baldwin Park,"75,390",11.1
+1293,CA Bakersfield,878,9.2
+1294,CA Buena Park,"8,540",10.7
+1295,CA Chino Hills,"6,676",8.4
+1296,CA Citrus Heights,"2,884",11.8
+1297,CA Buena Park,"80,530",10.4
+1298,CA Carlsbad,"105,328",6.6
+1299,CA Clovis,"4,571",6.2
+1300,CA Berkeley,"2,172",8.9
+1301,CA Downey,"4,290",9.0
+1302,CA Apple Valley,"7,063",10.9
+1303,CA Burbank,"4,909",8.7
+1304,CA Chula Vista,"6,464",16.0
+1305,CA Costa Mesa,"1,521",6.5
+1306,CA Apple Valley,"4,771",11.6
+1307,CA Bakersfield,"2,608",12.5
+1308,CA Berkeley,"1,992",7.8
+1309,CA Concord,"7,183",9.2
+1310,CA Berkeley,"3,144",6.7
+1311,CA Bakersfield,"2,383",7.3
+1312,CA Costa Mesa,"109,960",9.0
+1313,CA Chula Vista,"1,586",15.4
+1314,CA Carson,"3,804",11.4
+1315,CA Daly City,"5,716",10.0
+1316,CA Compton,"6,044",13.9
+1317,CA Chula Vista,"2,853",9.4
+1318,CA Bakersfield,"4,679",10.9
+1319,CA Burbank,"3,033",7.6
+1320,CA Bellflower,"3,689",9.5
+1321,CA Chico,"3,130",4.5
+1322,CA Downey,"5,503",8.8
+1323,CA Burbank,"3,811",8.5
+1324,CA Carlsbad,"9,314",6.9
+1325,CA Clovis,"4,627",6.8
+1326,CA Bakersfield,915,7.9
+1328,CA Chula Vista,"4,466",12.3
+1329,CA Bakersfield,"4,282",9.2
+1330,CA Corona,"6,852",8.9
+1331,CA Carson,"2,994",10.9
+1332,CA Compton,"3,016",12.5
+1333,CA Corona,"3,908",12.5
+1334,CA Chula Vista,"4,909",12.5
+1335,CA Bakersfield,"8,845",10.7
+1336,CA Chino,"3,853",9.3
+1337,CA Chula Vista,"4,695",9.7
+1339,CA Apple Valley,"6,356",12.0
+1340,CA Buena Park,"3,790",9.4
+1341,CA Chico,"3,900",9.8
+1342,CA Chula Vista,"5,903",11.3
+1343,CA Daly City,"6,768",8.5
+1344,CA Bakersfield,575,10.3
+1345,CA Bellflower,"3,040",10.3
+1346,CA Burbank,"5,716",8.2
+1347,CA Citrus Heights,"83,301",9.2
+1348,CA Chino,"5,450",9.3
+1349,CA Chico,"1,417",8.0
+1350,CA Berkeley,"1,215",0.9
+1351,CA Compton,"4,912",13.9
+1352,CA Concord,"5,353",8.4
+1353,CA Chula Vista,"3,471",8.1
+1354,CA Berkeley,"4,685",7.6
+1355,CA Bakersfield,"3,074",9.9
+1357,CA Clovis,"7,048",9.8
+1358,CA Burbank,"103,340",8.0
+1359,CA Berkeley,"3,964",7.7
+1360,CA Chico,"5,553",8.3
+1361,CA Concord,"4,996",8.8
+1362,CA Bakersfield,"347,483",9.9
+1363,CA Burbank,"3,813",8.8
+1364,CA Carson,"3,209",13.2
+1365,CA Citrus Heights,"2,432",9.7
+1366,CA Chula Vista,"9,463",8.0
+1367,CA Compton,"5,323",11.6
+1368,CA Buena Park,"2,804",9.1
+1369,CA Daly City,"6,189",10.8
+1370,CA Concord,"4,032",9.9
+1371,CA Compton,"6,210",12.1
+1372,CA Berkeley,"3,198",5.6
+1373,CA Chula Vista,"5,047",12.7
+1374,CA Chico,"3,344",6.1
+1375,CA Citrus Heights,"2,894",8.8
+1376,CA Corona,"4,782",7.7
+1377,CA Citrus Heights,"4,873",8.0
+1378,CA Costa Mesa,"6,266",11.0
+1379,CA Chino Hills,"6,959",8.8
+1380,CA Bakersfield,"3,854",8.9
+1381,CA Clovis,"5,467",11.7
+1382,CA Chino Hills,"74,799",8.5
+1383,CA Carlsbad,"6,539",7.3
+1384,CA Long Beach,"5,119",8.0
+1385,CA Bellflower,"5,659",10.1
+1386,CA Concord,"7,534",8.7
+1387,CA Burbank,"2,987",8.0
+1388,CA Concord,"3,749",8.7
+1389,CA Clovis,"5,243",7.4
+1390,CA Bakersfield,152,14.3
+1391,CA Costa Mesa,"4,375",7.3
+1392,CA Corona,"152,374",9.2
+1393,CA Corona,"5,776",8.5
+1394,CA Downey,"5,639",10.4
+1395,CA Bakersfield,571,14.6
+1396,CA Bakersfield,"3,862",14.9
+1397,CA Bakersfield,"2,713",6.0
+1398,CA Buena Park,"1,895",9.9
+1399,CA Burbank,"5,633",7.4
+1400,CA Chula Vista,"3,920",9.8
+1401,CA Berkeley,"3,563",7.5
+1402,CA Chula Vista,"5,893",10.9
+1403,CA Bellflower,"2,600",10.3
+1404,CA Downey,"4,250",9.5
+1405,CA Concord,"7,522",7.4
+1406,CA Daly City,"3,240",10.4
+1407,CA Apple Valley,"3,606",11.2
+1408,CA Compton,"3,696",12.5
+1409,CA Burbank,"3,897",8.1
+1410,CA Baldwin Park,"1,741",11.5
+1411,CA Citrus Heights,"3,358",8.9
+1412,CA Chino,"5,274",12.4
+1413,CA Carson,"5,263",12.2
+1414,CA Bakersfield,"1,205",4.6
+1415,CA Bakersfield,"1,014",10.1
+1416,CA Daly City,"4,154",11.8
+1417,CA Bakersfield,"1,976",18.2
+1418,CA Compton,"3,123",13.4
+1419,CA Berkeley,"5,659",4.1
+1420,CA Chula Vista,"3,763",10.3
+1421,CA Bakersfield,"4,439",6.8
+1422,CA Chino,"77,983",9.4
+1423,CA Baldwin Park,"3,178",11.9
+1424,CA Chino,"7,659",6.3
+1425,CA Corona,"2,688",8.3
+1426,CA Costa Mesa,"4,165",6.2
+1427,CA Burbank,"2,655",7.4
+1428,CA Chico,"5,636",8.2
+1429,CA Downey,"4,211",9.5
+1430,CA Chula Vista,"6,544",14.2
+1431,CA Daly City,"7,568",10.3
+1432,CA Carlsbad,"4,447",8.1
+1433,CA Downey,"111,772",10.2
+1434,CA Corona,"5,834",10.1
+1435,CA Daly City,"4,022",10.0
+1436,CA Bakersfield,"7,279",12.0
+1437,CA Chula Vista,"3,725",10.3
+1438,CA Daly City,"1,834",7.8
+1439,CA Buena Park,"8,631",12.3
+1440,CA Bakersfield,"3,371",10.1
+1441,CA Bakersfield,"4,925",11.2
+1442,CA Chico,"86,187",7.1
+1443,CA Bellflower,"4,391",11.8
+1444,CA Costa Mesa,"6,670",6.4
+1445,CA Downey,"5,422",10.9
+1446,CA Clovis,"4,195",9.3
+1447,CA Chico,"5,295",7.8
+1448,CA Bakersfield,"2,705",8.8
+1449,CA Burbank,"5,114",8.5
+1450,CA Chino,"5,130",9.0
+1451,CA Carson,"5,620",10.9
+1452,CA Corona,232,10.8
+1453,CA Bakersfield,"3,761",9.5
+1454,CA Compton,"4,284",13.5
+1455,CA Chula Vista,"2,087",9.2
+1456,CA Berkeley,"3,647",9.7
+1457,CA Bakersfield,"8,814",8.2
+1458,CA Chino,"2,099",11.3
+1459,CA Bakersfield,"14,014",5.9
+1460,CA Baldwin Park,"3,484",10.9
+1461,CA Buena Park,"3,845",8.5
+1462,CA Baldwin Park,"6,170",10.4
+1463,CA Chico,"3,341",3.1
+1464,CA Corona,"5,374",7.7
+1465,CA Downey,"5,572",9.8
+1466,CA Carlsbad,"4,106",8.5
+1467,CA Bakersfield,"3,394",6.7
+1468,CA Costa Mesa,"4,437",8.2
+1469,CA Bakersfield,"6,537",15.2
+1470,CA Berkeley,"4,885",2.9
+1471,CA Corona,"152,374",10.2
+1472,CA Bakersfield,"11,350",10.3
+1473,CA Buena Park,"4,986",9.3
+1474,CA Clovis,"3,961",8.1
+1475,CA Compton,"3,486",15.3
+1476,CA Buena Park,"80,530",10.6
+1477,CA Citrus Heights,"3,710",10.8
+1478,CA Clovis,"3,028",6.5
+1479,CA Burbank,"5,849",7.7
+1480,CA Bellflower,"4,447",9.6
+1481,CA Carson,"5,418",10.6
+1482,CA Chico,"3,304",7.2
+1483,CA Carlsbad,"9,082",7.2
+1484,CA Citrus Heights,"2,460",8.4
+1485,CA Clovis,"3,346",7.5
+1486,CA Corona,"5,695",13.2
+1487,CA Bellflower,"6,298",8.9
+1488,CA Citrus Heights,"6,153",9.3
+1489,CA Concord,"3,735",8.0
+1490,CA Carlsbad,"1,006",12.6
+1491,CA Chino Hills,"2,336",8.7
+1492,CA Berkeley,"2,685",7.4
+1493,CA Carson,"91,714",11.7
+1494,CA Burbank,"3,138",7.4
+1495,CA Costa Mesa,"109,960",7.9
+1496,CA Concord,"5,306",8.7
+1497,CA Chino Hills,"2,580",8.3
+1498,CA Concord,"7,595",8.8
+1499,CA Apple Valley,356,15.8
+1500,CA Chula Vista,78,14.3
+1501,CA Baldwin Park,"5,304",10.6
+1502,CA Berkeley,"2,020",6.5
+1503,CA Clovis,"2,753",5.8
+1504,CA Costa Mesa,"3,801",6.9
+1505,CA Bakersfield,"6,301",7.6
+1506,CA Costa Mesa,"5,672",10.2
+1507,CA Chino Hills,"10,856",7.3
+1508,CA Clovis,"3,847",9.2
+1510,CA Carlsbad,"5,975",8.1
+1511,CA Chino Hills,"4,740",8.7
+1512,CA Burbank,"3,379",7.4
+1513,CA Carson,"6,611",12.8
+1514,CA Concord,"7,013",9.5
+1515,CA Apple Valley,"8,260",11.2
+1516,CA Berkeley,"3,558",7.1
+1517,CA Compton,"3,607",12.7
+1518,CA Corona,979,7.5
+1519,CA Bakersfield,707,10.8
+1520,CA Chula Vista,495,10.3
+1521,CA Chico,"2,687",9.6
+1522,CA Apple Valley,"7,120",11.6
+1523,CA Chico,"2,680",4.7
+1524,CA Berkeley,"2,642",5.9
+1525,CA Bakersfield,"1,946",8.2
+1526,CA Burbank,"7,249",6.2
+1527,CA Bellflower,"4,171",9.8
+1528,CA Buena Park,"5,013",9.8
+1529,CA Carson,"4,510",12.9
+1530,CA Citrus Heights,"3,323",9.5
+1531,CA Chino,621,7.5
+1532,CA Baldwin Park,"5,882",11.5
+1533,CA Citrus Heights,"4,557",9.1
+1534,CA Chino,"4,942",8.2
+1535,CA Buena Park,"3,566",12.3
+1536,CA Concord,"122,067",8.4
+1537,CA Corona,"2,488",8.3
+1538,CA Costa Mesa,"2,941",4.9
+1539,CA Bakersfield,"8,774",6.7
+1540,CA Carson,549,14.4
+1541,CA Corona,"6,475",7.0
+1542,CA Downey,"4,869",9.1
+1543,CA Chula Vista,"2,668",12.4
+1544,CA Chico,"1,668",6.1
+1545,CA Burbank,"2,361",10.5
+1546,CA Bakersfield,"1,390",15.2
+1547,CA Burbank,"3,755",7.9
+1548,CA Concord,"5,926",8.4
+1549,CA Baldwin Park,"5,658",9.6
+1550,CA Chino,"5,682",11.1
+1551,CA Clovis,"95,631",8.8
+1552,CA Bakersfield,176,13.5
+1553,CA Downey,"7,809",9.3
+1554,CA Chula Vista,"7,227",9.5
+1555,CA Berkeley,"8,368",3.1
+1556,CA Compton,"5,434",12.4
+1557,CA Daly City,"2,510",8.6
+1558,CA Corona,"3,586",8.3
+1559,CA Buena Park,"1,112",14.9
+1560,CA Chula Vista,"3,676",12.2
+1561,CA Chula Vista,"2,761",10.2
+1562,CA Bellflower,"4,569",10.1
+1563,CA Berkeley,"3,844",7.4
+1564,CA Bakersfield,"2,176",5.4
+1565,CA Chico,"4,694",6.6
+1566,CA Bakersfield,141,14.4
+1567,CA Citrus Heights,"2,462",9.7
+1568,CA Clovis,"3,697",9.6
+1569,CA Bakersfield,"5,116",10.1
+1570,CA Corona,"1,994",7.5
+1571,CA Carson,"3,472",11.0
+1572,CA Chula Vista,"4,955",13.5
+1573,CA Compton,"5,720",11.7
+1574,CA Burbank,"103,340",7.8
+1575,CA Bakersfield,"2,672",14.0
+1576,CA Chula Vista,"5,180",10.2
+1577,CA Chino,"3,940",11.2
+1578,CA Bakersfield,"5,482",12.3
+1579,CA Clovis,"2,952",7.6
+1580,CA Buena Park,"4,590",10.4
+1581,CA Apple Valley,"5,341",15.4
+1582,CA Citrus Heights,"2,234",8.4
+1583,CA Baldwin Park,"3,197",10.5
+1584,CA Compton,"96,455",14.8
+1585,CA Chico,"86,187",8.6
+1586,CA Bellflower,"5,483",10.6
+1587,CA Carlsbad,76,5.4
+1588,CA Compton,285,11.3
+1589,CA Chula Vista,"2,348",13.6
+1590,CA Burbank,"7,104",9.6
+1591,CA Chino,"6,707",10.3
+1592,CA Chula Vista,"5,998",10.0
+1593,CA Berkeley,"2,794",8.5
+1594,CA Bakersfield,"2,862",18.5
+1595,CA Berkeley,"4,196",4.2
+1597,CA Concord,354,2.7
+1598,CA Daly City,"6,544",10.5
+1599,CA Bakersfield,"5,408",9.1
+1600,CA Berkeley,"112,580",7.2
+1601,CA Compton,188,14.5
+1602,CA Corona,"11,611",7.6
+1603,CA Costa Mesa,"3,556",7.7
+1604,CA Chula Vista,"14,837",6.9
+1605,CA Bellflower,"3,554",9.2
+1606,CA Downey,"6,921",8.6
+1607,CA Corona,"4,572",11.1
+1608,CA Daly City,"5,352",10.4
+1609,CA Chula Vista,"5,445",11.7
+1610,CA Carlsbad,"4,465",7.1
+1611,CA Carson,"3,910",10.9
+1612,CA Compton,"4,307",14.1
+1613,CA Corona,"5,665",8.1
+1614,CA Downey,"6,547",10.2
+1615,CA Concord,"2,281",11.1
+1616,CA Bakersfield,"5,414",9.1
+1617,CA Chino Hills,"6,752",8.3
+1618,CA Bakersfield,811,9.9
+1619,CA Chula Vista,"7,005",10.3
+1620,CA Clovis,"2,427",10.2
+1621,CA Clovis,"3,624",8.9
+1622,CA Berkeley,"1,552",5.5
+1623,CA Baldwin Park,"5,069",11.9
+1624,CA Apple Valley,"9,401",10.8
+1625,CA Clovis,"2,667",6.9
+1626,CA Citrus Heights,"3,568",10.5
+1627,CA Bellflower,"76,616",9.9
+1628,CA Costa Mesa,"2,415",8.7
+1629,CA Concord,"5,701",9.0
+1630,CA Chino Hills,"5,077",7.6
+1631,CA Berkeley,"1,756",8.1
+1632,CA Chico,"3,723",10.8
+1633,CA Bakersfield,"2,026",9.3
+1634,CA Bakersfield,"3,852",15.0
+1635,CA Baldwin Park,"5,227",12.2
+1636,CA Compton,"6,207",12.7
+1637,CA Costa Mesa,"3,957",9.6
+1638,CA Downey,"7,200",10.0
+1639,CA Costa Mesa,"5,430",6.6
+1640,CA Bakersfield,"2,858",6.4
+1641,CA Citrus Heights,"4,248",7.6
+1642,CA Carlsbad,"6,355",7.5
+1644,CA Buena Park,"1,408",9.0
+1645,CA Bakersfield,"5,173",10.5
+1646,CA Carson,"91,714",10.8
+1647,CA Corona,573,7.6
+1648,CA Citrus Heights,"3,967",8.9
+1649,CA Buena Park,"6,033",10.5
+1650,CA Chula Vista,"1,567",9.4
+1651,CA Baldwin Park,"3,973",11.1
+1652,CA Chino,"5,138",10.5
+1653,CA Bakersfield,"8,998",9.0
+1654,CA Bakersfield,"1,746",13.3
+1655,CA Chula Vista,"3,913",11.8
+1656,CA Corona,"4,301",8.6
+1657,CA Chula Vista,"243,916",10.4
+1658,CA Berkeley,"2,925",6.8
+1659,CA Downey,"7,666",9.4
+1660,CA Daly City,"101,123",9.9
+1661,CA Citrus Heights,"3,353",8.0
+1662,CA Chino,299,9.8
+1663,CA Bakersfield,"5,493",10.1
+1664,CA Citrus Heights,"3,752",8.1
+1665,CA Baldwin Park,562,8.6
+1666,CA Costa Mesa,"3,835",10.4
+1667,CA Concord,117,9.0
+1668,CA Carlsbad,"2,293",8.0
+1669,CA Concord,"4,767",7.9
+1670,CA Burbank,"5,466",7.3
+1671,CA Downey,"7,170",9.3
+1672,CA Costa Mesa,"6,994",5.8
+1673,CA Bakersfield,"4,784",12.0
+1674,CA Carson,"4,791",11.2
+1675,CA Corona,"3,391",8.4
+1676,CA Corona,"6,698",12.5
+1677,CA Compton,104,14.3
+1678,CA Chula Vista,"4,773",11.5
+1679,CA Bakersfield,"5,061",14.1
+1680,CA Bakersfield,"4,897",7.8
+1681,CA Concord,91,7.2
+1682,CA Chico,"3,247",4.4
+1683,CA Bakersfield,"15,296",7.1
+1684,CA Daly City,"6,658",11.7
+1685,CA Berkeley,"1,593",7.2
+1686,CA Chula Vista,"6,487",11.7
+1687,CA Burbank,"6,137",8.1
+1688,CA Clovis,"5,542",9.9
+1689,CA Bakersfield,"4,287",8.4
+1690,CA Daly City,"7,443",10.3
+1691,CA Bellflower,"3,799",9.1
+1692,CA Carson,"6,061",13.5
+1693,CA Daly City,"5,800",10.4
+1694,CA Berkeley,"3,632",7.0
+1695,CA Costa Mesa,"2,914",9.3
+1696,CA Compton,312,14.2
+1697,CA Corona,"2,594",8.4
+1698,CA Baldwin Park,"4,335",10.8
+1699,CA Bakersfield,"4,871",7.3
+1700,CA Bakersfield,"3,313",9.5
+1701,CA Clovis,"3,993",9.0
+1702,CA Compton,"4,867",12.5
+1703,CA Bellflower,"3,390",11.4
+1704,CA Concord,"3,722",7.9
+1705,CA Bakersfield,"6,935",7.7
+1706,CA Carlsbad,"3,711",5.9
+1707,CA Chula Vista,"3,380",9.2
+1709,CA Clovis,"95,631",8.8
+1710,CA Corona,180,12.4
+1711,CA Downey,"1,534",8.7
+1712,CA Berkeley,"4,336",4.9
+1713,CA Carlsbad,"7,006",7.4
+1714,CA Concord,"1,168",8.3
+1715,CA Bellflower,"4,875",9.7
+1716,CA Daly City,"5,125",10.2
+1717,CA Costa Mesa,"4,957",7.5
+1718,CA Buena Park,"4,953",9.0
+1719,CA Downey,"4,468",10.1
+1720,CA Corona,"3,989",8.0
+1721,CA Chula Vista,"3,625",7.4
+1722,CA Carson,"4,090",11.5
+1723,CA Citrus Heights,"4,000",11.1
+1724,CA Apple Valley,"6,974",12.9
+1725,CA Compton,452,12.7
+1726,CA Bellflower,"76,616",10.8
+1727,CA Burbank,"6,870",8.7
+1728,CA Corona,"6,230",12.1
+1729,CA Concord,393,10.9
+1730,CA Citrus Heights,"83,301",8.9
+1731,CA Costa Mesa,"5,489",6.8
+1732,CA Berkeley,"3,387",6.7
+1733,CA Downey,"7,533",8.7
+1734,CA Carson,"7,083",10.9
+1735,CA Compton,"5,496",10.5
+1736,CA Compton,"3,631",12.4
+1737,CA Concord,"3,358",8.0
+1738,CA Chino Hills,"7,053",7.4
+1739,CA Costa Mesa,322,7.3
+1740,CA Baldwin Park,"5,873",11.3
+1741,CA Chino Hills,"6,117",8.9
+1742,CA Berkeley,"3,716",7.3
+1743,CA Clovis,"3,869",6.4
+1744,CA Bakersfield,612,6.1
+1745,CA Costa Mesa,"3,790",8.3
+1746,CA Bakersfield,"3,231",10.4
+1747,CA Clovis,"4,824",7.1
+1748,CA Carlsbad,"11,883",6.5
+1749,CA Berkeley,"4,658",3.6
+1750,CA Chula Vista,"4,933",12.1
+1751,CA Bakersfield,"6,931",13.6
+1752,CA Buena Park,"7,635",9.8
+1753,CA Chico,"3,902",5.8
+1754,CA Citrus Heights,192,9.6
+1755,CA Chula Vista,"9,464",7.2
+1756,CA Costa Mesa,"4,658",9.7
+1757,CA Buena Park,"1,441",9.3
+1758,CA Bellflower,"3,916",10.1
+1759,CA Apple Valley,"5,837",12.2
+1760,CA Compton,"2,983",13.9
+1761,CA Chico,"4,217",4.8
+1762,CA Carlsbad,"105,328",7.4
+1763,CA Concord,"3,200",8.2
+1764,CA Buena Park,"6,725",10.5
+1765,CA Bakersfield,"5,465",10.9
+1766,CA Chula Vista,"3,858",15.7
+1767,CA Bakersfield,"4,158",10.8
+1768,CA Chino,"4,925",9.2
+1769,CA Compton,"3,057",12.3
+1770,CA Corona,"5,691",8.0
+1771,CA Concord,"6,309",8.1
+1772,CA Chula Vista,"7,922",7.7
+1773,CA Berkeley,"3,118",8.9
+1775,CA Chino,61,6.1
+1776,CA Inglewood,"2,329",11.7
+1777,CA Citrus Heights,"5,265",9.8
+1778,CA Chula Vista,"3,627",8.0
+1779,CA Chino,"6,076",8.5
+1780,CA Baldwin Park,"5,205",10.7
+1781,CA Corona,"5,737",7.8
+1782,CA Apple Valley,"69,135",11.9
+1783,CA Burbank,"3,205",8.2
+1784,CA Chula Vista,"4,014",13.6
+1785,CA Corona,"2,400",9.1
+1786,CA Chico,"4,410",9.8
+1787,CA Bakersfield,"7,641",7.2
+1788,CA Chula Vista,"28,960",8.6
+1789,CA Daly City,"6,913",9.8
+1790,CA Bakersfield,"7,111",16.7
+1791,CA Compton,"96,455",12.7
+1792,CA Berkeley,"112,580",6.0
+1793,CA Daly City,"3,926",9.4
+1794,CA Chico,"6,102",7.7
+1795,CA Corona,"4,255",7.9
+1796,CA Downey,"3,926",10.0
+1797,CA Bellflower,"4,108",9.3
+1798,CA Elk Grove,"5,922",10.7
+1799,CA Fresno,"2,566",10.5
+1800,CA El Cajon,"4,919",9.6
+1801,CA Fontana,"4,841",12.3
+1802,CA Fresno,"3,248",7.8
+1803,CA Escondido,"2,480",7.4
+1804,CA Fresno,"3,139",9.3
+1805,CA El Monte,"4,395",11.6
+1806,CA El Monte,"5,262",13.4
+1807,CA Hayward,"2,338",8.8
+1808,CA Fresno,"4,519",11.6
+1809,CA Hawthorne,169,12.7
+1810,CA Fullerton,"4,379",7.4
+1811,CA Hayward,"4,571",9.6
+1812,CA Fresno,"5,520",12.5
+1813,CA El Cajon,"3,770",10.5
+1814,CA Fairfield,"5,520",11.9
+1815,CA Elk Grove,"5,576",8.9
+1816,CA Fremont,"3,663",6.1
+1817,CA Glendale,"3,749",11.7
+1818,CA Fresno,"3,884",14.3
+1819,CA El Monte,"2,837",13.5
+1821,CA Fontana,"9,189",10.2
+1822,CA Escondido,"3,656",8.8
+1823,CA El Cajon,"99,478",10.1
+1824,CA Elk Grove,"5,245",7.9
+1825,CA Hayward,"3,284",9.6
+1826,CA Glendale,"6,140",8.1
+1827,CA Glendale,"2,016",7.6
+1828,CA Elk Grove,"1,483",13.6
+1829,CA Fresno,"6,951",8.3
+1830,CA Garden Grove,"6,326",13.8
+1831,CA Garden Grove,"4,433",10.0
+1832,CA Glendale,"6,947",8.0
+1833,CA Garden Grove,"4,703",8.4
+1834,CA Hawthorne,"4,156",9.8
+1835,CA El Monte,"6,310",13.5
+1836,CA El Cajon,"5,821",8.7
+1837,CA Escondido,"1,771",9.5
+1838,CA Fremont,"5,553",8.4
+1839,CA Fresno,356,9.0
+1840,CA Fresno,"1,928",6.3
+1841,CA Fullerton,"6,626",8.7
+1842,CA Fremont,"4,611",8.0
+1843,CA Fremont,"4,788",7.5
+1844,CA Glendale,"4,368",8.2
+1845,CA Glendale,"2,849",9.1
+1846,CA El Monte,"3,421",11.6
+1847,CA Garden Grove,"4,060",11.2
+1848,CA Hawthorne,"4,072",10.1
+1849,CA Fairfield,"4,559",10.5
+1850,CA Fullerton,"5,732",5.5
+1851,CA Elk Grove,"7,824",9.2
+1852,CA Escondido,"2,501",9.3
+1853,CA Fresno,"5,211",7.9
+1854,CA Folsom,"2,793",5.2
+1855,CA Garden Grove,"3,482",9.8
+1856,CA Hawthorne,"4,329",10.5
+1857,CA Hayward,"4,528",10.0
+1858,CA Fresno,"1,072",10.1
+1859,CA Garden Grove,788,9.9
+1860,CA Fresno,"5,794",7.4
+1861,CA Glendale,"6,491",9.0
+1862,CA El Cajon,"4,024",10.3
+1863,CA Escondido,"3,213",8.5
+1864,CA El Monte,"4,726",13.1
+1865,CA Fresno,"5,212",12.7
+1866,CA Hayward,"3,195",9.5
+1867,CA Fremont,"5,869",8.7
+1868,CA Fontana,"2,798",10.7
+1869,CA Fremont,"6,159",4.2
+1870,CA Fresno,"1,106",12.0
+1872,CA Fullerton,"3,297",12.8
+1873,CA Escondido,"6,689",11.0
+1874,CA Garden Grove,"3,005",10.0
+1875,CA Fresno,"5,431",15.7
+1876,CA Hawthorne,"6,769",10.9
+1877,CA Fairfield,"105,321",9.4
+1878,CA Glendale,"7,810",9.6
+1879,CA Glendale,"3,917",9.7
+1880,CA Elk Grove,"3,554",10.9
+1881,CA Escondido,"4,028",10.1
+1882,CA Fontana,"4,446",11.6
+1883,CA Garden Grove,"3,194",8.7
+1884,CA Fontana,"9,013",6.8
+1885,CA Fairfield,"4,393",9.4
+1886,CA Fairfield,"2,455",3.1
+1887,CA Folsom,"6,825",6.1
+1888,CA Fresno,"3,909",10.7
+1889,CA Fremont,"3,704",8.4
+1890,CA Fresno,"6,343",15.8
+1891,CA Fresno,"5,062",10.5
+1892,CA Fresno,"2,888",13.1
+1893,CA El Cajon,"2,419",8.4
+1894,CA Fontana,"1,893",10.9
+1895,CA Folsom,"5,246",7.1
+1896,CA Garden Grove,112,13.8
+1897,CA El Monte,"113,475",12.8
+1898,CA Fontana,"8,005",11.9
+1899,CA Escondido,"4,254",8.8
+1900,CA Fullerton,"3,869",10.4
+1901,CA Hawthorne,"2,802",10.0
+1902,CA Fullerton,"5,565",9.6
+1903,CA Fremont,"5,166",8.3
+1904,CA Fresno,"5,305",7.7
+1905,CA Hayward,"5,755",8.4
+1906,CA Elk Grove,"153,015",9.1
+1907,CA Fontana,"18,904",8.2
+1908,CA Hawthorne,"4,273",11.8
+1909,CA El Cajon,"1,391",10.1
+1910,CA Fresno,"5,882",14.8
+1911,CA Garden Grove,"7,859",10.1
+1912,CA El Monte,87,22.8
+1913,CA Fremont,"4,561",8.9
+1914,CA Glendale,"4,895",9.8
+1915,CA Fairfield,"4,557",8.1
+1916,CA Fontana,"7,826",8.5
+1917,CA Fresno,"3,343",5.8
+1918,CA Hayward,"4,251",9.9
+1919,CA Garden Grove,"3,973",14.0
+1920,CA Elk Grove,"4,640",10.5
+1921,CA Fairfield,"3,807",10.7
+1922,CA Fresno,"3,174",15.4
+1923,CA Fresno,"3,884",17.5
+1924,CA Fullerton,"4,721",9.8
+1925,CA Elk Grove,"6,811",8.8
+1926,CA Folsom,"5,505",8.8
+1927,CA Fresno,"4,171",7.5
+1928,CA Escondido,"3,649",9.1
+1929,CA Hayward,"5,179",6.7
+1930,CA El Monte,89,8.9
+1931,CA Fremont,"5,074",7.9
+1932,CA Fontana,"4,460",9.6
+1933,CA Glendale,"6,908",9.6
+1934,CA Folsom,"2,186",7.4
+1935,CA El Cajon,"5,444",9.8
+1936,CA Fullerton,"7,693",10.3
+1937,CA Hayward,"6,091",8.6
+1938,CA Fresno,"3,931",16.4
+1939,CA Fremont,"6,253",7.7
+1940,CA Fullerton,"3,916",10.3
+1941,CA Fairfield,"6,741",7.1
+1942,CA Fremont,"6,802",7.6
+1943,CA Fontana,"1,702",12.9
+1944,CA El Monte,"2,410",11.3
+1945,CA Fresno,"3,298",9.5
+1946,CA Fullerton,"3,650",5.7
+1947,CA El Cajon,"2,238",7.5
+1948,CA Elk Grove,"153,015",9.4
+1949,CA Fairfield,"3,674",11.9
+1950,CA Fresno,"3,783",16.2
+1951,CA Garden Grove,"6,305",11.3
+1952,CA Hawthorne,"5,230",9.4
+1953,CA Escondido,"5,143",12.6
+1954,CA Fontana,"7,639",9.0
+1955,CA Elk Grove,"7,222",9.1
+1956,CA El Monte,"8,194",11.8
+1957,CA Fresno,"3,517",6.8
+1958,CA Fresno,"3,922",9.7
+1959,CA Hayward,"4,621",8.7
+1960,CA Fresno,"3,146",13.7
+1961,CA Garden Grove,"170,883",11.6
+1963,CA Folsom,"4,711",6.1
+1964,CA Fresno,"1,265",11.8
+1966,CA Fullerton,"3,418",11.6
+1967,CA Hayward,"3,920",10.6
+1968,CA Garden Grove,"6,107",11.9
+1969,CA Fullerton,842,9.9
+1970,CA El Cajon,"5,774",7.7
+1971,CA Fontana,"4,647",12.7
+1972,CA El Monte,"2,095",12.5
+1973,CA Fresno,"5,821",15.2
+1974,CA Glendale,"5,556",9.7
+1975,CA Fullerton,"6,638",9.7
+1976,CA Fresno,"5,054",9.9
+1977,CA Fontana,"5,040",11.3
+1978,CA Hayward,"3,473",9.9
+1979,CA Garden Grove,"3,124",9.6
+1980,CA Escondido,"4,748",12.7
+1981,CA Elk Grove,"7,049",8.1
+1982,CA El Cajon,"3,179",10.9
+1983,CA El Monte,"3,780",11.7
+1984,CA Garden Grove,"3,484",7.6
+1985,CA Escondido,"5,196",11.8
+1986,CA Fremont,"3,179",6.9
+1987,CA Fresno,"3,594",9.7
+1988,CA Elk Grove,"12,604",9.6
+1989,CA Fresno,994,12.3
+1990,CA Fresno,"494,665",11.2
+1991,CA Fontana,"6,529",9.1
+1992,CA Garden Grove,"1,304",11.1
+1993,CA Fresno,69,18.0
+1995,CA Fontana,"7,739",8.8
+1996,CA Hayward,"6,573",10.6
+1997,CA Fresno,"4,720",10.0
+1998,CA Fresno,"4,218",13.3
+1999,CA Fresno,"4,522",9.2
+2000,CA El Cajon,"4,673",13.4
+2001,CA Hawthorne,"5,416",10.8
+2002,CA Fresno,"3,624",12.6
+2003,CA Glendale,"3,856",13.2
+2004,CA Elk Grove,"2,282",10.4
+2005,CA Garden Grove,"5,143",13.3
+2006,CA Glendale,"3,532",9.7
+2008,CA Fresno,"3,480",8.4
+2009,CA Fontana,"5,417",11.0
+2010,CA Escondido,"1,748",8.0
+2011,CA Elk Grove,"5,321",9.0
+2012,CA Garden Grove,"3,110",13.0
+2013,CA Fairfield,"1,359",1.3
+2014,CA Hayward,"4,503",8.9
+2015,CA El Monte,"1,595",13.4
+2016,CA Fremont,"3,212",8.6
+2017,CA Fremont,"5,389",5.6
+2018,CA Fresno,"2,815",14.5
+2019,CA Fresno,"4,555",15.6
+2020,CA El Monte,"5,593",12.9
+2021,CA Fremont,"5,918",8.3
+2022,CA Garden Grove,"4,819",12.6
+2023,CA Fresno,"1,788",10.5
+2024,CA El Monte,"5,821",11.6
+2025,CA Elk Grove,"3,545",8.8
+2026,CA Fresno,"8,757",10.1
+2027,CA Fresno,"5,419",12.9
+2028,CA Hawthorne,"2,438",14.5
+2029,CA Glendale,"4,234",10.8
+2030,CA Fresno,"4,491",8.9
+2032,CA Fairfield,"4,108",8.1
+2033,CA Escondido,"143,911",10.3
+2034,CA Fresno,"3,425",10.4
+2035,CA Escondido,"5,743",13.6
+2036,CA Fullerton,"4,687",9.0
+2037,CA Fremont,"7,371",8.8
+2038,CA Hawthorne,"2,703",9.3
+2039,CA Hayward,"3,217",11.6
+2040,CA Fresno,"3,899",9.8
+2041,CA Fresno,"4,010",8.5
+2042,CA Fontana,"9,721",10.6
+2043,CA El Cajon,203,8.1
+2044,CA Glendale,"5,363",9.6
+2045,CA Garden Grove,"170,883",11.5
+2046,CA Fontana,636,13.1
+2047,CA Glendale,"6,463",8.6
+2048,CA Glendale,"6,439",8.8
+2049,CA El Cajon,"7,102",13.9
+2050,CA Fullerton,"4,101",8.5
+2051,CA Garden Grove,"4,012",11.3
+2052,CA Fairfield,"3,142",10.6
+2053,CA Fresno,"4,105",12.0
+2054,CA Hayward,"3,746",7.8
+2055,CA Fremont,"7,301",6.1
+2056,CA Fresno,"2,860",11.5
+2057,CA Fontana,"5,466",11.6
+2058,CA Garden Grove,"4,049",11.9
+2059,CA Fresno,"5,796",14.7
+2060,CA Glendale,"191,719",9.3
+2061,CA Fremont,"4,456",8.3
+2062,CA Hawthorne,"3,187",9.1
+2063,CA El Cajon,"6,284",10.3
+2064,CA Fresno,"5,111",8.4
+2065,CA Elk Grove,"5,073",8.2
+2066,CA Folsom,"4,320",6.1
+2067,CA Fairfield,"6,575",6.9
+2068,CA Fresno,"4,475",7.6
+2069,CA Fairfield,"3,368",8.7
+2070,CA Fullerton,"1,727",9.8
+2071,CA Fresno,"2,867",9.3
+2072,CA Garden Grove,162,13.6
+2073,CA Fresno,"5,205",15.1
+2074,CA Hayward,"4,540",10.1
+2075,CA Fullerton,"2,967",9.2
+2076,CA Glendale,"6,198",10.1
+2077,CA Garden Grove,"5,866",12.8
+2078,CA Hawthorne,"5,863",10.5
+2079,CA Fontana,"5,723",8.8
+2080,CA Fresno,"5,188",8.6
+2081,CA Escondido,"4,222",9.6
+2082,CA El Monte,"4,893",11.5
+2083,CA El Cajon,"3,074",10.5
+2084,CA Fontana,"5,366",9.2
+2085,CA Garden Grove,"1,984",12.8
+2086,CA Garden Grove,"4,791",10.3
+2087,CA Escondido,"3,592",8.2
+2088,CA Fresno,663,9.4
+2089,CA Fairfield,"3,255",11.1
+2090,CA Fresno,638,12.3
+2091,CA Folsom,"4,744",6.9
+2092,CA Glendale,"1,902",7.9
+2093,CA Fresno,"4,292",11.8
+2094,CA Fullerton,"4,698",8.6
+2095,CA Glendale,"191,719",8.4
+2096,CA Fresno,"5,252",17.1
+2097,CA Fresno,"1,191",11.0
+2098,CA Garden Grove,"5,249",12.9
+2099,CA Fresno,"3,412",9.1
+2100,CA Folsom,"5,472",10.3
+2101,CA Fontana,"7,502",11.1
+2102,CA Fresno,"3,560",8.1
+2103,CA Fremont,"214,089",7.6
+2104,CA Garden Grove,"3,936",10.8
+2105,CA Fullerton,"1,434",11.6
+2106,CA Escondido,"4,613",8.5
+2107,CA Glendale,"6,144",7.5
+2108,CA Hawthorne,"1,630",9.1
+2109,CA Fremont,"7,436",7.2
+2110,CA Fresno,"3,635",11.7
+2111,CA Garden Grove,482,11.9
+2112,CA El Monte,"3,951",12.3
+2113,CA Fremont,"3,844",7.4
+2114,CA Garden Grove,"1,828",8.6
+2115,CA Fresno,"4,599",14.0
+2116,CA El Cajon,"1,998",10.0
+2117,CA Fresno,"3,328",13.1
+2118,CA Hayward,"5,368",10.5
+2119,CA Fresno,"494,665",12.4
+2120,CA Fullerton,"4,356",10.7
+2121,CA Hayward,"4,583",7.1
+2122,CA El Monte,"6,564",12.6
+2123,CA Fairfield,"3,427",9.5
+2124,CA Fresno,"5,653",16.6
+2125,CA Fresno,"3,520",12.8
+2126,CA El Monte,"4,582",12.1
+2128,CA Fontana,"5,508",10.5
+2129,CA Fullerton,"5,725",7.5
+2130,CA Fontana,"196,069",12.4
+2131,CA Fontana,"3,120",17.5
+2132,CA Elk Grove,"2,742",9.2
+2133,CA Hayward,"6,724",8.8
+2134,CA Elk Grove,"9,389",8.3
+2135,CA Escondido,"4,639",10.4
+2136,CA Hayward,"3,111",10.2
+2137,CA Fremont,"4,980",9.9
+2139,CA Fairfield,"2,275",8.9
+2140,CA Glendale,923,6.8
+2142,CA Fullerton,"135,161",9.0
+2143,CA El Cajon,"5,843",8.5
+2144,CA Garden Grove,"8,343",11.2
+2145,CA Fresno,"3,556",10.7
+2146,CA Fresno,"5,888",12.3
+2147,CA Fresno,"6,613",7.3
+2148,CA Fontana,142,9.3
+2149,CA Hawthorne,"84,293",12.0
+2150,CA Fremont,"4,074",7.5
+2151,CA Escondido,"5,560",9.2
+2152,CA El Cajon,529,9.2
+2153,CA Hayward,"4,256",8.6
+2154,CA Fresno,"5,723",14.1
+2155,CA Folsom,"72,203",7.3
+2156,CA Hayward,"2,317",8.3
+2157,CA Fremont,"2,873",7.5
+2158,CA Hayward,"1,876",7.7
+2159,CA Fontana,"1,368",13.0
+2160,CA Escondido,"4,522",7.3
+2161,CA Fresno,"4,959",14.7
+2162,CA Fremont,"5,558",7.7
+2163,CA Fresno,"2,067",13.0
+2164,CA Elk Grove,"3,165",9.1
+2165,CA El Cajon,683,8.6
+2166,CA El Monte,"2,568",20.0
+2167,CA Fremont,"4,077",5.7
+2168,CA Fullerton,141,6.6
+2169,CA Glendale,"4,330",10.8
+2170,CA Fairfield,"2,670",11.9
+2171,CA Fairfield,"3,295",10.2
+2172,CA Fresno,"1,470",8.6
+2173,CA Fontana,"3,982",11.3
+2174,CA Hayward,"3,649",9.4
+2175,CA Fresno,"3,606",12.7
+2176,CA Escondido,"1,495",9.2
+2177,CA Fresno,"4,694",12.7
+2178,CA Elk Grove,"6,032",10.5
+2179,CA Fresno,"2,735",10.9
+2181,CA Folsom,"6,747",6.6
+2182,CA Hayward,"144,186",9.2
+2183,CA Fresno,"2,629",8.9
+2184,CA El Monte,391,6.5
+2185,CA Fresno,"4,997",9.7
+2186,CA Fresno,"6,319",7.7
+2187,CA Glendale,"4,214",9.4
+2188,CA El Cajon,"6,239",11.3
+2189,CA Fresno,"3,895",9.6
+2190,CA Fresno,"5,740",11.9
+2191,CA Fresno,"4,040",8.0
+2192,CA Hayward,"2,017",9.2
+2193,CA Fullerton,"1,982",8.4
+2194,CA Escondido,"143,911",9.8
+2195,CA Garden Grove,"6,567",13.1
+2196,CA Fremont,"4,103",5.5
+2197,CA El Cajon,"3,450",10.4
+2198,CA Fremont,"5,233",7.9
+2199,CA Fullerton,"4,103",11.1
+2200,CA Hawthorne,"6,992",10.9
+2201,CA Fresno,"5,674",11.2
+2202,CA Hayward,"3,731",10.2
+2203,CA Fremont,"2,917",7.8
+2204,CA Glendale,"5,254",10.7
+2205,CA Glendale,"2,209",7.4
+2206,CA Garden Grove,"6,430",11.7
+2207,CA Hawthorne,391,7.9
+2208,CA Elk Grove,"5,814",9.4
+2209,CA Fairfield,"8,318",7.3
+2210,CA Fresno,"5,192",15.4
+2211,CA Glendale,"4,079",9.2
+2212,CA Fullerton,"5,473",4.5
+2213,CA Fairfield,"5,065",10.0
+2214,CA Elk Grove,"5,859",7.9
+2215,CA Escondido,"5,127",9.7
+2216,CA Garden Grove,"4,520",11.6
+2217,CA Fresno,"3,167",15.9
+2218,CA Fairfield,"5,148",11.9
+2219,CA Folsom,"2,520",6.2
+2220,CA Garden Grove,"5,317",10.9
+2221,CA Glendale,"8,053",8.7
+2222,CA Fresno,"4,933",12.9
+2223,CA Fresno,"4,006",9.6
+2224,CA Fresno,"4,978",9.8
+2225,CA Folsom,"6,228",6.4
+2226,CA Glendale,"1,998",7.9
+2227,CA Garden Grove,298,11.8
+2228,CA Escondido,"6,584",9.9
+2229,CA Fullerton,"7,451",8.5
+2230,CA Fresno,"4,145",10.2
+2231,CA Fresno,"6,682",12.5
+2232,CA El Monte,"6,163",13.4
+2233,CA Hayward,"5,216",8.5
+2234,CA Fremont,"6,816",7.0
+2235,CA Fresno,"2,284",6.6
+2236,CA Fremont,"5,605",6.6
+2237,CA El Monte,"113,475",13.9
+2238,CA Escondido,"2,587",8.6
+2239,CA El Monte,"3,858",12.1
+2240,CA Garden Grove,"3,647",10.4
+2241,CA El Cajon,673,8.2
+2242,CA Hayward,"4,027",8.8
+2243,CA Fresno,"3,567",11.5
+2244,CA Fresno,"4,009",9.3
+2245,CA Elk Grove,"7,000",8.8
+2246,CA Fresno,"2,102",9.5
+2247,CA Fresno,"6,463",12.6
+2249,CA Fresno,"1,631",12.4
+2250,CA Glendale,"3,534",10.0
+2251,CA Garden Grove,"5,004",11.3
+2252,CA Fremont,"214,089",7.5
+2253,CA Fresno,"3,132",6.6
+2254,CA Fontana,"6,125",10.1
+2255,CA Lake Forest,"4,006",9.0
+2256,CA Fontana,814,11.8
+2257,CA Escondido,908,10.0
+2258,CA Hawthorne,"7,022",9.9
+2259,CA Fresno,"1,276",2.4
+2260,CA Escondido,"5,779",8.2
+2261,CA Hayward,"2,222",8.8
+2262,CA El Monte,"4,554",11.8
+2263,CA Fremont,"2,816",8.6
+2264,CA Fresno,"2,641",11.4
+2265,CA Fresno,131,7.0
+2266,CA Fresno,"2,961",14.4
+2267,CA Hawthorne,"3,195",11.8
+2268,CA Fullerton,"2,810",8.7
+2269,CA Hayward,"7,675",8.6
+2270,CA Glendale,"3,908",9.2
+2271,CA El Cajon,"3,262",7.1
+2272,CA Fremont,"6,786",7.5
+2273,CA El Monte,"3,333",12.7
+2274,CA Fresno,"4,673",14.1
+2275,CA Fontana,"1,025",10.8
+2276,CA Glendale,"5,504",10.6
+2277,CA Fresno,"10,762",8.6
+2278,CA Escondido,"4,765",10.0
+2279,CA Elk Grove,658,9.6
+2280,CA Fremont,"3,142",6.2
+2281,CA Hayward,"144,186",9.8
+2282,CA Glendale,"5,604",8.4
+2283,CA El Cajon,"1,217",7.5
+2284,CA Escondido,"5,620",9.5
+2285,CA Glendale,"5,740",7.3
+2286,CA Fremont,"4,080",6.1
+2287,CA Fresno,"4,738",15.8
+2288,CA Folsom,"4,085",8.4
+2289,CA Garden Grove,"4,022",13.4
+2290,CA Hawthorne,"4,407",9.6
+2291,CA Fresno,"5,732",7.5
+2292,CA Fontana,"196,069",10.1
+2293,CA El Monte,"3,789",14.7
+2294,CA Fresno,"1,359",4.7
+2295,CA Fresno,"4,604",11.7
+2296,CA Glendale,"3,865",7.6
+2297,CA Fontana,"5,085",11.3
+2298,CA Folsom,"3,819",5.6
+2299,CA Elk Grove,"6,003",7.9
+2300,CA El Cajon,"5,852",10.8
+2301,CA Fremont,"4,388",8.2
+2302,CA Fullerton,"4,140",11.0
+2303,CA Fresno,"2,851",10.7
+2304,CA Hayward,"1,019",9.7
+2305,CA Garden Grove,"5,551",12.5
+2306,CA El Monte,"4,675",12.8
+2307,CA Fairfield,"5,202",10.4
+2308,CA Fresno,"7,357",9.8
+2309,CA Fullerton,571,3.6
+2310,CA Hawthorne,"84,293",10.3
+2311,CA Glendale,"3,578",9.3
+2312,CA Fontana,"6,584",12.4
+2313,CA El Cajon,"3,550",10.8
+2314,CA Fullerton,"2,325",8.5
+2317,CA Fremont,"6,875",8.3
+2318,CA Fairfield,"3,819",11.4
+2319,CA Fremont,"6,931",8.1
+2320,CA Fresno,"3,609",17.8
+2321,CA Fullerton,"7,154",10.6
+2322,CA Elk Grove,"1,425",10.8
+2323,CA Escondido,"5,217",10.7
+2324,CA Fremont,"4,029",8.4
+2325,CA Hawthorne,"3,477",6.7
+2326,CA Garden Grove,"6,067",12.8
+2327,CA Fairfield,"105,321",9.7
+2328,CA Folsom,"3,275",9.1
+2329,CA Fullerton,"7,955",9.6
+2330,CA Fresno,"2,491",19.2
+2331,CA Fresno,"5,527",8.0
+2332,CA Fairfield,"4,113",10.2
+2333,CA Escondido,"6,702",10.4
+2334,CA Fresno,"7,254",7.0
+2335,CA Hayward,"3,408",9.5
+2336,CA Folsom,"3,687",6.1
+2337,CA Fontana,"10,725",9.3
+2338,CA Escondido,"3,927",8.5
+2339,CA El Cajon,647,10.5
+2340,CA Glendale,"4,990",8.7
+2341,CA Fullerton,"135,161",9.4
+2342,CA Glendale,"4,841",8.9
+2343,CA El Cajon,"99,478",10.4
+2344,CA Garden Grove,630,12.8
+2345,CA Hayward,407,8.3
+2346,CA Fresno,"5,208",10.2
+2347,CA Fairfield,"1,662",12.5
+2348,CA El Monte,"4,575",12.9
+2349,CA Elk Grove,"5,241",9.3
+2350,CA Fremont,"4,308",9.0
+2351,CA Fresno,"6,161",14.7
+2352,CA Escondido,"7,403",8.4
+2353,CA Fremont,"2,985",7.4
+2354,CA Garden Grove,"6,785",11.5
+2355,CA Hayward,"2,331",10.1
+2356,CA Fremont,"7,194",7.5
+2357,CA Fresno,"3,314",13.4
+2358,CA Elk Grove,"7,864",8.6
+2359,CA Fresno,235,10.9
+2360,CA El Monte,"2,281",14.2
+2361,CA Glendale,"5,944",12.1
+2362,CA Fresno,"2,376",9.9
+2363,CA Fairfield,"2,798",8.9
+2364,CA Fontana,"7,089",8.8
+2365,CA Elk Grove,"7,672",8.0
+2367,CA Fullerton,"1,015",11.8
+2368,CA Escondido,"5,813",10.3
+2369,CA Hayward,"6,448",9.4
+2370,CA Hawthorne,"5,702",10.4
+2371,CA Glendale,"3,790",9.5
+2372,CA Fresno,"5,098",13.5
+2373,CA El Cajon,"5,220",9.6
+2374,CA El Monte,642,17.6
+2375,CA Fremont,"4,010",5.9
+2376,CA Glendale,"3,578",8.9
+2377,CA Lake Forest,"4,165",6.6
+2378,CA Long Beach,"4,323",12.9
+2379,CA Irvine,"4,105",6.8
+2380,CA Huntington Beach,360,12.3
+2381,CA Huntington Beach,"4,031",9.3
+2382,CA Long Beach,"5,421",10.7
+2383,CA Long Beach,"4,047",7.3
+2384,CA Lakewood,"4,770",8.6
+2385,CA Lancaster,"6,188",7.2
+2386,CA Hesperia,"4,081",12.9
+2387,CA Long Beach,"2,091",7.6
+2388,CA Lancaster,"5,243",10.3
+2389,CA Lakewood,"4,543",10.6
+2390,CA Hesperia,"5,221",13.0
+2391,CA Long Beach,"1,045",8.8
+2392,CA Indio,"1,561",11.4
+2393,CA Indio,"2,293",15.5
+2394,CA Irvine,"5,672",8.0
+2395,CA Huntington Beach,"4,468",9.3
+2397,CA Long Beach,"2,836",8.4
+2398,CA Long Beach,"2,837",16.4
+2399,CA Lake Forest,"77,264",7.9
+2400,CA Inglewood,"4,683",13.0
+2401,CA Hemet,945,10.3
+2402,CA Hemet,"5,872",15.7
+2403,CA Lake Forest,"4,761",5.9
+2404,CA Lancaster,"5,214",11.7
+2405,CA Livermore,"80,968",6.8
+2406,CA Huntington Beach,"3,584",8.3
+2407,CA Long Beach,"5,155",12.1
+2408,CA Inglewood,"2,597",12.8
+2409,CA Huntington Beach,"3,498",9.0
+2410,CA Long Beach,117,18.8
+2411,CA Lakewood,"5,747",7.6
+2412,CA Livermore,"3,856",6.9
+2413,CA Long Beach,"1,152",13.0
+2414,CA Hesperia,"7,068",10.9
+2415,CA Long Beach,"1,448",7.6
+2416,CA Long Beach,"7,330",11.0
+2417,CA Huntington Beach,"8,230",9.9
+2418,CA Inglewood,"4,191",11.7
+2419,CA Huntington Beach,"3,598",5.7
+2420,CA Irvine,"5,111",7.8
+2421,CA Lakewood,"80,048",8.4
+2422,CA Long Beach,61,23.7
+2423,CA Indio,"4,459",15.1
+2424,CA Lake Forest,"4,230",7.1
+2425,CA Hemet,"2,866",12.2
+2426,CA Livermore,"3,742",7.2
+2427,CA Huntington Beach,"189,992",7.6
+2428,CA Long Beach,"3,369",9.6
+2429,CA Inglewood,"2,551",12.8
+2430,CA Lakewood,"2,433",8.7
+2431,CA Long Beach,"3,608",5.7
+2432,CA Huntington Beach,"5,115",7.1
+2434,CA Long Beach,76,12.5
+2435,CA Long Beach,"1,277",10.6
+2436,CA Livermore,"3,337",6.5
+2437,CA Lancaster,"5,089",11.1
+2438,CA Long Beach,"3,253",6.2
+2439,CA Irvine,"3,581",6.4
+2440,CA Lancaster,"4,352",10.9
+2441,CA Huntington Beach,"4,500",9.7
+2442,CA Long Beach,"4,409",10.7
+2443,CA Inglewood,"4,115",11.1
+2444,CA Huntington Beach,"5,847",8.8
+2445,CA Indio,537,10.5
+2446,CA Huntington Beach,"1,966",8.8
+2447,CA Long Beach,"3,995",6.7
+2448,CA Irvine,"8,391",8.2
+2449,CA Long Beach,"4,916",11.6
+2450,CA Long Beach,"3,802",8.8
+2451,CA Lake Forest,"5,182",9.5
+2452,CA Irvine,"5,391",6.2
+2453,CA Lancaster,"1,760",7.9
+2454,CA Irvine,549,3.4
+2455,CA Long Beach,"1,802",11.5
+2456,CA Long Beach,"5,250",12.8
+2457,CA Inglewood,"109,673",13.0
+2458,CA Irvine,"8,833",6.9
+2459,CA Huntington Beach,"4,101",9.0
+2460,CA Indio,"2,978",17.5
+2461,CA Livermore,"6,610",7.6
+2462,CA Hemet,"7,646",11.1
+2463,CA Long Beach,"3,496",11.3
+2464,CA Long Beach,"5,795",7.6
+2465,CA Lakewood,"2,699",7.9
+2466,CA Long Beach,"6,415",9.5
+2467,CA Lancaster,"3,050",6.7
+2468,CA Lancaster,"3,822",7.8
+2469,CA Hemet,"4,112",15.5
+2470,CA Irvine,"8,186",8.4
+2471,CA Huntington Beach,"3,035",8.4
+2472,CA Hesperia,"5,434",12.4
+2473,CA Indio,"8,421",13.3
+2474,CA Long Beach,"4,107",11.4
+2475,CA Lakewood,"80,048",8.6
+2476,CA Long Beach,"6,158",11.0
+2477,CA Indio,"5,471",10.2
+2478,CA Huntington Beach,"8,090",12.0
+2479,CA Hemet,"2,641",15.5
+2480,CA Long Beach,"6,092",11.4
+2481,CA Long Beach,"5,141",7.3
+2483,CA Lake Forest,"5,545",6.8
+2484,CA Long Beach,"6,230",12.1
+2485,CA Huntington Beach,"4,287",6.9
+2486,CA Inglewood,"5,059",10.6
+2487,CA Long Beach,"6,616",10.2
+2488,CA Lakewood,864,12.2
+2489,CA Livermore,"3,419",5.9
+2490,CA Long Beach,"5,167",11.6
+2491,CA Hemet,"5,791",13.7
+2492,CA Livermore,"1,509",6.6
+2494,CA Lakewood,"4,612",8.8
+2495,CA Long Beach,"4,130",11.3
+2496,CA Huntington Beach,583,5.5
+2497,CA Irvine,"3,469",8.4
+2498,CA Inglewood,"1,914",13.4
+2499,CA Huntington Beach,"2,480",8.9
+2500,CA Indio,"3,035",16.2
+2501,CA Long Beach,"4,284",7.4
+2502,CA Long Beach,"4,661",10.0
+2503,CA Lake Forest,"77,264",7.8
+2504,CA Livermore,"4,510",6.6
+2505,CA Lake Forest,"5,119",5.9
+2506,CA Long Beach,"4,543",8.2
+2507,CA Inglewood,73,11.5
+2508,CA Irvine,"5,675",8.0
+2509,CA Long Beach,"4,065",11.6
+2510,CA Inglewood,"5,517",12.0
+2511,CA Inglewood,"6,613",13.5
+2512,CA Indio,"5,378",13.1
+2513,CA Lancaster,"7,100",12.8
+2514,CA Long Beach,"4,783",5.7
+2515,CA Lancaster,"12,468",7.2
+2516,CA Long Beach,"3,483",10.6
+2517,CA Hesperia,"5,949",10.1
+2518,CA Hemet,"1,075",10.7
+2519,CA Lancaster,"3,721",12.0
+2520,CA Livermore,"80,968",7.0
+2521,CA Lakewood,"4,447",8.4
+2522,CA Lancaster,"5,318",10.3
+2523,CA Long Beach,"3,791",10.8
+2524,CA Irvine,"4,175",7.1
+2525,CA Inglewood,"2,461",14.8
+2526,CA Huntington Beach,"4,031",7.1
+2527,CA Livermore,"4,449",7.0
+2528,CA Lakewood,"3,616",8.1
+2529,CA Lancaster,"4,375",11.5
+2530,CA Irvine,"3,460",8.5
+2531,CA Lancaster,"4,002",12.0
+2532,CA Long Beach,"4,779",12.3
+2533,CA Irvine,"3,087",4.2
+2534,CA Hemet,"2,847",15.4
+2535,CA Hesperia,"4,800",13.8
+2536,CA Inglewood,"6,533",13.2
+2537,CA Long Beach,"2,039",15.8
+2538,CA Long Beach,"462,257",10.2
+2539,CA Irvine,"3,308",9.6
+2540,CA Huntington Beach,"2,502",8.9
+2541,CA Livermore,"6,594",7.1
+2542,CA Hesperia,"5,235",12.7
+2543,CA Long Beach,"3,441",8.2
+2544,CA Lake Forest,"5,358",10.2
+2545,CA Huntington Beach,"2,354",8.4
+2546,CA Inglewood,"4,126",11.8
+2547,CA Lancaster,"8,592",7.9
+2548,CA Long Beach,"5,153",9.7
+2549,CA Indio,"5,264",10.4
+2550,CA Hemet,"2,911",19.0
+2551,CA Long Beach,"4,587",12.1
+2552,CA Long Beach,"5,098",7.3
+2553,CA Lancaster,52,10.8
+2554,CA Long Beach,"3,973",9.6
+2555,CA Lancaster,"3,489",10.7
+2556,CA Huntington Beach,"3,924",8.7
+2557,CA Huntington Beach,"3,730",10.8
+2558,CA Long Beach,"3,190",8.7
+2559,CA Long Beach,"4,969",6.2
+2560,CA Livermore,"2,220",7.3
+2561,CA Irvine,"212,375",6.8
+2562,CA Huntington Beach,"2,860",7.9
+2563,CA Inglewood,"6,856",10.2
+2564,CA Livermore,"5,660",7.5
+2565,CA Long Beach,"6,357",7.6
+2566,CA Livermore,"6,224",7.7
+2567,CA Hesperia,"5,049",10.7
+2568,CA Hemet,"1,371",10.8
+2569,CA Lancaster,"5,913",9.9
+2570,CA Lakewood,"2,347",10.4
+2571,CA Lancaster,"8,284",9.4
+2572,CA Huntington Beach,"4,332",8.9
+2573,CA Irvine,"12,096",5.8
+2574,CA Livermore,"6,534",7.0
+2575,CA Long Beach,"4,762",9.5
+2576,CA Indio,"8,675",7.7
+2577,CA Hemet,"8,437",10.6
+2578,CA Inglewood,245,13.7
+2579,CA Inglewood,"2,478",14.4
+2580,CA Hemet,"1,180",11.2
+2581,CA Lake Forest,"6,206",6.0
+2582,CA Huntington Beach,"3,606",8.7
+2583,CA Lancaster,"7,669",10.2
+2584,CA Irvine,"212,375",7.8
+2585,CA Irvine,"11,707",5.5
+2586,CA Huntington Beach,"5,183",6.8
+2587,CA Long Beach,"5,370",11.2
+2588,CA Inglewood,"3,349",10.7
+2589,CA Long Beach,"4,510",11.8
+2590,CA Long Beach,"3,725",6.9
+2591,CA Lake Forest,"6,154",8.0
+2592,CA Long Beach,"3,992",6.2
+2593,CA Lancaster,"3,904",13.8
+2594,CA Irvine,"2,773",5.4
+2595,CA Long Beach,"6,700",6.4
+2596,CA Inglewood,"2,971",15.2
+2597,CA Long Beach,"3,609",10.0
+2598,CA Lakewood,"6,569",8.9
+2599,CA Hemet,"78,657",11.5
+2600,CA Hesperia,"90,173",12.0
+2601,CA Hesperia,"8,022",11.7
+2602,CA Indio,50,10.4
+2603,CA Irvine,"4,916",10.2
+2604,CA Indio,"76,036",12.0
+2605,CA Indio,"5,014",12.6
+2606,CA Long Beach,"3,144",7.0
+2607,CA Lake Forest,"6,323",12.0
+2608,CA Lake Forest,"5,015",7.1
+2609,CA Hemet,513,14.0
+2610,CA Long Beach,"7,828",7.9
+2611,CA Huntington Beach,"1,967",9.8
+2612,CA Livermore,554,4.2
+2613,CA Irvine,"3,303",8.5
+2614,CA Long Beach,"4,454",8.6
+2615,CA Huntington Beach,"4,619",8.7
+2616,CA Irvine,"15,473",7.4
+2617,CA Inglewood,"5,685",11.8
+2618,CA Long Beach,"4,435",10.2
+2619,CA Lancaster,"2,258",8.5
+2620,CA Irvine,"1,722",9.2
+2621,CA Hemet,"3,897",14.4
+2622,CA Indio,379,13.4
+2623,CA Long Beach,"3,501",10.6
+2624,CA Lancaster,"156,633",10.0
+2625,CA Long Beach,"3,399",8.4
+2626,CA Long Beach,"5,414",5.7
+2628,CA Hemet,"2,544",19.9
+2629,CA Hesperia,"8,172",7.6
+2630,CA Huntington Beach,"4,444",5.6
+2631,CA Long Beach,"462,257",9.4
+2632,CA Long Beach,"6,352",10.5
+2633,CA Huntington Beach,"6,028",5.9
+2634,CA Indio,"3,329",10.8
+2635,CA Irvine,"4,212",6.5
+2636,CA Long Beach,"5,181",11.6
+2637,CA Long Beach,"5,499",12.3
+2638,CA Lancaster,772,8.6
+2639,CA Huntington Beach,"4,000",8.3
+2640,CA Long Beach,"7,165",10.4
+2641,CA Lakewood,"5,647",7.9
+2642,CA Irvine,"2,688",3.5
+2643,CA Hesperia,"7,471",12.9
+2644,CA Lakewood,"4,414",8.1
+2645,CA Livermore,"5,833",7.1
+2646,CA Long Beach,"3,117",8.0
+2647,CA Long Beach,"8,255",7.5
+2648,CA Lancaster,"5,289",11.9
+2649,CA Lancaster,"5,816",8.6
+2650,CA Huntington Beach,"4,505",8.1
+2651,CA Long Beach,"5,509",7.5
+2652,CA Inglewood,"5,311",11.7
+2653,CA Hesperia,"6,446",12.4
+2654,CA Huntington Beach,"4,914",9.2
+2655,CA Inglewood,"1,915",10.2
+3282,CA Lake Forest,"1,063",6.4
+3321,CA Irvine,"6,771",9.5
+3322,CA Long Beach,"4,754",10.3
+3323,CA Long Beach,"3,365",17.2
+3324,CA Indio,"5,006",11.3
+3325,CA Irvine,"21,098",6.6
+3326,CA Hemet,"2,890",13.4
+3329,CA Huntington Beach,"3,690",9.0
+3330,CA Lancaster,"3,536",12.0
+3331,CA Long Beach,"4,247",11.1
+3332,CA Lancaster,"5,069",8.6
+3333,CA Lakewood,"3,475",9.5
+3334,CA Irvine,"4,355",8.4
+3335,CA Hesperia,"90,173",11.5
+3336,CA Long Beach,"6,197",10.9
+3337,CA Long Beach,"4,325",8.2
+3338,CA Huntington Beach,"4,468",7.4
+3339,CA Long Beach,"4,699",8.2
+3340,CA Long Beach,"3,990",11.3
+3341,CA Indio,"5,518",11.2
+3342,CA Long Beach,"3,454",9.7
+3343,CA Lancaster,"3,334",10.0
+3344,CA Huntington Beach,"1,536",9.2
+3345,CA Inglewood,606,11.1
+3346,CA Long Beach,"6,356",10.5
+3347,CA Irvine,"2,490",8.2
+3348,CA Inglewood,"2,823",15.3
+3349,CA Long Beach,"3,000",7.1
+3350,CA Lancaster,"1,068",7.9
+3351,CA Hemet,"3,713",15.3
+3352,CA Huntington Beach,"7,143",6.6
+3353,CA Huntington Beach,"5,453",9.7
+3354,CA Hemet,"3,332",12.8
+3355,CA Livermore,"5,353",6.0
+3356,CA Long Beach,"4,101",9.9
+3357,CA Irvine,"3,114",4.8
+3358,CA Irvine,"6,361",5.1
+3359,CA Inglewood,"3,245",13.5
+3360,CA Hesperia,"4,877",11.4
+3361,CA Indio,"76,036",12.1
+3362,CA Huntington Beach,"4,482",5.9
+3363,CA Indio,"3,081",6.3
+3364,CA Hemet,"78,657",13.8
+3365,CA Lakewood,"4,574",7.3
+3366,CA Livermore,"3,102",7.2
+3367,CA Long Beach,"5,277",7.8
+3368,CA Inglewood,"4,879",11.6
+3369,CA Hemet,"4,538",11.4
+3370,CA Long Beach,"1,863",1.0
+3371,CA Long Beach,61,7.9
+3372,CA Huntington Beach,"3,583",8.5
+3373,CA Huntington Beach,"4,630",7.9
+3374,CA Long Beach,"6,995",6.4
+3375,CA Huntington Beach,"3,614",9.4
+3376,CA Long Beach,"4,947",13.8
+3377,CA Hesperia,"5,584",10.6
+3378,CA Irvine,"4,123",7.4
+3379,CA Lancaster,"2,874",9.0
+3380,CA Inglewood,"2,154",15.9
+3381,CA Long Beach,"4,627",7.5
+3382,CA Irvine,"5,327",7.8
+3383,CA Long Beach,"4,176",10.7
+3384,CA Irvine,"10,096",5.9
+3385,CA Long Beach,"5,278",7.3
+3386,CA Lake Forest,"4,328",6.7
+3387,CA Livermore,"3,138",6.7
+3388,CA Indio,"1,804",14.2
+3389,CA Huntington Beach,"4,547",8.9
+3390,CA Huntington Beach,"189,992",8.3
+3391,CA Inglewood,"6,511",11.6
+3392,CA Long Beach,"3,435",8.4
+3393,CA Lake Forest,"3,944",7.6
+3394,CA Huntington Beach,"5,203",7.0
+3395,CA Long Beach,"6,114",7.4
+3396,CA Lakewood,"5,540",7.8
+3397,CA Inglewood,286,11.9
+3398,CA Long Beach,839,16.2
+3399,CA Lake Forest,"5,865",6.7
+3400,CA Long Beach,"7,419",9.9
+3401,CA Indio,"3,744",15.7
+3402,CA Hemet,"5,287",12.0
+3403,CA Long Beach,"2,161",9.0
+3404,CA Long Beach,"5,033",11.3
+3405,CA Lancaster,"156,633",11.1
+3406,CA Lancaster,"3,620",17.9
+3407,CA Long Beach,"2,837",10.6
+3408,CA Huntington Beach,"5,371",8.6
+3409,CA Hemet,"4,217",17.3
+3410,CA Long Beach,"2,446",12.3
+3411,CA Long Beach,"4,667",11.4
+3414,CA Long Beach,"3,667",14.4
+3415,CA Inglewood,"109,673",12.4
+3416,CA Hesperia,316,16.2
+3417,CA Irvine,"2,660",8.2
+3418,CA Livermore,"4,324",7.0
+3419,CA Lakewood,"5,411",10.4
+3420,CA Hesperia,"6,437",10.6
+3421,CA Lakewood,"4,463",8.5
+3422,CA Long Beach,"1,388",8.4
+3423,CA Long Beach,"5,547",5.0
+3424,CA Long Beach,"3,288",7.6
+3425,CA Irvine,"14,044",3.4
+3426,CA Lancaster,"2,343",8.5
+3427,CA Long Beach,"4,930",11.9
+3428,CA Huntington Beach,"5,500",6.8
+3429,CA Long Beach,"5,171",10.4
+3430,CA Lakewood,"3,877",7.4
+3431,CA Lancaster,"4,285",9.4
+3432,CA Long Beach,"4,399",6.7
+3433,CA Lancaster,"6,764",11.5
+3434,CA Los Angeles,"5,050",10.8
+3435,CA Los Angeles,"6,494",10.6
+3436,CA Los Angeles,"4,586",12.8
+3437,CA Los Angeles,"3,313",13.8
+3438,CA Los Angeles,"3,871",12.6
+3439,CA Los Angeles,"2,995",14.7
+3440,CA Los Angeles,"2,077",20.5
+3441,CA Los Angeles,"5,575",12.2
+3442,CA Los Angeles,"5,275",14.7
+3443,CA Los Angeles,"1,576",6.9
+3444,CA Los Angeles,"5,379",6.2
+3445,CA Los Angeles,"3,846",11.7
+3446,CA Los Angeles,"4,798",13.6
+3447,CA Los Angeles,"2,982",8.9
+3448,CA Los Angeles,"5,394",12.2
+3449,CA Los Angeles,"3,838",7.5
+3450,CA Los Angeles,"3,005",9.1
+3451,CA Los Angeles,"4,316",8.6
+3452,CA Los Angeles,"5,949",9.2
+3453,CA Los Angeles,"3,947",9.6
+3454,CA Los Angeles,"5,234",11.9
+3455,CA Los Angeles,"4,875",8.6
+3456,CA Los Angeles,"3,476",9.4
+3457,CA Los Angeles,"6,957",13.6
+3458,CA Los Angeles,"5,504",5.3
+3459,CA Los Angeles,"7,110",14.0
+3460,CA Los Angeles,"4,083",6.2
+3461,CA Los Angeles,"4,043",6.6
+3462,CA Los Angeles,"4,987",10.5
+3463,CA Los Angeles,"4,302",9.6
+3464,CA Los Angeles,"4,101",14.1
+3465,CA Los Angeles,"4,550",6.6
+3466,CA Los Angeles,"4,199",8.9
+3467,CA Los Angeles,"2,692",13.4
+3468,CA Los Angeles,"2,430",11.4
+3469,CA Los Angeles,"3,425",14.1
+3470,CA Los Angeles,"3,140",8.5
+3471,CA Los Angeles,"4,057",13.1
+3472,CA Los Angeles,"2,865",11.0
+3473,CA Los Angeles,"2,374",7.8
+3474,CA Los Angeles,"3,301",10.6
+3475,CA Los Angeles,"3,235",10.1
+3476,CA Los Angeles,"3,513",11.4
+3477,CA Los Angeles,"4,193",9.9
+3478,CA Los Angeles,"2,306",10.9
+3479,CA Los Angeles,"4,775",8.6
+3480,CA Los Angeles,"4,780",11.6
+3481,CA Los Angeles,"3,282",12.0
+3482,CA Los Angeles,"2,877",3.6
+3483,CA Los Angeles,"4,520",12.1
+3484,CA Los Angeles,"5,641",10.2
+3485,CA Los Angeles,"4,502",9.9
+3486,CA Los Angeles,"4,210",9.3
+3487,CA Los Angeles,"4,856",3.2
+3488,CA Los Angeles,"2,853",10.1
+3489,CA Los Angeles,"2,317",8.1
+3490,CA Los Angeles,"4,328",12.2
+3491,CA Los Angeles,"2,567",9.2
+3492,CA Los Angeles,"4,273",12.0
+3493,CA Los Angeles,"3,233",7.9
+3494,CA Los Angeles,"4,074",8.5
+3495,CA Los Angeles,"4,769",10.7
+3496,CA Los Angeles,"2,938",11.0
+3497,CA Los Angeles,"4,989",10.5
+3498,CA Los Angeles,"3,444",12.6
+3499,CA Los Angeles,"3,493",9.8
+3500,CA Los Angeles,"3,338",11.4
+3501,CA Los Angeles,"3,442",10.2
+3502,CA Los Angeles,"3,285",13.5
+3503,CA Los Angeles,"2,264",8.0
+3504,CA Los Angeles,"2,461",5.6
+3505,CA Los Angeles,"4,227",9.1
+3506,CA Los Angeles,"5,335",12.7
+3507,CA Los Angeles,"3,712",9.8
+3508,CA Los Angeles,"4,914",8.9
+3509,CA Los Angeles,"2,939",9.8
+3510,CA Los Angeles,"2,991",9.8
+3511,CA Los Angeles,"4,113",12.5
+3512,CA Los Angeles,"3,529",5.3
+3513,CA Los Angeles,"4,114",10.8
+3514,CA Los Angeles,"4,195",10.9
+3515,CA Los Angeles,"4,358",12.1
+3516,CA Los Angeles,"3,544",5.7
+3517,CA Los Angeles,"2,725",10.3
+3518,CA Los Angeles,"3,430",9.0
+3519,CA Los Angeles,"2,289",8.0
+3520,CA Los Angeles,"2,594",13.6
+3521,CA Los Angeles,"3,126",9.1
+3522,CA Los Angeles,"4,839",13.3
+3523,CA Los Angeles,"4,667",10.0
+3524,CA Los Angeles,"4,355",8.9
+3525,CA Los Angeles,"3,680",6.4
+3526,CA Los Angeles,"3,765",11.3
+3527,CA Los Angeles,"4,252",10.7
+3528,CA Los Angeles,"5,345",12.8
+3529,CA Los Angeles,"3,077",7.5
+3530,CA Los Angeles,"2,984",8.1
+3531,CA Los Angeles,"4,786",8.9
+3532,CA Los Angeles,"5,911",6.5
+3533,CA Los Angeles,"5,431",7.0
+3534,CA Los Angeles,"3,520",14.2
+3535,CA Los Angeles,"3,303",14.2
+3536,CA Los Angeles,"4,902",13.0
+3537,CA Los Angeles,"1,731",11.4
+3539,CA Los Angeles,"2,773",9.8
+3540,CA Los Angeles,"4,497",16.1
+3541,CA Los Angeles,"5,446",10.1
+3542,CA Los Angeles,"2,165",8.1
+3543,CA Los Angeles,"4,506",7.3
+3544,CA Los Angeles,"5,494",9.3
+3545,CA Los Angeles,"5,348",12.9
+3546,CA Los Angeles,"1,177",7.7
+3547,CA Los Angeles,"4,065",12.8
+3548,CA Los Angeles,"4,951",12.6
+3549,CA Los Angeles,"2,683",14.8
+3550,CA Los Angeles,"2,779",8.0
+3551,CA Los Angeles,"2,458",8.2
+3552,CA Los Angeles,"3,922",10.4
+3553,CA Los Angeles,"4,962",8.7
+3554,CA Los Angeles,"3,877",11.2
+3555,CA Los Angeles,"2,932",10.6
+3556,CA Los Angeles,"4,675",6.8
+3557,CA Los Angeles,"3,732",9.7
+3558,CA Los Angeles,"2,446",14.2
+3559,CA Los Angeles,"3,759",7.1
+3560,CA Los Angeles,"4,259",13.2
+3561,CA Los Angeles,"5,698",10.3
+3562,CA Los Angeles,"6,273",8.0
+3563,CA Los Angeles,"3,941",7.7
+3564,CA Los Angeles,"3,044",6.8
+3565,CA Los Angeles,"4,388",12.5
+3566,CA Los Angeles,"3,770",12.7
+3567,CA Los Angeles,"5,881",6.1
+3568,CA Los Angeles,"4,260",6.9
+3569,CA Los Angeles,"4,006",9.7
+3570,CA Los Angeles,"2,802",9.7
+3572,CA Los Angeles,"3,077",7.6
+3573,CA Los Angeles,"5,864",14.5
+3574,CA Los Angeles,"4,911",7.3
+3575,CA Los Angeles,"3,905",9.8
+3576,CA Los Angeles,"4,352",6.1
+3577,CA Los Angeles,"5,092",13.7
+3578,CA Los Angeles,"4,024",4.8
+3579,CA Los Angeles,"3,085",9.2
+3580,CA Los Angeles,"4,895",7.8
+3581,CA Los Angeles,"3,412",12.5
+3582,CA Los Angeles,"6,161",12.4
+3583,CA Los Angeles,"2,274",13.4
+3584,CA Los Angeles,"6,893",9.7
+3585,CA Los Angeles,"3,029",6.9
+3586,CA Los Angeles,"2,743",6.2
+3587,CA Los Angeles,"3,203",16.4
+3588,CA Los Angeles,"4,127",8.9
+3589,CA Los Angeles,"4,409",13.8
+3590,CA Los Angeles,"3,664",8.3
+3591,CA Los Angeles,"3,452",12.5
+3592,CA Los Angeles,"5,691",12.7
+3593,CA Los Angeles,"3,127",17.0
+3595,CA Los Angeles,"3,075",8.8
+3596,CA Los Angeles,"3,074",12.7
+3597,CA Los Angeles,"5,328",11.2
+3598,CA Los Angeles,"3,507",14.6
+3599,CA Los Angeles,"2,748",9.5
+3600,CA Los Angeles,"2,430",13.1
+3601,CA Los Angeles,"2,586",6.1
+3602,CA Los Angeles,"2,799",6.1
+3603,CA Los Angeles,"4,579",11.7
+3604,CA Los Angeles,"5,927",5.9
+3605,CA Los Angeles,"2,334",15.7
+3606,CA Los Angeles,"4,720",8.0
+3607,CA Los Angeles,"3,107",5.7
+3608,CA Los Angeles,"3,761",8.7
+3609,CA Los Angeles,"3,011",9.6
+3610,CA Los Angeles,"2,474",9.5
+3611,CA Los Angeles,"4,729",12.7
+3612,CA Los Angeles,"3,865",8.4
+3613,CA Los Angeles,"4,717",7.7
+3614,CA Los Angeles,"4,720",10.3
+3615,CA Los Angeles,"4,767",7.0
+3616,CA Los Angeles,"3,704",7.5
+3617,CA Los Angeles,"4,751",9.4
+3618,CA Los Angeles,"3,069",9.0
+3619,CA Los Angeles,"5,837",10.9
+3620,CA Los Angeles,"3,672",11.4
+3621,CA Los Angeles,"4,389",12.2
+3622,CA Los Angeles,"5,024",14.2
+3623,CA Los Angeles,"4,646",3.8
+3624,CA Los Angeles,"4,086",15.7
+3625,CA Los Angeles,"5,776",9.7
+3626,CA Los Angeles,"3,902",5.5
+3627,CA Los Angeles,"3,064",13.8
+3628,CA Los Angeles,"3,202",8.5
+3629,CA Los Angeles,"4,565",9.5
+3630,CA Los Angeles,"3,700",14.5
+3631,CA Los Angeles,"2,967",7.4
+3632,CA Los Angeles,"2,833",10.4
+3633,CA Los Angeles,"2,879",12.3
+3634,CA Los Angeles,"6,655",9.6
+3635,CA Los Angeles,"2,260",4.8
+3636,CA Los Angeles,"1,262",8.5
+3637,CA Los Angeles,"3,748",2.3
+3638,CA Los Angeles,"5,531",10.9
+3639,CA Los Angeles,"3,709",10.0
+3640,CA Los Angeles,"9,344",1.2
+3641,CA Los Angeles,"5,306",12.6
+3642,CA Los Angeles,"5,396",7.4
+3643,CA Los Angeles,"3,763",10.8
+3644,CA Los Angeles,"3,926",15.4
+3645,CA Los Angeles,"5,046",8.2
+3646,CA Los Angeles,"5,968",13.0
+3647,CA Los Angeles,"5,446",9.8
+3648,CA Los Angeles,"2,922",12.5
+3649,CA Los Angeles,"4,694",10.1
+3650,CA Los Angeles,"2,645",7.8
+3651,CA Los Angeles,"3,823",13.7
+3652,CA Los Angeles,"4,261",13.2
+3653,CA Los Angeles,"3,375",8.9
+3654,CA Los Angeles,"1,974",10.4
+3655,CA Los Angeles,"3,375",6.6
+3656,CA Los Angeles,"3,315",11.2
+3657,CA Los Angeles,"2,944",12.6
+3658,CA Los Angeles,"4,068",6.8
+3659,CA Los Angeles,"3,016",10.4
+3660,CA Los Angeles,"2,812",14.6
+3661,CA Los Angeles,"3,586",8.2
+3662,CA Los Angeles,"2,434",13.7
+3663,CA Los Angeles,"4,362",7.7
+3664,CA Los Angeles,"2,814",12.8
+3665,CA Los Angeles,"5,412",11.4
+3666,CA Los Angeles,"4,076",9.9
+3667,CA Los Angeles,"3,378",12.9
+3668,CA Los Angeles,"3,172",5.1
+3669,CA Los Angeles,"3,635",10.4
+3670,CA Los Angeles,"4,395",6.8
+3671,CA Los Angeles,"4,687",11.3
+3672,CA Los Angeles,"2,789",13.4
+3673,CA Los Angeles,"5,067",11.8
+3674,CA Los Angeles,"5,103",11.6
+3675,CA Los Angeles,"4,752",14.4
+3676,CA Los Angeles,"5,265",17.0
+3677,CA Los Angeles,"4,707",10.9
+3678,CA Los Angeles,"1,939",8.0
+3679,CA Los Angeles,"3,563",7.3
+3680,CA Los Angeles,"4,015",7.6
+3681,CA Los Angeles,"4,005",15.2
+3682,CA Los Angeles,"3,818",11.8
+3683,CA Los Angeles,"4,633",8.6
+3684,CA Los Angeles,"3,332",8.8
+3685,CA Los Angeles,"3,873",13.2
+3686,CA Los Angeles,"2,882",10.2
+3687,CA Los Angeles,"1,811",7.0
+3688,CA Los Angeles,"6,542",10.5
+3689,CA Los Angeles,"4,668",13.3
+3690,CA Los Angeles,"3,150",12.3
+3691,CA Los Angeles,"3,847",11.3
+3692,CA Los Angeles,"1,363",8.8
+3693,CA Los Angeles,"4,906",13.1
+3694,CA Los Angeles,"3,152",10.7
+3695,CA Los Angeles,"4,052",9.4
+3696,CA Los Angeles,"6,629",9.7
+3697,CA Los Angeles,"5,093",9.3
+3698,CA Los Angeles,"3,413",8.7
+3699,CA Los Angeles,"3,340",9.4
+3700,CA Los Angeles,"5,020",8.9
+3701,CA Los Angeles,"4,594",8.8
+3702,CA Los Angeles,"2,941",7.9
+3703,CA Los Angeles,"5,293",11.1
+3704,CA Los Angeles,"3,344",13.8
+3705,CA Los Angeles,"1,804",11.6
+3706,CA Los Angeles,"4,619",14.0
+3707,CA Los Angeles,"3,069",8.6
+3708,CA Los Angeles,"4,255",8.3
+3709,CA Los Angeles,"4,045",10.7
+3710,CA Los Angeles,"5,969",9.0
+3711,CA Los Angeles,"3,792,621",10.8
+3712,CA Los Angeles,"3,142",13.0
+3713,CA Los Angeles,"3,228",7.9
+3714,CA Los Angeles,"3,087",7.1
+3715,CA Los Angeles,"2,650",13.0
+3716,CA Los Angeles,"3,061",12.8
+3717,CA Los Angeles,"3,300",12.5
+3718,CA Los Angeles,"4,449",9.8
+3719,CA Los Angeles,"5,655",13.9
+3720,CA Los Angeles,"4,758",8.3
+3721,CA Los Angeles,"4,559",9.5
+3722,CA Los Angeles,"5,341",10.2
+3723,CA Los Angeles,"4,338",9.4
+3724,CA Los Angeles,"3,611",6.8
+3725,CA Los Angeles,"4,360",12.5
+3726,CA Los Angeles,"2,781",14.4
+3727,CA Los Angeles,"3,123",7.0
+3728,CA Los Angeles,"3,526",15.0
+3729,CA Los Angeles,"2,615",7.1
+3730,CA Los Angeles,"4,475",5.6
+3731,CA Los Angeles,"2,574",12.4
+3732,CA Los Angeles,"2,990",6.7
+3733,CA Los Angeles,"3,118",10.2
+3734,CA Los Angeles,"5,252",5.3
+3735,CA Los Angeles,"4,655",12.3
+3736,CA Los Angeles,"3,859",11.3
+3737,CA Los Angeles,"5,303",13.1
+3738,CA Los Angeles,"4,657",8.8
+3739,CA Los Angeles,"3,265",12.3
+3740,CA Los Angeles,"2,933",14.5
+3741,CA Los Angeles,"3,996",12.7
+3742,CA Los Angeles,"2,936",8.7
+3743,CA Los Angeles,"4,412",7.7
+3744,CA Los Angeles,"3,262",7.1
+3745,CA Los Angeles,"3,290",7.7
+3746,CA Los Angeles,"1,533",10.4
+3747,CA Los Angeles,"3,600",17.7
+3748,CA Los Angeles,"2,561",7.4
+3749,CA Los Angeles,"3,216",12.7
+3750,CA Los Angeles,"3,363",10.7
+3751,CA Los Angeles,"6,554",13.5
+3752,CA Los Angeles,"3,423",9.2
+3753,CA Los Angeles,"4,878",6.1
+3754,CA Los Angeles,"3,868",11.7
+3755,CA Los Angeles,"4,227",5.7
+3756,CA Los Angeles,"2,906",10.5
+3757,CA Los Angeles,"2,553",21.7
+3758,CA Los Angeles,"4,492",12.0
+3759,CA Los Angeles,"3,379",7.1
+3760,CA Los Angeles,"3,582",11.7
+3761,CA Los Angeles,"2,957",5.1
+3762,CA Los Angeles,"2,669",8.0
+3763,CA Los Angeles,"3,890",11.5
+3764,CA Los Angeles,"3,529",8.5
+3765,CA Los Angeles,"3,887",8.0
+3766,CA Los Angeles,"5,453",9.5
+3767,CA Los Angeles,"6,057",9.7
+3768,CA Los Angeles,"4,596",11.1
+3769,CA Los Angeles,"2,721",11.2
+3770,CA Los Angeles,"4,803",12.4
+3771,CA Los Angeles,"2,507",8.7
+3772,CA Los Angeles,"3,358",7.2
+3773,CA Los Angeles,"3,188",9.8
+3774,CA Los Angeles,"3,851",10.1
+3775,CA Los Angeles,"5,498",13.0
+3776,CA Los Angeles,"3,650",5.2
+3777,CA Los Angeles,"3,138",14.5
+3778,CA Los Angeles,"5,252",13.0
+3779,CA Los Angeles,"2,844",10.7
+3780,CA Los Angeles,164,22.0
+3781,CA Los Angeles,"5,270",7.6
+3782,CA Los Angeles,"2,471",11.6
+3783,CA Los Angeles,"3,083",5.8
+3784,CA Los Angeles,"5,897",9.6
+3785,CA Los Angeles,"3,191",9.3
+3786,CA Los Angeles,"2,189",8.7
+3787,CA Los Angeles,"3,628",7.6
+3788,CA Los Angeles,"4,922",10.6
+3789,CA Los Angeles,"3,506",12.9
+3790,CA Los Angeles,"3,571",12.9
+3791,CA Los Angeles,"4,082",2.7
+3792,CA Los Angeles,"3,189",7.6
+3793,CA Los Angeles,"2,645",9.7
+3794,CA Los Angeles,"3,256",8.1
+3795,CA Los Angeles,"5,364",8.8
+3796,CA Los Angeles,"3,491",13.6
+3797,CA Los Angeles,"2,658",9.2
+3798,CA Los Angeles,"3,509",9.3
+3800,CA Los Angeles,"4,100",10.0
+3801,CA Los Angeles,"6,092",7.3
+3802,CA Los Angeles,"2,800",6.0
+3803,CA Los Angeles,"3,448",5.6
+3804,CA Los Angeles,"5,045",9.9
+3805,CA Los Angeles,"3,410",8.9
+3806,CA Los Angeles,"3,355",5.5
+3807,CA Los Angeles,"3,629",9.0
+3808,CA Los Angeles,"3,914",16.5
+3809,CA Los Angeles,"4,452",5.4
+3810,CA Los Angeles,"3,787",13.7
+3811,CA Los Angeles,"3,648",7.8
+3812,CA Los Angeles,"1,905",7.5
+3813,CA Los Angeles,"2,376",15.3
+3814,CA Los Angeles,"3,851",8.6
+3815,CA Los Angeles,"5,551",11.1
+3816,CA Los Angeles,"7,540",25.5
+3817,CA Los Angeles,"4,037",12.3
+3818,CA Los Angeles,"3,356",9.4
+3819,CA Los Angeles,"4,219",13.0
+3820,CA Los Angeles,"2,313",13.4
+3821,CA Los Angeles,"6,437",7.3
+3822,CA Los Angeles,"5,520",12.0
+3823,CA Los Angeles,"3,357",12.1
+3824,CA Los Angeles,"4,921",11.5
+3825,CA Los Angeles,"2,929",4.7
+3826,CA Los Angeles,"2,820",10.3
+3827,CA Los Angeles,"3,365",9.3
+3828,CA Los Angeles,"2,761",5.1
+3829,CA Los Angeles,"2,288",12.0
+3830,CA Los Angeles,"4,216",6.1
+3831,CA Los Angeles,"3,389",9.1
+3832,CA Los Angeles,"2,945",13.2
+3833,CA Los Angeles,"4,449",12.0
+3834,CA Los Angeles,"3,091",9.8
+3835,CA Los Angeles,"2,698",16.5
+3836,CA Los Angeles,"5,683",5.7
+3837,CA Los Angeles,"4,828",6.7
+3838,CA Los Angeles,"3,299",9.3
+3839,CA Los Angeles,"3,636",10.9
+3840,CA Los Angeles,"5,256",11.3
+3841,CA Los Angeles,"4,431",8.1
+3842,CA Los Angeles,"2,310",10.7
+3843,CA Los Angeles,"2,226",8.5
+3844,CA Los Angeles,"4,192",8.9
+3845,CA Los Angeles,"4,684",8.2
+3846,CA Los Angeles,"3,216",6.3
+3847,CA Los Angeles,"4,580",12.5
+3848,CA Los Angeles,"3,454",13.7
+3849,CA Los Angeles,"3,514",10.7
+3850,CA Los Angeles,"2,867",5.9
+3851,CA Los Angeles,"4,369",10.6
+3852,CA Los Angeles,"5,207",11.9
+3853,CA Los Angeles,"5,473",8.3
+3855,CA Los Angeles,"2,834",6.3
+3856,CA Los Angeles,"3,389",7.9
+3857,CA Los Angeles,"2,492",10.9
+3858,CA Los Angeles,"3,672",11.0
+3859,CA Los Angeles,"4,626",14.6
+3860,CA Los Angeles,"5,175",7.4
+3861,CA Los Angeles,"4,754",12.5
+3862,CA Los Angeles,"3,264",10.8
+3863,CA Los Angeles,"2,216",8.9
+3864,CA Los Angeles,"4,951",11.1
+3865,CA Los Angeles,"4,198",13.7
+3866,CA Los Angeles,"6,146",10.4
+3867,CA Los Angeles,"4,247",11.1
+3868,CA Los Angeles,"3,096",5.7
+3869,CA Los Angeles,"3,848",11.7
+3870,CA Los Angeles,"3,884",10.9
+3871,CA Los Angeles,"4,490",9.0
+3872,CA Los Angeles,"3,599",12.3
+3873,CA Los Angeles,"3,252",8.5
+3874,CA Los Angeles,"5,273",14.4
+3875,CA Los Angeles,"4,157",7.1
+3876,CA Los Angeles,"7,883",7.0
+3877,CA Los Angeles,"1,737",12.5
+3878,CA Los Angeles,"3,164",9.2
+3879,CA Los Angeles,"2,392",15.6
+3880,CA Los Angeles,"3,095",4.4
+3881,CA Los Angeles,"3,453",11.8
+3882,CA Los Angeles,"2,767",9.3
+3883,CA Los Angeles,"2,950",11.7
+3884,CA Los Angeles,"4,021",5.9
+3885,CA Los Angeles,"3,083",5.4
+3886,CA Los Angeles,"3,770",13.5
+3887,CA Los Angeles,"4,645",12.5
+3888,CA Los Angeles,"2,222",5.1
+3889,CA Los Angeles,"4,114",7.7
+3890,CA Los Angeles,"2,091",10.6
+3891,CA Los Angeles,"4,967",12.2
+3892,CA Los Angeles,"4,838",12.2
+3893,CA Los Angeles,"5,267",13.0
+3894,CA Los Angeles,"4,110",11.4
+3895,CA Los Angeles,"4,270",9.0
+3896,CA Los Angeles,"2,589",17.1
+3897,CA Los Angeles,"2,124",11.7
+3898,CA Los Angeles,"4,311",14.5
+3899,CA Los Angeles,"5,220",11.5
+3900,CA Los Angeles,"2,603",8.3
+3901,CA Los Angeles,"2,828",8.7
+3902,CA Los Angeles,"5,138",7.4
+3903,CA Los Angeles,"2,277",12.5
+3904,CA Los Angeles,"5,850",6.0
+3905,CA Los Angeles,"2,999",17.1
+3906,CA Los Angeles,"5,990",10.9
+3907,CA Los Angeles,"2,937",7.5
+3908,CA Los Angeles,"2,439",11.6
+3909,CA Los Angeles,"2,218",6.3
+3910,CA Los Angeles,"2,795",6.0
+3911,CA Los Angeles,"3,695",6.7
+3912,CA Los Angeles,"2,304",5.8
+3913,CA Los Angeles,"3,319",13.9
+3915,CA Los Angeles,"3,071",10.0
+3916,CA Los Angeles,"2,711",9.8
+3917,CA Los Angeles,"2,364",10.1
+3918,CA Los Angeles,"4,137",10.1
+3919,CA Los Angeles,"6,192",13.7
+3920,CA Los Angeles,"3,350",16.2
+3921,CA Los Angeles,"2,654",6.7
+3922,CA Los Angeles,"4,066",5.5
+3923,CA Los Angeles,"4,971",6.8
+3924,CA Los Angeles,"4,920",7.3
+3925,CA Los Angeles,"2,806",5.3
+3926,CA Los Angeles,"3,259",14.3
+3927,CA Los Angeles,"4,843",7.3
+3928,CA Los Angeles,"5,592",7.2
+3929,CA Los Angeles,"3,539",12.5
+3930,CA Los Angeles,"2,979",8.5
+3931,CA Los Angeles,"4,234",5.2
+3932,CA Los Angeles,"4,114",9.4
+3933,CA Los Angeles,"3,588",5.9
+3934,CA Los Angeles,"3,105",13.3
+3935,CA Los Angeles,"3,081",13.7
+3936,CA Los Angeles,"4,186",7.9
+3937,CA Los Angeles,"2,594",8.0
+3938,CA Los Angeles,"2,710",12.2
+3939,CA Los Angeles,"2,210",11.9
+3940,CA Los Angeles,"5,464",13.7
+3941,CA Los Angeles,"3,403",13.4
+3942,CA Los Angeles,"4,097",11.8
+3943,CA Los Angeles,"3,887",12.4
+3944,CA Los Angeles,"3,483",10.1
+3945,CA Los Angeles,"3,091",6.8
+3946,CA Los Angeles,"4,564",13.8
+3947,CA Los Angeles,"5,631",11.1
+3948,CA Los Angeles,"2,164",4.8
+3949,CA Los Angeles,"4,377",13.3
+3950,CA Los Angeles,"2,884",4.3
+3951,CA Los Angeles,"3,922",10.1
+3952,CA Los Angeles,"4,822",12.6
+3953,CA Los Angeles,"4,931",11.8
+3954,CA Los Angeles,"6,143",9.3
+3955,CA Los Angeles,"6,144",9.2
+3956,CA Los Angeles,"6,288",14.4
+3957,CA Los Angeles,"3,475",9.1
+3958,CA Los Angeles,"4,821",13.8
+3959,CA Los Angeles,"3,373",13.0
+3960,CA Los Angeles,"3,854",14.3
+3961,CA Los Angeles,"2,816",14.7
+3962,CA Los Angeles,"4,389",13.3
+3963,CA Los Angeles,"4,418",5.9
+3964,CA Los Angeles,"4,902",10.5
+3965,CA Los Angeles,"5,528",4.8
+3966,CA Los Angeles,"3,019",14.1
+3967,CA Los Angeles,"4,124",6.8
+3968,CA Los Angeles,"4,557",14.8
+3969,CA Los Angeles,"2,472",17.3
+3970,CA Los Angeles,"3,237",9.1
+3971,CA Los Angeles,"2,881",10.9
+3972,CA Los Angeles,"3,463",9.8
+3973,CA Los Angeles,"6,742",11.2
+3974,CA Los Angeles,"3,326",10.4
+3975,CA Los Angeles,"5,818",10.0
+3976,CA Los Angeles,"2,519",12.3
+3977,CA Los Angeles,"2,818",6.7
+3978,CA Los Angeles,"3,933",9.9
+3979,CA Los Angeles,"3,135",7.7
+3980,CA Los Angeles,"4,530",12.2
+3981,CA Los Angeles,"2,819",5.3
+3982,CA Los Angeles,"2,227",6.1
+3983,CA Los Angeles,"2,471",9.9
+3984,CA Los Angeles,"4,943",15.0
+3985,CA Los Angeles,"2,543",9.8
+3986,CA Los Angeles,"3,570",2.9
+3987,CA Los Angeles,"2,201",9.1
+3988,CA Los Angeles,"3,616",14.5
+3989,CA Los Angeles,"4,189",6.5
+3990,CA Los Angeles,"4,235",13.9
+3991,CA Los Angeles,"3,011",5.0
+3992,CA Los Angeles,"4,493",9.0
+3993,CA Los Angeles,"2,887",7.9
+3994,CA Los Angeles,"2,327",11.4
+3995,CA Los Angeles,"3,095",10.9
+3996,CA Los Angeles,"3,007",8.1
+3997,CA Los Angeles,"3,707",13.2
+3998,CA Los Angeles,"3,293",6.6
+3999,CA Los Angeles,"2,620",8.1
+4000,CA Los Angeles,"3,787",8.3
+4001,CA Los Angeles,"2,999",11.2
+4002,CA Los Angeles,"2,738",6.5
+4003,CA Los Angeles,"4,359",6.3
+4004,CA Los Angeles,"2,766",9.0
+4005,CA Los Angeles,"3,078",13.4
+4006,CA Los Angeles,"2,670",8.6
+4007,CA Los Angeles,"2,943",7.8
+4008,CA Los Angeles,"3,728",13.2
+4009,CA Los Angeles,"5,055",13.3
+4010,CA Los Angeles,"4,500",9.7
+4011,CA Los Angeles,"3,461",8.9
+4012,CA Los Angeles,"3,748",6.1
+4013,CA Los Angeles,"3,751",10.4
+4014,CA Los Angeles,"2,235",6.9
+4015,CA Los Angeles,"2,573",5.6
+4016,CA Los Angeles,"3,185",6.4
+4017,CA Los Angeles,"4,178",10.4
+4018,CA Los Angeles,"2,890",5.9
+4019,CA Los Angeles,"5,998",12.1
+4020,CA Los Angeles,"2,886",12.7
+4021,CA Los Angeles,"3,231",12.4
+4022,CA Los Angeles,"5,639",6.7
+4023,CA Los Angeles,"1,604",11.7
+4024,CA Los Angeles,"3,889",8.0
+4025,CA Los Angeles,"2,721",13.7
+4026,CA Los Angeles,"3,378",7.2
+4027,CA Los Angeles,"3,237",12.0
+4028,CA Los Angeles,"3,219",12.3
+4029,CA Los Angeles,"3,738",9.0
+4030,CA Los Angeles,"3,660",7.2
+4031,CA Los Angeles,"2,913",9.8
+4032,CA Los Angeles,"3,458",6.6
+4033,CA Los Angeles,"4,724",13.6
+4034,CA Los Angeles,"2,490",7.5
+4035,CA Los Angeles,"2,869",12.3
+4036,CA Los Angeles,"3,825",10.5
+4037,CA Los Angeles,"3,426",12.6
+4038,CA Los Angeles,"3,960",10.9
+4039,CA Los Angeles,"2,714",15.0
+4040,CA Los Angeles,"2,717",8.8
+4041,CA Los Angeles,"4,221",8.8
+4042,CA Los Angeles,"2,365",11.3
+4043,CA Los Angeles,"3,047",12.6
+4044,CA Los Angeles,"3,743",5.4
+4045,CA Los Angeles,"2,608",7.0
+4046,CA Los Angeles,"3,254",14.6
+4047,CA Los Angeles,"2,656",10.8
+4048,CA Los Angeles,"3,119",13.5
+4049,CA Los Angeles,"3,728",11.2
+4050,CA Los Angeles,"3,386",18.9
+4051,CA Los Angeles,"2,645",10.5
+4052,CA Los Angeles,"2,428",13.0
+4053,CA Los Angeles,"5,287",10.4
+4054,CA Los Angeles,"4,028",11.9
+4055,CA Los Angeles,"2,840",12.2
+4056,CA Los Angeles,"5,213",8.6
+4057,CA Los Angeles,"2,439",9.1
+4058,CA Los Angeles,"4,226",9.3
+4059,CA Los Angeles,"2,549",7.5
+4060,CA Los Angeles,"6,109",9.0
+4062,CA Los Angeles,"4,165",9.1
+4063,CA Los Angeles,"3,983",5.7
+4064,CA Los Angeles,"5,343",8.2
+4065,CA Los Angeles,"4,966",12.8
+4066,CA Los Angeles,"3,707",5.6
+4067,CA Los Angeles,"2,647",7.5
+4068,CA Los Angeles,"6,108",9.5
+4069,CA Los Angeles,"3,877",7.0
+4070,CA Los Angeles,"2,917",7.2
+4071,CA Los Angeles,"4,394",12.7
+4072,CA Los Angeles,"4,422",8.8
+4073,CA Los Angeles,"2,658",11.4
+4074,CA Los Angeles,"2,471",7.4
+4075,CA Los Angeles,"2,363",13.9
+4076,CA Los Angeles,"4,940",10.3
+4077,CA Los Angeles,"1,740",8.2
+4078,CA Los Angeles,"5,021",9.5
+4079,CA Los Angeles,"2,025",14.2
+4080,CA Los Angeles,"3,711",7.1
+4081,CA Los Angeles,"2,899",11.2
+4082,CA Los Angeles,"4,074",10.0
+4083,CA Los Angeles,"4,046",9.9
+4084,CA Los Angeles,"3,372",10.3
+4085,CA Los Angeles,"7,210",10.3
+4086,CA Los Angeles,"3,637",9.5
+4087,CA Los Angeles,"3,221",11.0
+4088,CA Los Angeles,"3,688",13.1
+4089,CA Los Angeles,"3,335",4.8
+4090,CA Los Angeles,"3,982",11.3
+4091,CA Los Angeles,"2,869",6.1
+4092,CA Los Angeles,"3,510",13.1
+4093,CA Los Angeles,"6,250",7.7
+4094,CA Los Angeles,"2,448",10.4
+4095,CA Los Angeles,"2,370",12.7
+4096,CA Los Angeles,"3,757",12.4
+4097,CA Los Angeles,"3,732",8.9
+4098,CA Los Angeles,"5,531",10.0
+4099,CA Los Angeles,"4,320",7.7
+4100,CA Los Angeles,"4,963",12.8
+4101,CA Los Angeles,"3,031",12.0
+4102,CA Los Angeles,"4,521",9.4
+4103,CA Los Angeles,"4,561",5.7
+4104,CA Los Angeles,"2,481",15.6
+4105,CA Los Angeles,"2,873",4.8
+4106,CA Los Angeles,"4,662",13.5
+4107,CA Los Angeles,"2,878",4.4
+4108,CA Los Angeles,"4,916",11.5
+4109,CA Los Angeles,"2,728",14.5
+4110,CA Los Angeles,"4,156",9.2
+4111,CA Los Angeles,"4,334",9.6
+4112,CA Los Angeles,"4,844",11.9
+4113,CA Los Angeles,"4,306",12.1
+4114,CA Los Angeles,"3,432",11.8
+4116,CA Los Angeles,"3,661",9.1
+4117,CA Los Angeles,"4,971",5.1
+4118,CA Los Angeles,"4,444",6.7
+4119,CA Los Angeles,"3,967",9.8
+4120,CA Los Angeles,"2,657",7.8
+4121,CA Los Angeles,"4,742",10.1
+4122,CA Los Angeles,"4,912",10.3
+4123,CA Los Angeles,"3,200",12.4
+4124,CA Los Angeles,"3,525",11.5
+4125,CA Los Angeles,"2,645",10.1
+4126,CA Los Angeles,"4,009",8.3
+4127,CA Los Angeles,"2,719",11.5
+4128,CA Los Angeles,"5,263",12.8
+4129,CA Los Angeles,"7,087",8.2
+4130,CA Los Angeles,"4,134",5.4
+4131,CA Los Angeles,"3,910",12.8
+4132,CA Los Angeles,"3,792,621",10.0
+4133,CA Los Angeles,"5,194",9.5
+4134,CA Los Angeles,"3,652",9.1
+4135,CA Los Angeles,"3,287",10.9
+4136,CA Los Angeles,239,15.9
+4137,CA Los Angeles,"3,549",9.9
+4138,CA Los Angeles,"3,132",10.7
+4139,CA Los Angeles,"3,359",19.2
+4140,CA Los Angeles,"2,551",13.7
+4141,CA Los Angeles,"2,397",10.9
+4142,CA Los Angeles,"4,285",11.8
+4143,CA Los Angeles,"6,215",4.2
+4144,CA Los Angeles,"5,620",13.3
+4145,CA Los Angeles,"3,349",5.2
+4146,CA Los Angeles,"2,449",7.6
+4147,CA Los Angeles,"4,214",11.7
+4148,CA Los Angeles,"2,466",6.8
+4149,CA Los Angeles,"2,413",5.9
+4150,CA Los Angeles,"4,795",10.9
+4151,CA Los Angeles,"3,898",6.4
+4152,CA Los Angeles,"4,796",6.7
+4153,CA Los Angeles,"4,208",15.0
+4154,CA Los Angeles,"4,638",10.7
+4155,CA Los Angeles,"3,819",7.8
+4156,CA Los Angeles,"5,020",11.7
+4157,CA Los Angeles,"3,353",12.3
+4158,CA Los Angeles,"2,643",9.2
+4159,CA Los Angeles,"5,066",14.0
+4160,CA Los Angeles,"2,679",15.6
+4161,CA Los Angeles,"2,791",14.4
+4162,CA Los Angeles,"3,391",8.4
+4163,CA Los Angeles,"3,153",12.7
+4164,CA Los Angeles,"4,141",10.3
+4165,CA Los Angeles,"4,259",7.9
+4166,CA Los Angeles,"4,481",5.3
+4167,CA Los Angeles,"3,984",6.1
+4168,CA Los Angeles,"3,372",13.9
+4169,CA Los Angeles,"4,445",7.6
+4170,CA Los Angeles,"3,464",12.1
+4172,CA Los Angeles,"4,371",12.4
+4173,CA Los Angeles,"3,275",11.1
+4174,CA Los Angeles,"5,060",9.1
+4175,CA Los Angeles,"4,977",6.8
+4176,CA Los Angeles,"1,698",9.4
+4177,CA Los Angeles,"4,001",15.5
+4178,CA Los Angeles,"4,303",13.1
+4179,CA Los Angeles,"4,557",11.1
+4180,CA Los Angeles,"4,750",7.4
+4181,CA Los Angeles,"4,307",14.6
+4182,CA Los Angeles,"3,052",11.1
+4183,CA Los Angeles,"2,339",11.8
+4184,CA Los Angeles,"3,458",7.4
+4185,CA Los Angeles,"2,598",13.5
+4186,CA Los Angeles,"4,135",11.7
+4187,CA Los Angeles,"2,490",8.3
+4188,CA Los Angeles,"4,715",9.7
+4189,CA Los Angeles,"5,163",8.3
+4190,CA Los Angeles,"2,347",7.2
+4191,CA Los Angeles,"2,030",10.6
+4192,CA Los Angeles,"3,558",9.7
+4193,CA Los Angeles,"6,769",12.8
+4194,CA Los Angeles,"3,243",5.8
+4195,CA Los Angeles,"2,068",14.2
+4196,CA Los Angeles,"3,498",10.2
+4197,CA Los Angeles,"4,202",7.4
+4198,CA Los Angeles,"3,766",10.8
+4199,CA Los Angeles,"2,827",9.1
+4200,CA Los Angeles,"3,662",6.8
+4201,CA Los Angeles,"3,447",11.3
+4202,CA Los Angeles,"2,851",7.8
+4203,CA Los Angeles,"4,358",12.6
+4204,CA Los Angeles,"2,718",6.7
+4205,CA Los Angeles,"4,029",7.1
+4206,CA Los Angeles,"3,524",7.2
+4207,CA Los Angeles,"2,621",12.5
+4208,CA Los Angeles,"3,000",5.6
+4209,CA Los Angeles,"3,851",10.5
+4210,CA Los Angeles,"2,369",13.0
+4211,CA Los Angeles,"3,224",14.8
+4212,CA Los Angeles,"5,531",8.2
+4213,CA Los Angeles,"3,768",11.8
+4214,CA Los Angeles,"3,579",11.8
+4215,CA Los Angeles,"3,603",9.9
+4216,CA Los Angeles,"3,091",5.1
+4217,CA Los Angeles,"3,325",5.7
+4218,CA Los Angeles,"4,352",11.2
+4219,CA Los Angeles,"5,210",12.7
+4220,CA Los Angeles,"2,898",13.7
+4221,CA Los Angeles,"3,942",5.7
+4222,CA Los Angeles,"3,236",12.6
+4223,CA Los Angeles,"3,480",10.5
+4224,CA Los Angeles,"4,457",13.9
+4225,CA Los Angeles,"5,049",13.6
+4226,CA Los Angeles,"2,230",8.4
+4227,CA Los Angeles,"3,307",6.1
+4228,CA Los Angeles,"3,247",11.0
+4229,CA Los Angeles,"5,543",9.0
+4230,CA Los Angeles,"2,113",8.2
+4231,CA Los Angeles,"2,975",10.1
+4232,CA Los Angeles,"2,304",9.6
+4233,CA Los Angeles,"3,442",13.9
+4234,CA Los Angeles,"4,796",9.1
+4235,CA Los Angeles,"4,460",9.2
+4236,CA Los Angeles,"3,741",8.9
+4237,CA Los Angeles,"3,926",14.1
+4238,CA Los Angeles,"4,085",7.7
+4239,CA Los Angeles,"3,794",13.3
+4240,CA Los Angeles,"4,972",12.5
+4241,CA Los Angeles,"3,673",13.9
+4242,CA Los Angeles,"4,279",10.1
+4243,CA Los Angeles,"2,675",11.3
+4244,CA Los Angeles,"2,512",5.9
+4245,CA Los Angeles,"2,525",5.5
+4246,CA Los Angeles,"3,254",11.3
+4247,CA Los Angeles,"3,429",9.3
+4248,CA Los Angeles,"4,322",8.7
+4249,CA Los Angeles,"4,993",8.4
+4250,CA Los Angeles,"4,688",12.7
+4251,CA Los Angeles,"4,113",12.5
+4252,CA Los Angeles,"4,523",3.2
+4253,CA Los Angeles,"2,784",10.1
+4254,CA Los Angeles,"5,871",6.1
+4255,CA Los Angeles,"3,966",10.5
+4256,CA Los Angeles,"3,664",6.8
+4257,CA Los Angeles,"4,074",12.5
+4258,CA Los Angeles,"3,503",8.9
+4259,CA Los Angeles,"5,395",7.1
+4260,CA Los Angeles,"4,580",5.2
+4261,CA Los Angeles,"2,744",7.5
+4262,CA Los Angeles,"4,113",11.9
+4263,CA Los Angeles,"3,310",13.0
+4264,CA Los Angeles,"5,198",10.8
+4265,CA Los Angeles,"3,180",11.6
+4266,CA Los Angeles,"3,004",7.3
+4267,CA Los Angeles,"4,462",8.2
+4268,CA Los Angeles,"3,903",9.4
+4269,CA Los Angeles,"5,267",14.1
+4270,CA Los Angeles,"3,938",13.3
+4271,CA Los Angeles,"3,228",11.8
+4272,CA Los Angeles,"3,205",3.9
+4273,CA Los Angeles,"4,337",7.3
+4274,CA Los Angeles,"3,573",10.2
+4275,CA Los Angeles,"2,065",10.1
+4276,CA Los Angeles,"2,146",18.7
+4277,CA Los Angeles,"2,789",15.0
+4278,CA Los Angeles,"5,631",15.0
+4279,CA Los Angeles,"3,110",3.5
+4280,CA Los Angeles,"2,805",10.8
+4281,CA Los Angeles,"2,830",11.4
+4282,CA Los Angeles,"3,414",8.9
+4283,CA Los Angeles,"2,489",8.6
+4284,CA Los Angeles,"4,179",13.3
+4285,CA Los Angeles,"3,449",10.6
+4286,CA Los Angeles,"2,411",6.9
+4287,CA Los Angeles,"7,560",10.0
+4288,CA Los Angeles,"3,885",6.6
+4289,CA Los Angeles,"4,714",11.9
+4290,CA Los Angeles,"5,880",10.7
+4291,CA Los Angeles,"4,354",8.0
+4292,CA Los Angeles,"3,320",12.6
+4293,CA Los Angeles,"3,888",14.4
+4294,CA Los Angeles,"5,383",12.2
+4295,CA Los Angeles,"2,968",15.1
+4296,CA Los Angeles,"4,787",17.2
+4297,CA Los Angeles,"4,338",8.7
+4298,CA Los Angeles,"2,487",9.7
+4299,CA Los Angeles,"3,765",11.4
+4300,CA Los Angeles,186,8.5
+4301,CA Los Angeles,"3,565",14.9
+4302,CA Los Angeles,"3,203",7.0
+4303,CA Los Angeles,"4,412",5.3
+4304,CA Los Angeles,"3,824",14.7
+4305,CA Los Angeles,"3,705",14.0
+4306,CA Los Angeles,"4,140",12.6
+4307,CA Los Angeles,"4,660",11.9
+4308,CA Los Angeles,"4,541",10.6
+4309,CA Los Angeles,"4,192",7.4
+4310,CA Los Angeles,"4,589",13.6
+4311,CA Los Angeles,"3,909",8.3
+4312,CA Los Angeles,"4,995",8.8
+4313,CA Los Angeles,"5,063",3.2
+4314,CA Los Angeles,"3,927",13.0
+4315,CA Los Angeles,"5,108",8.4
+4316,CA Los Angeles,"3,068",10.8
+4317,CA Los Angeles,"3,293",12.1
+4318,CA Los Angeles,"3,477",13.8
+4319,CA Los Angeles,"5,859",8.3
+4320,CA Los Angeles,"4,089",13.5
+4321,CA Los Angeles,"3,158",6.0
+4322,CA Los Angeles,"3,562",13.2
+4323,CA Los Angeles,"2,785",7.4
+4324,CA Los Angeles,"3,965",13.0
+4325,CA Los Angeles,"4,708",6.4
+4326,CA Los Angeles,"4,932",13.7
+4327,CA Los Angeles,"4,341",12.1
+4328,CA Los Angeles,"4,688",10.6
+4329,CA Los Angeles,"3,564",10.8
+4330,CA Los Angeles,"4,726",9.8
+4331,CA Los Angeles,"2,801",6.1
+4332,CA Los Angeles,"3,812",9.1
+4333,CA Los Angeles,"3,323",13.5
+4334,CA Los Angeles,"4,591",10.4
+4335,CA Los Angeles,"2,601",12.3
+4336,CA Los Angeles,"3,122",11.8
+4337,CA Los Angeles,"4,019",12.6
+4338,CA Los Angeles,"4,163",5.9
+4339,CA Los Angeles,"3,954",10.9
+4340,CA Los Angeles,"2,197",7.4
+4341,CA Los Angeles,"5,557",9.6
+4342,CA Los Angeles,"3,791",7.0
+4343,CA Los Angeles,"3,806",15.7
+4344,CA Los Angeles,"6,272",10.6
+4345,CA Los Angeles,"4,098",14.1
+4346,CA Los Angeles,"3,417",14.2
+4347,CA Los Angeles,"5,218",12.4
+4348,CA Los Angeles,"2,319",5.2
+4349,CA Los Angeles,"3,635",7.0
+4350,CA Los Angeles,"2,428",9.4
+4351,CA Los Angeles,"2,607",15.0
+4352,CA Los Angeles,145,9.7
+4353,CA Los Angeles,"2,351",9.4
+4354,CA Los Angeles,"4,199",5.8
+4355,CA Los Angeles,"4,309",9.4
+4356,CA Los Angeles,"2,870",7.2
+4357,CA Los Angeles,"4,403",12.5
+4358,CA Los Angeles,"3,506",9.2
+4359,CA Los Angeles,"5,262",13.8
+4360,CA Los Angeles,"6,295",9.7
+4361,CA Los Angeles,"2,775",12.1
+4362,CA Los Angeles,"2,735",5.7
+4363,CA Los Angeles,"3,042",7.6
+4364,CA Los Angeles,173,7.3
+4365,CA Los Angeles,"4,657",9.7
+4366,CA Los Angeles,"3,343",14.4
+4367,CA Los Angeles,"2,037",6.6
+4368,CA Los Angeles,"4,038",10.4
+4369,CA Los Angeles,"3,539",7.9
+4370,CA Los Angeles,"4,526",6.9
+4371,CA Los Angeles,"5,551",7.8
+4372,CA Los Angeles,"3,184",9.9
+4373,CA Los Angeles,"4,484",7.9
+4374,CA Los Angeles,"4,288",9.2
+4375,CA Los Angeles,"3,191",13.9
+4376,CA Los Angeles,"4,478",13.4
+4377,CA Los Angeles,"4,753",11.0
+4378,CA Los Angeles,"3,903",10.3
+4379,CA Los Angeles,"3,411",12.7
+4380,CA Los Angeles,"3,019",12.4
+4381,CA Los Angeles,"3,536",8.9
+4382,CA Los Angeles,"3,089",5.6
+4383,CA Los Angeles,"6,170",12.6
+4384,CA Los Angeles,"5,350",15.3
+4385,CA Los Angeles,"5,404",9.4
+4386,CA Los Angeles,"2,176",13.7
+4387,CA Los Angeles,"3,549",9.2
+4388,CA Los Angeles,"4,341",7.6
+4389,CA Los Angeles,"2,675",13.4
+4390,CA Los Angeles,"3,488",7.0
+4391,CA Los Angeles,"3,618",14.1
+4392,CA Los Angeles,"3,606",12.0
+4393,CA Los Angeles,"2,939",11.4
+4394,CA Los Angeles,"2,715",14.2
+4395,CA Los Angeles,"3,512",8.8
+4396,CA Los Angeles,"2,433",15.0
+4397,CA Los Angeles,"2,376",8.5
+4398,CA Los Angeles,"2,776",2.2
+4399,CA Los Angeles,"3,991",11.7
+4400,CA Los Angeles,"3,567",7.4
+4401,CA Los Angeles,"3,216",15.0
+4402,CA Los Angeles,"3,881",11.1
+4403,CA Los Angeles,"3,621",15.3
+4404,CA Los Angeles,"3,944",6.2
+4405,CA Los Angeles,"5,374",9.2
+4406,CA Los Angeles,"3,236",8.3
+4407,CA Los Angeles,"5,057",9.5
+4408,CA Los Angeles,"3,720",10.5
+4409,CA Los Angeles,"2,422",11.2
+4410,CA Los Angeles,"3,942",10.8
+4411,CA Los Angeles,"2,477",4.1
+4412,CA Los Angeles,"5,895",14.1
+4413,CA Los Angeles,"3,498",8.3
+4414,CA Los Angeles,"3,612",12.7
+4415,CA Los Angeles,"2,411",5.8
+4416,CA Los Angeles,"4,679",12.4
+4417,CA Los Angeles,"2,423",5.0
+4418,CA Los Angeles,"4,351",10.8
+4419,CA Los Angeles,"4,325",5.9
+4420,CA Los Angeles,"4,731",9.6
+4421,CA Los Angeles,"5,310",9.6
+4422,CA Los Angeles,"4,750",9.0
+4423,CA Los Angeles,"6,409",9.5
+4424,CA Los Angeles,"4,417",12.7
+4425,CA Los Angeles,"3,755",12.5
+4426,CA Los Angeles,"3,513",8.2
+4427,CA Los Angeles,"3,270",5.3
+4428,CA Los Angeles,"5,000",11.2
+4429,CA Los Angeles,"4,219",10.9
+4430,CA Los Angeles,"3,894",8.7
+4431,CA Los Angeles,"6,087",6.4
+4432,CA Los Angeles,"2,201",8.8
+4433,CA Los Angeles,"3,670",11.3
+4434,CA Los Angeles,"2,631",10.5
+4435,CA Los Angeles,"3,289",6.3
+4436,CA Los Angeles,554,5.4
+4437,CA Los Angeles,"3,252",8.0
+4438,CA Los Angeles,"4,085",10.9
+4439,CA Mission Viejo,"93,305",8.1
+4440,CA Newport Beach,"6,958",7.4
+4441,CA Menifee,"2,594",13.4
+4442,CA Napa,"2,856",9.6
+4443,CA Napa,"2,951",8.8
+4444,CA Murrieta,"3,771",8.9
+4445,CA Moreno Valley,"4,669",15.2
+4446,CA Moreno Valley,"9,483",8.1
+4447,CA Manteca,"4,463",9.5
+4449,CA Modesto,"5,038",12.8
+4450,CA Merced,"3,983",11.9
+4452,CA Newport Beach,"2,832",9.8
+4453,CA Mountain View,"5,121",5.7
+4454,CA Modesto,"6,188",11.1
+4455,CA Merced,"6,055",13.2
+4456,CA Moreno Valley,"4,071",10.5
+4457,CA Mission Viejo,"3,539",8.9
+4458,CA Modesto,"3,567",11.3
+4459,CA Manteca,"3,646",8.7
+4460,CA Norwalk,"7,727",8.8
+4461,CA Milpitas,"4,883",10.5
+4462,CA Modesto,"5,214",10.7
+4463,CA Modesto,"2,196",12.6
+4464,CA Menifee,"3,468",7.6
+4465,CA Manteca,"4,493",8.1
+4466,CA Newport Beach,"2,411",6.9
+4467,CA Milpitas,"66,790",9.3
+4468,CA Moreno Valley,"3,299",9.9
+4469,CA Napa,"2,014",9.4
+4470,CA Moreno Valley,"6,365",11.8
+4471,CA Norwalk,"6,835",10.4
+4472,CA Mission Viejo,"3,075",8.3
+4473,CA Menifee,"1,199",9.5
+4474,CA Murrieta,"5,486",8.9
+4475,CA Lynwood,"69,772",11.4
+4476,CA Mountain View,"5,261",6.5
+4477,CA Norwalk,"1,146",15.5
+4478,CA Mission Viejo,"3,840",7.8
+4479,CA Newport Beach,605,6.9
+4480,CA Mission Viejo,"5,715",7.6
+4481,CA Merced,"2,495",11.0
+4482,CA Manteca,174,10.3
+4483,CA Modesto,"2,489",9.8
+4484,CA Milpitas,"5,092",9.6
+4485,CA Moreno Valley,"4,997",10.2
+4486,CA Modesto,"2,589",16.9
+4487,CA Menifee,"4,543",18.6
+4488,CA Newport Beach,"85,186",6.1
+4489,CA Mission Viejo,"2,589",6.2
+4490,CA Modesto,"17,129",8.0
+4491,CA Moreno Valley,"4,107",8.7
+4492,CA Modesto,"6,021",11.4
+4493,CA Milpitas,"3,591",9.2
+4494,CA Lynwood,"2,370",12.2
+4496,CA Mountain View,586,7.9
+4497,CA Mountain View,"6,396",5.9
+4498,CA Napa,"5,013",8.3
+4499,CA Menifee,"2,142",20.8
+4500,CA Newport Beach,"1,626",9.8
+4501,CA Moreno Valley,"8,245",9.3
+4502,CA Menifee,"5,729",7.1
+4503,CA Napa,"4,248",10.7
+4504,CA Merced,"3,213",11.7
+4505,CA Norwalk,"6,881",10.1
+4506,CA Moreno Valley,"4,177",11.8
+4507,CA Manteca,"4,349",9.5
+4508,CA Modesto,"8,628",9.8
+4509,CA Newport Beach,"2,800",7.5
+4510,CA Moreno Valley,"5,048",12.1
+4511,CA Milpitas,"9,882",5.8
+4512,CA Modesto,"4,218",13.8
+4513,CA Murrieta,"6,791",6.2
+4514,CA Modesto,"3,623",9.5
+4515,CA Moreno Valley,"6,727",9.4
+4516,CA Milpitas,"2,373",8.8
+4517,CA Lynwood,"6,943",9.9
+4518,CA Mission Viejo,"2,373",9.2
+4519,CA Murrieta,"12,593",8.1
+4520,CA Napa,"3,242",8.2
+4522,CA Mountain View,"2,541",7.3
+4523,CA Modesto,"4,199",10.5
+4524,CA Moreno Valley,"3,280",11.9
+4526,CA Moreno Valley,"3,612",12.9
+4527,CA Norwalk,"105,549",11.3
+4528,CA Manteca,"4,016",11.6
+4529,CA Norwalk,"5,720",10.5
+4530,CA Moreno Valley,"3,278",10.9
+4531,CA Lynwood,"69,772",14.6
+4532,CA Mountain View,"4,267",6.4
+4533,CA Mission Viejo,"93,305",7.0
+4534,CA Modesto,"6,430",12.4
+4535,CA Mission Viejo,"3,654",7.5
+4536,CA Merced,"6,336",11.3
+4537,CA Menifee,"4,905",13.7
+4538,CA Murrieta,"5,404",8.3
+4539,CA Newport Beach,857,9.7
+4541,CA Modesto,"6,042",10.9
+4542,CA Menifee,"5,947",7.9
+4543,CA Moreno Valley,"4,512",11.1
+4544,CA Moreno Valley,"4,882",11.1
+4545,CA Moreno Valley,"4,780",10.5
+4546,CA Murrieta,403,10.0
+4547,CA Mountain View,"2,719",6.9
+4548,CA Modesto,"4,321",9.9
+4549,CA Menifee,"3,182",7.2
+4550,CA Modesto,"4,789",13.9
+4551,CA Norwalk,"5,891",14.4
+4552,CA Merced,"5,880",10.8
+4553,CA Mountain View,"2,625",5.1
+4554,CA Newport Beach,"7,096",5.9
+4555,CA Modesto,"6,216",10.4
+4556,CA Murrieta,"1,279",11.4
+4557,CA Moreno Valley,"4,489",8.5
+4558,CA Napa,"1,769",8.0
+4559,CA Lynwood,"4,451",12.3
+4560,CA Newport Beach,"85,186",7.3
+4561,CA Norwalk,"5,344",9.6
+4562,CA Moreno Valley,"3,193",12.2
+4563,CA Newport Beach,"5,775",5.5
+4564,CA Mission Viejo,"2,098",5.6
+4565,CA Menifee,"5,171",8.0
+4566,CA Menifee,"77,519",9.5
+4567,CA Mountain View,"2,754",5.5
+4568,CA Modesto,"6,102",9.8
+4569,CA Norwalk,"2,794",9.6
+4570,CA Merced,"3,264",14.3
+4571,CA Milpitas,"5,768",9.4
+4572,CA Murrieta,"8,906",7.5
+4573,CA Norwalk,"4,825",10.1
+4574,CA Merced,"13,086",8.7
+4575,CA Modesto,"4,801",10.4
+4576,CA Lynwood,"6,552",11.3
+4577,CA Modesto,"2,862",11.9
+4578,CA Napa,"5,358",7.9
+4579,CA Moreno Valley,"6,556",10.8
+4580,CA Mission Viejo,"3,626",8.3
+4581,CA Napa,"3,466",8.0
+4582,CA Manteca,"3,949",10.4
+4583,CA Modesto,"4,933",11.7
+4584,CA Menifee,253,8.9
+4585,CA Lynwood,"6,972",11.1
+4586,CA Modesto,"3,861",14.2
+4587,CA Mountain View,815,9.9
+4589,CA Norwalk,"7,518",10.0
+4590,CA Mountain View,"4,480",7.6
+4591,CA Merced,"2,822",16.4
+4592,CA Moreno Valley,"4,922",11.5
+4593,CA Mountain View,"3,706",8.9
+4594,CA Modesto,"5,778",9.4
+4595,CA Merced,"3,648",8.6
+4596,CA Mission Viejo,"4,623",7.3
+4597,CA Napa,"76,915",9.1
+4598,CA Merced,"4,487",14.2
+4599,CA Modesto,62,10.4
+4600,CA Murrieta,"103,466",8.7
+4601,CA Mission Viejo,"4,852",8.1
+4602,CA Newport Beach,"4,795",7.3
+4603,CA Menifee,"9,184",13.6
+4604,CA Moreno Valley,"3,805",11.3
+4605,CA Moreno Valley,"2,540",10.0
+4606,CA Norwalk,"4,191",13.1
+4607,CA Napa,"2,743",9.4
+4608,CA Murrieta,"10,378",7.9
+4609,CA Modesto,"4,080",9.8
+4610,CA Norwalk,"3,828",12.1
+4611,CA Moreno Valley,"3,731",10.0
+4612,CA Manteca,"3,257",10.6
+4613,CA Moreno Valley,"4,888",10.7
+4614,CA Manteca,"6,488",10.1
+4615,CA Manteca,"67,096",9.6
+4616,CA Modesto,"4,458",9.2
+4617,CA Merced,"2,380",13.4
+4618,CA Norwalk,"3,721",11.0
+4619,CA Mountain View,"5,565",6.3
+4620,CA Modesto,"3,694",11.2
+4621,CA Moreno Valley,"2,080",10.2
+4622,CA Mission Viejo,"6,602",7.1
+4624,CA Mountain View,"4,346",4.9
+4625,CA Mountain View,"1,664",7.8
+4626,CA Merced,"78,958",11.6
+4627,CA Lynwood,"6,366",12.8
+4628,CA Napa,"6,431",9.1
+4629,CA Modesto,235,10.4
+4630,CA Murrieta,"8,224",10.1
+4631,CA Newport Beach,"1,674",8.5
+4632,CA Menifee,"1,205",8.8
+4633,CA Moreno Valley,"3,379",11.2
+4634,CA Mission Viejo,"1,577",6.1
+4635,CA Napa,"4,287",8.7
+4636,CA Moreno Valley,"3,670",10.3
+4637,CA Mission Viejo,"2,618",11.0
+4638,CA Modesto,"3,200",9.8
+4639,CA Moreno Valley,"3,200",10.4
+4640,CA Modesto,"3,153",10.0
+4641,CA Mountain View,"2,870",6.2
+4642,CA Norwalk,"3,648",12.1
+4643,CA Modesto,"5,257",9.3
+4644,CA Milpitas,"5,924",8.5
+4645,CA Moreno Valley,"193,365",12.6
+4646,CA Milpitas,"4,733",9.8
+4647,CA Murrieta,"4,108",6.7
+4648,CA Mountain View,"74,066",6.6
+4649,CA Napa,"2,349",8.4
+4650,CA Norwalk,"4,105",10.1
+4651,CA Lynwood,"5,594",12.0
+4652,CA Manteca,"1,844",10.3
+4653,CA Newport Beach,"1,365",8.7
+4654,CA Merced,"3,616",12.6
+4655,CA Menifee,"2,017",18.3
+4656,CA Modesto,"201,165",10.6
+4657,CA Moreno Valley,"3,165",12.5
+4658,CA Napa,"1,970",8.6
+4659,CA Newport Beach,"8,249",7.0
+4660,CA Mission Viejo,"6,696",6.8
+4661,CA Menifee,"77,519",11.2
+4662,CA Modesto,"6,585",10.8
+4663,CA Menifee,"1,907",7.7
+4664,CA Murrieta,"103,466",8.5
+4665,CA Lynwood,"6,483",10.2
+4666,CA Norwalk,"2,719",10.3
+4668,CA Lynwood,"4,956",10.2
+4669,CA Mission Viejo,"3,102",7.1
+4670,CA Mission Viejo,"4,984",8.2
+4671,CA Manteca,70,10.7
+4672,CA Merced,"4,438",15.9
+4673,CA Norwalk,"6,985",9.6
+4675,CA Moreno Valley,"3,262",10.8
+4676,CA Milpitas,"4,901",8.8
+4677,CA Modesto,"1,530",12.1
+4678,CA Menifee,"4,066",9.7
+4679,CA Modesto,247,11.4
+4680,CA Napa,"3,152",9.2
+4681,CA Moreno Valley,"4,070",9.7
+4682,CA Modesto,"5,810",8.8
+4683,CA Moreno Valley,"2,038",12.6
+4684,CA Moreno Valley,"1,706",12.8
+4685,CA Manteca,"67,096",9.5
+4686,CA Norwalk,"5,496",11.0
+4687,CA Milpitas,181,12.8
+4688,CA Mission Viejo,"6,210",8.0
+4690,CA Modesto,"3,303",13.0
+4691,CA Merced,"3,968",11.2
+4692,CA Menifee,"2,266",10.6
+4693,CA Mountain View,"6,075",6.7
+4694,CA Mission Viejo,"3,624",6.5
+4695,CA Newport Beach,956,9.3
+4696,CA Merced,"2,549",8.1
+4697,CA Murrieta,"11,149",7.4
+4698,CA Napa,"2,429",11.4
+4699,CA Modesto,236,14.6
+4700,CA Newport Beach,"2,756",8.7
+4701,CA Menifee,"3,863",12.7
+4702,CA Newport Beach,"7,246",8.0
+4703,CA Napa,"76,915",8.5
+4704,CA Moreno Valley,"5,957",12.4
+4705,CA Modesto,"201,165",10.5
+4706,CA Menifee,610,8.6
+4707,CA Mountain View,"3,128",5.2
+4708,CA Lynwood,"6,973",10.1
+4709,CA Mountain View,"4,281",6.2
+4710,CA Murrieta,"5,750",7.5
+4711,CA Norwalk,"4,900",9.4
+4712,CA Modesto,"4,231",9.8
+4713,CA Merced,"3,266",12.0
+4714,CA Napa,"3,721",12.1
+4715,CA Mission Viejo,"4,929",11.8
+4716,CA Napa,"5,566",8.9
+4717,CA Napa,"2,460",7.7
+4718,CA Moreno Valley,"6,649",11.0
+4719,CA Merced,"78,958",13.1
+4720,CA Moreno Valley,"5,011",11.5
+4721,CA Manteca,"4,249",9.5
+4722,CA Manteca,"5,890",10.0
+4723,CA Modesto,"2,159",13.1
+4724,CA Napa,"2,497",8.5
+4725,CA Milpitas,"5,116",9.5
+4726,CA Lynwood,"6,845",14.6
+4727,CA Mountain View,"4,838",9.3
+4728,CA Menifee,"4,232",7.0
+4729,CA Mountain View,"74,066",7.2
+4730,CA Merced,"3,448",10.8
+4731,CA Norwalk,"6,401",9.2
+4732,CA Modesto,"4,930",8.7
+4733,CA Murrieta,"5,127",13.2
+4734,CA Napa,"3,328",8.9
+4735,CA Lynwood,"5,267",11.5
+4736,CA Moreno Valley,"3,308",13.2
+4737,CA Modesto,"4,815",9.2
+4738,CA Mission Viejo,"6,548",9.2
+4739,CA Moreno Valley,"3,682",9.8
+4741,CA Manteca,"3,438",9.7
+4742,CA Moreno Valley,"5,239",8.8
+4743,CA Milpitas,"66,790",8.8
+4744,CA Moreno Valley,"3,152",10.8
+4745,CA Milpitas,"3,672",10.7
+4746,CA Moreno Valley,"3,803",11.2
+4747,CA Murrieta,"6,453",8.6
+4748,CA Mission Viejo,"3,819",8.4
+4749,CA Norwalk,"105,549",10.6
+4750,CA Menifee,597,7.3
+4751,CA Milpitas,"4,418",8.1
+4752,CA Newport Beach,"6,221",6.2
+4753,CA Murrieta,"7,606",9.0
+4754,CA Modesto,"4,009",9.6
+4755,CA Manteca,"4,743",9.2
+4756,CA Norwalk,"4,874",11.0
+4757,CA Newport Beach,"4,713",7.0
+4758,CA Newport Beach,"4,220",7.8
+4759,CA Mission Viejo,"2,612",7.7
+4760,CA Modesto,"3,899",11.7
+4761,CA Napa,"5,016",9.1
+4762,CA Menifee,"1,342",6.5
+4763,CA Manteca,"7,659",7.9
+4764,CA San Diego,"6,667",8.8
+4765,CA Riverside,"4,096",9.3
+4766,CA Oakland,"4,482",7.2
+4767,CA Rialto,933,11.6
+4768,CA Orange,"7,285",7.0
+4769,CA Oakland,"2,684",8.4
+4770,CA Pomona,"6,243",8.9
+4771,CA Oakland,"3,954",11.0
+4773,CA Pomona,"149,058",12.3
+4774,CA Rancho Cucamonga,"11,417",7.3
+4775,CA Rancho Cucamonga,"5,036",10.5
+4776,CA Pleasanton,"4,796",6.8
+4777,CA Palmdale,"7,585",11.6
+4778,CA Oakland,"1,434",13.3
+4779,CA Oxnard,"4,423",11.2
+4780,CA Redding,"3,767",9.9
+4781,CA Pasadena,"1,654",8.3
+4782,CA Oakland,"3,517",6.2
+4783,CA Redlands,"5,833",8.8
+4784,CA Ontario,"5,348",11.8
+4785,CA Oakland,"390,724",10.2
+4786,CA Oxnard,"3,838",10.0
+4787,CA Palmdale,"1,321",10.3
+4788,CA Redding,"2,078",11.4
+4789,CA Redlands,60,9.8
+4791,CA Orange,"2,605",8.6
+4792,CA Oakland,"2,630",10.9
+4793,CA Redwood City,"3,539",7.8
+4794,CA Redwood City,"5,707",7.5
+4795,CA Rialto,"1,722",13.9
+4796,CA Oxnard,"3,590",11.4
+4797,CA Orange,"6,760",7.6
+4798,CA Pasadena,"2,324",7.8
+4799,CA Oxnard,"5,389",13.0
+4800,CA Rialto,"5,969",11.1
+4802,CA Oakland,"2,351",11.9
+4803,CA Pasadena,"6,998",10.1
+4804,CA Perris,"1,609",13.9
+4805,CA Oxnard,"5,088",14.4
+4806,CA Redwood City,"3,436",9.1
+4807,CA Oakland,"2,819",5.5
+4808,CA Redding,"3,350",9.2
+4809,CA Oceanside,"5,003",8.0
+4810,CA Rancho Cucamonga,"6,874",8.1
+4811,CA Oakland,"2,603",6.4
+4812,CA Pomona,"7,225",12.8
+4813,CA Oakland,"4,649",10.5
+4814,CA Pasadena,"5,826",12.2
+4815,CA Orange,340,8.8
+4816,CA Richmond,"3,316",8.7
+4817,CA Oceanside,"4,321",10.7
+4818,CA Perris,"3,174",9.2
+4819,CA Ontario,"5,814",11.7
+4821,CA Palmdale,"6,023",8.6
+4822,CA Pomona,"3,945",10.1
+4823,CA Oakland,"5,063",11.4
+4824,CA Oceanside,"6,631",8.8
+4825,CA Richmond,"4,924",9.6
+4826,CA Richmond,"3,927",12.3
+4827,CA Oakland,"4,596",12.6
+4828,CA Oakland,"2,255",12.3
+4829,CA Redding,"4,420",8.2
+4830,CA Oakland,"4,351",10.5
+4831,CA Pasadena,"5,621",7.4
+4832,CA Oxnard,"197,899",13.0
+4833,CA Rialto,"4,578",13.5
+4834,CA Palmdale,"152,750",10.3
+4835,CA Pomona,"6,584",11.3
+4836,CA Rancho Cucamonga,"165,269",9.1
+4837,CA Oceanside,"3,566",10.0
+4838,CA Oceanside,"6,810",12.2
+4839,CA Orange,"4,517",10.5
+4840,CA Ontario,"5,676",10.8
+4841,CA Oceanside,"3,486",10.6
+4842,CA Pomona,"3,848",12.6
+4843,CA Pleasanton,"70,285",6.1
+4844,CA Oakland,"3,594",8.8
+4845,CA Redwood City,"5,623",9.6
+4846,CA Oakland,"3,483",6.7
+4847,CA Ontario,"5,530",11.1
+4848,CA Oakland,"2,587",6.8
+4849,CA Palmdale,"3,995",12.3
+4850,CA Oxnard,"2,150",12.5
+4851,CA Redding,"3,096",9.1
+4852,CA Oakland,"1,569",10.2
+4853,CA Ontario,"6,133",13.4
+4854,CA Pomona,"6,835",11.8
+4855,CA Oxnard,"7,982",12.7
+4856,CA Redlands,"3,182",9.4
+4857,CA Pasadena,"1,385",9.0
+4860,CA Perris,"11,267",8.9
+4861,CA Oakland,"3,323",13.8
+4862,CA Ontario,"6,231",11.0
+4863,CA Richmond,"2,615",10.1
+4864,CA Ontario,"4,413",8.5
+4865,CA Rancho Cucamonga,"13,758",6.7
+4866,CA Oxnard,"6,586",13.1
+4867,CA Oakland,"4,146",8.3
+4868,CA Rancho Cucamonga,"6,281",7.5
+4869,CA Richmond,121,10.0
+4870,CA Pleasanton,"3,152",7.0
+4871,CA Orange,"4,825",7.9
+4872,CA Oakland,"3,137",8.5
+4873,CA Oakland,"3,536",11.0
+4874,CA Redding,205,10.0
+4875,CA Ontario,"4,052",8.5
+4876,CA Rialto,"4,827",11.7
+4877,CA Oakland,"3,428",9.6
+4878,CA Palmdale,858,12.1
+4879,CA Oxnard,"2,885",9.6
+4880,CA Rancho Cucamonga,"4,006",9.0
+4881,CA Rialto,"5,369",12.0
+4882,CA Oceanside,"3,112",9.3
+4883,CA Oceanside,"3,992",8.4
+4885,CA Oakland,"2,416",6.0
+4886,CA Ontario,"163,924",10.4
+4887,CA Richmond,"1,802",11.0
+4888,CA Oakland,"2,425",7.2
+4889,CA Pomona,"3,006",12.1
+4890,CA Pleasanton,"4,657",7.1
+4891,CA Rancho Cucamonga,"5,826",8.6
+4892,CA Rialto,"1,371",10.2
+4893,CA Redondo Beach,"3,230",6.9
+4894,CA Oxnard,"5,279",14.8
+4895,CA Oakland,"5,784",6.7
+4896,CA Pleasanton,"7,479",6.8
+4897,CA Oakland,"5,547",13.9
+4898,CA Pasadena,"3,788",12.0
+4899,CA Redding,"4,928",9.4
+4900,CA Redondo Beach,"5,523",6.5
+4901,CA Pomona,"4,085",10.8
+4902,CA Oakland,"4,054",10.3
+4903,CA Orange,"2,388",8.5
+4904,CA Pasadena,"5,714",5.4
+4905,CA Oxnard,"14,589",9.8
+4906,CA Redlands,50,11.2
+4907,CA Rialto,86,9.9
+4908,CA Ontario,"1,447",6.8
+4909,CA Oakland,"3,308",11.2
+4910,CA Oxnard,"6,679",12.9
+4911,CA Palmdale,"2,235",12.6
+4912,CA Redlands,"6,448",8.3
+4913,CA Oakland,"3,035",13.6
+4914,CA Oceanside,"167,086",9.3
+4915,CA Oakland,"3,114",13.3
+4916,CA Richmond,"6,097",13.7
+4917,CA Rancho Cucamonga,"5,118",10.6
+4918,CA Redding,"1,581",11.7
+4919,CA Pasadena,"137,122",8.7
+4920,CA Pasadena,"6,563",14.3
+4921,CA Palmdale,"6,022",9.7
+4922,CA Orange,"3,724",7.5
+4923,CA Pomona,"5,577",12.1
+4924,CA Orange,104,9.8
+4925,CA Redwood City,"1,119",8.1
+4926,CA Redondo Beach,"4,632",6.1
+4927,CA Oceanside,"6,133",9.4
+4928,CA Pleasanton,"5,251",7.2
+4929,CA Oakland,"2,163",8.7
+4930,CA Oakland,"4,129",7.7
+4931,CA Pomona,"3,328",10.4
+4932,CA Palmdale,"6,387",8.4
+4933,CA Orange,"3,270",8.2
+4934,CA Oakland,"1,784",14.2
+4935,CA Rancho Cucamonga,"3,883",9.1
+4936,CA Oakland,"3,152",12.0
+4937,CA Rancho Cucamonga,"4,461",8.1
+4938,CA Oceanside,"3,530",12.0
+4939,CA Redding,"4,362",12.2
+4940,CA Pasadena,"3,456",9.2
+4941,CA Oakland,"2,530",11.5
+4942,CA Richmond,"6,962",14.1
+4943,CA Oakland,"4,718",12.7
+4944,CA Pasadena,"3,974",10.8
+4945,CA Rialto,"4,361",11.1
+4946,CA Rialto,"2,330",10.4
+4947,CA Redwood City,"76,815",7.9
+4948,CA Ontario,"4,645",10.7
+4949,CA Palmdale,"7,103",7.5
+4950,CA Oakland,"3,931",14.0
+4951,CA Redlands,79,11.1
+4952,CA Oxnard,"5,966",9.9
+4953,CA Richmond,"1,159",11.6
+4954,CA Orange,"136,416",8.5
+4955,CA Oceanside,"9,097",9.8
+4956,CA Oxnard,"5,089",13.9
+4957,CA Pasadena,"3,248",8.6
+4958,CA Oceanside,"6,936",8.3
+4959,CA Palmdale,"3,596",10.5
+4960,CA Oceanside,"3,477",7.4
+4961,CA Oakland,"3,414",11.5
+4962,CA Redondo Beach,"7,059",6.6
+4963,CA Oakland,"1,571",6.7
+4964,CA Redlands,"3,106",9.1
+4965,CA Pomona,"4,815",10.5
+4966,CA Rancho Cucamonga,"165,269",8.4
+4967,CA Redondo Beach,"5,390",6.2
+4968,CA Perris,469,13.4
+4969,CA Richmond,"5,093",12.4
+4970,CA Oakland,"4,696",12.4
+4971,CA Oakland,"2,937",7.8
+4972,CA Pleasanton,"70,285",6.8
+4973,CA Pomona,"4,176",7.9
+4974,CA Redlands,100,6.5
+4975,CA Rancho Cucamonga,"5,188",8.3
+4976,CA Oakland,71,7.1
+4977,CA Oakland,"2,493",10.5
+4978,CA Oakland,"3,910",13.8
+4979,CA Richmond,"6,964",13.7
+4980,CA Oceanside,"3,397",14.5
+4982,CA Redding,"3,966",9.1
+4983,CA Richmond,"103,701",11.3
+4984,CA Orange,"6,448",8.6
+4986,CA Oakland,"2,929",5.5
+4987,CA Oakland,"2,671",7.5
+4988,CA Rialto,480,11.7
+4989,CA Orange,"6,847",6.2
+4990,CA Pasadena,"3,818",8.0
+4991,CA Rialto,"5,177",11.2
+4992,CA Redlands,"2,729",9.6
+4993,CA Richmond,"7,353",11.5
+4994,CA Oakland,"3,062",11.8
+4995,CA Ontario,"4,990",10.8
+4996,CA Oakland,"2,283",7.8
+4997,CA Rialto,"4,512",11.9
+4998,CA Oxnard,"5,373",6.4
+4999,CA Oakland,"5,048",8.7
+5001,CA Oakland,"1,974",6.1
+5003,CA Rancho Cucamonga,"4,207",10.1
+5004,CA Pasadena,"3,560",8.8
+5005,CA Perris,"9,219",12.6
+5006,CA Perris,"8,283",12.4
+5007,CA Redlands,"7,256",14.5
+5008,CA Rialto,"4,141",10.2
+5009,CA Oxnard,"7,533",12.4
+5010,CA Richmond,"5,316",10.6
+5011,CA Redondo Beach,"6,769",6.4
+5012,CA Oakland,"1,724",6.6
+5013,CA Palmdale,"6,460",12.6
+5014,CA Oakland,"4,206",10.2
+5015,CA Redding,"5,177",10.4
+5016,CA Oakland,"7,207",12.5
+5017,CA Pasadena,"5,301",8.2
+5018,CA Redding,"4,417",10.2
+5019,CA Pomona,"6,445",11.2
+5020,CA Ontario,"4,195",10.8
+5021,CA Pasadena,"5,051",6.7
+5022,CA Oceanside,"2,166",7.9
+5023,CA Pomona,"7,076",8.2
+5024,CA Rialto,390,24.3
+5025,CA Oakland,"2,887",12.1
+5026,CA Ontario,"4,321",12.9
+5027,CA Palmdale,"2,772",10.0
+5028,CA Oakland,"1,677",7.3
+5029,CA Oxnard,"6,243",7.6
+5030,CA Oakland,"4,054",11.8
+5031,CA Ontario,"4,757",10.3
+5032,CA Pomona,"4,686",9.6
+5033,CA Orange,"4,492",9.1
+5034,CA Oxnard,"5,435",10.2
+5035,CA Orange,"4,660",8.5
+5036,CA Redwood City,"6,932",8.4
+5037,CA Orange,"4,126",8.2
+5038,CA Orange,"5,176",9.1
+5039,CA Palmdale,"11,415",9.4
+5040,CA Rialto,"5,780",9.4
+5041,CA Redwood City,"1,786",9.8
+5042,CA Oxnard,"1,252",7.5
+5043,CA Palmdale,"4,130",9.4
+5044,CA Redlands,"9,947",7.2
+5045,CA Rancho Cucamonga,"4,646",8.8
+5046,CA Redding,"2,545",10.0
+5047,CA Pomona,"4,776",11.2
+5048,CA Rancho Cucamonga,"5,056",9.4
+5049,CA Oxnard,"7,858",11.7
+5050,CA Perris,"68,386",14.2
+5051,CA Pomona,391,19.2
+5052,CA Pasadena,"2,928",5.0
+5053,CA Ontario,"5,966",10.9
+5054,CA Oceanside,"4,494",7.8
+5055,CA Redwood City,684,7.7
+5056,CA Oceanside,"4,779",8.8
+5057,CA Pasadena,"3,403",9.5
+5058,CA Oakland,"4,156",5.4
+5059,CA Palmdale,"3,111",7.2
+5060,CA Ontario,"4,163",10.9
+5061,CA Ontario,"4,476",10.5
+5062,CA Richmond,875,9.7
+5063,CA Oceanside,"2,376",9.1
+5064,CA Oxnard,"4,577",13.4
+5065,CA Oakland,"2,706",8.3
+5066,CA Ontario,"7,060",8.9
+5067,CA Orange,123,8.6
+5068,CA Perris,"11,436",11.1
+5069,CA Pomona,"4,623",10.9
+5070,CA Ontario,"5,100",10.7
+5071,CA Oxnard,"8,187",11.7
+5072,CA Palmdale,"4,397",8.0
+5073,CA Pasadena,"2,972",6.5
+5074,CA Oakland,"4,306",11.5
+5075,CA Oceanside,"9,081",6.8
+5076,CA Oxnard,"3,432",13.4
+5077,CA Orange,"136,416",9.0
+5078,CA Redlands,"8,203",9.1
+5079,CA Redlands,"68,747",9.0
+5080,CA Oceanside,"7,635",9.8
+5081,CA Oakland,"5,220",12.9
+5082,CA Oceanside,"7,344",9.1
+5083,CA Redding,"4,908",8.9
+5084,CA Pasadena,"3,869",7.7
+5085,CA Oakland,540,4.0
+5086,CA Ontario,"163,924",12.3
+5087,CA Redwood City,"3,005",7.4
+5088,CA Rialto,"4,735",11.4
+5089,CA Pasadena,"2,915",7.8
+5090,CA Orange,"4,492",10.5
+5091,CA Pomona,"3,738",9.9
+5092,CA Redwood City,196,7.6
+5093,CA Rialto,"3,407",8.6
+5094,CA Redwood City,"76,815",8.0
+5095,CA Oakland,"6,027",11.2
+5096,CA Oakland,"1,151",18.6
+5097,CA Redding,801,10.2
+5098,CA Rancho Cucamonga,"4,757",8.1
+5099,CA Richmond,"2,399",10.6
+5100,CA Pasadena,878,12.4
+5101,CA Oakland,"5,314",6.4
+5102,CA Rancho Cucamonga,"4,399",11.6
+5103,CA Redwood City,"5,764",9.7
+5104,CA Palmdale,"4,329",11.0
+5105,CA Redding,"1,009",12.6
+5106,CA Pomona,"6,313",11.0
+5107,CA Richmond,"5,962",12.0
+5108,CA Oakland,"4,113",12.3
+5109,CA Redondo Beach,"4,097",5.9
+5110,CA Pleasanton,"5,733",6.8
+5111,CA Ontario,"5,058",11.2
+5112,CA Perris,"8,393",11.1
+5113,CA Oceanside,"4,968",9.7
+5114,CA Palmdale,"6,153",8.7
+5115,CA Rancho Cucamonga,"5,282",8.3
+5116,CA Redlands,"3,705",7.1
+5117,CA Oxnard,"2,888",12.4
+5118,CA Pleasanton,"4,734",4.9
+5119,CA Oakland,"3,965",13.5
+5120,CA Oceanside,"6,494",10.5
+5121,CA Richmond,"4,485",8.9
+5122,CA Orange,"4,213",8.8
+5124,CA Richmond,"103,701",11.7
+5125,CA Oakland,"5,991",9.0
+5126,CA Rialto,"4,871",11.7
+5127,CA Redwood City,"4,531",6.7
+5128,CA Oakland,"2,667",7.2
+5129,CA Rialto,"5,153",10.7
+5130,CA Oakland,"3,136",7.0
+5131,CA Rancho Cucamonga,"4,777",9.2
+5132,CA Pleasanton,"2,073",7.2
+5133,CA Pomona,"1,295",11.2
+5134,CA Pasadena,"3,700",10.0
+5135,CA Palmdale,"6,702",10.3
+5136,CA Ontario,651,9.8
+5137,CA Rancho Cucamonga,"7,020",6.7
+5138,CA Oakland,"3,461",5.8
+5139,CA Palmdale,"4,535",10.7
+5140,CA Oakland,"3,957",11.3
+5141,CA Oakland,"4,865",5.9
+5142,CA Redondo Beach,"6,704",5.9
+5143,CA Redding,"5,372",9.0
+5144,CA Oakland,"5,492",15.1
+5145,CA Orange,"2,491",9.2
+5146,CA Redlands,"6,333",9.3
+5147,CA Rancho Cucamonga,115,9.0
+5148,CA Redondo Beach,"66,748",6.3
+5149,CA Oakland,"2,406",12.2
+5150,CA Pasadena,"2,236",8.5
+5151,CA Richmond,279,15.2
+5152,CA Pleasanton,"4,799",6.7
+5153,CA Palmdale,"5,339",13.5
+5154,CA Ontario,"4,576",12.1
+5155,CA Oxnard,"4,387",12.1
+5156,CA Redding,"89,861",8.7
+5157,CA Oakland,"5,885",12.0
+5158,CA Palmdale,"2,108",8.4
+5159,CA Orange,"1,673",6.3
+5160,CA Rancho Cucamonga,"5,543",9.9
+5161,CA Rialto,"2,853",9.8
+5162,CA Pasadena,"4,229",8.9
+5163,CA Rancho Cucamonga,"3,845",9.1
+5164,CA Oxnard,"5,455",11.2
+5165,CA Redondo Beach,"66,748",6.3
+5167,CA Redlands,"6,513",10.9
+5168,CA Orange,"1,278",10.8
+5169,CA Oakland,"4,314",12.2
+5170,CA Palmdale,"3,064",10.8
+5171,CA Pomona,"5,381",7.4
+5172,CA Redondo Beach,"3,842",6.2
+5173,CA Oxnard,"1,733",10.3
+5174,CA Oakland,"4,197",6.9
+5175,CA Oceanside,80,14.7
+5176,CA Redondo Beach,"3,260",5.6
+5177,CA Ontario,"2,985",11.9
+5178,CA Redding,"3,833",9.3
+5179,CA Ontario,"3,997",10.6
+5180,CA Pomona,"4,138",12.3
+5181,CA Orange,"6,573",8.9
+5182,CA Redwood City,"4,721",7.3
+5183,CA Pasadena,"5,752",7.1
+5185,CA Ontario,"4,497",10.7
+5186,CA Oakland,"2,193",13.7
+5187,CA Orange,"2,975",7.7
+5188,CA Ontario,"4,626",5.5
+5189,CA Redding,"3,966",10.4
+5190,CA Oceanside,"3,175",9.3
+5191,CA Pomona,"5,622",11.2
+5192,CA Richmond,"2,253",10.4
+5193,CA Oakland,"2,598",9.9
+5194,CA Rialto,"4,098",11.5
+5195,CA Pasadena,287,8.4
+5196,CA Oceanside,"6,847",9.5
+5197,CA Redwood City,"2,484",7.5
+5198,CA Ontario,"4,052",10.5
+5199,CA Orange,"5,797",8.0
+5200,CA Palmdale,"2,970",11.3
+5201,CA Orange,"3,709",9.1
+5202,CA Oakland,"5,678",10.0
+5203,CA Oceanside,"3,978",9.7
+5204,CA Pomona,"5,454",9.9
+5205,CA Redwood City,"7,336",6.1
+5206,CA Palmdale,169,6.8
+5207,CA Palmdale,"5,324",10.7
+5208,CA Oxnard,"4,110",13.4
+5209,CA Oxnard,"1,147",12.0
+5210,CA Oakland,"2,238",10.4
+5211,CA Redding,"5,073",9.5
+5212,CA Ontario,841,8.7
+5213,CA Pasadena,"3,942",11.7
+5214,CA Oakland,"1,954",7.2
+5215,CA Pomona,"4,721",9.1
+5216,CA Rancho Cucamonga,"4,970",9.2
+5217,CA Oakland,"5,930",11.3
+5218,CA Redding,"2,242",8.6
+5219,CA Oakland,"4,381",11.1
+5220,CA Rialto,"3,903",15.8
+5221,CA Richmond,"6,117",13.9
+5222,CA Rialto,"3,053",11.8
+5223,CA Ontario,"4,793",11.2
+5224,CA Oakland,"4,109",10.6
+5225,CA Oceanside,"7,947",8.6
+5226,CA Redding,219,14.3
+5227,CA Oxnard,"4,780",11.2
+5228,CA Richmond,"3,227",10.6
+5229,CA Redlands,56,16.5
+5230,CA Richmond,"4,506",12.8
+5231,CA Pleasanton,"3,685",7.2
+5232,CA Palmdale,924,10.7
+5233,CA Oakland,"2,788",24.0
+5234,CA Pomona,"7,453",11.7
+5235,CA Palmdale,"152,750",11.5
+5236,CA Oakland,"1,991",6.4
+5237,CA Perris,"68,386",10.9
+5238,CA Orange,"8,039",8.5
+5239,CA Oakland,"3,122",12.5
+5240,CA Oakland,"390,724",10.5
+5241,CA Pasadena,"4,655",8.7
+5242,CA Pomona,"149,058",10.6
+5243,CA Rancho Cucamonga,"5,342",9.0
+5244,CA Oakland,"3,584",6.2
+5245,CA Redwood City,"2,429",8.3
+5246,CA Oakland,"3,552",11.7
+5247,CA Palmdale,"7,075",12.0
+5248,CA Oakland,"4,597",7.8
+5249,CA Rancho Cucamonga,"11,640",7.4
+5250,CA Pomona,"3,603",10.4
+5251,CA Oxnard,321,20.4
+5252,CA Rialto,"5,484",12.7
+5253,CA Pasadena,"5,471",8.1
+5254,CA Redwood City,"2,944",7.5
+5255,CA Orange,"3,955",8.9
+5256,CA Rialto,"3,883",9.5
+5257,CA Pomona,538,8.4
+5258,CA Ontario,"4,730",9.4
+5259,CA Oxnard,"8,606",9.4
+5260,CA Palmdale,"4,315",9.5
+5261,CA Oceanside,"2,975",9.8
+5262,CA Redding,"2,512",8.4
+5263,CA Pasadena,"3,204",9.2
+5264,CA Oxnard,347,13.9
+5265,CA Rancho Cucamonga,"4,846",8.8
+5266,CA Rialto,"99,171",13.2
+5267,CA Orange,"5,664",9.4
+5268,CA Oxnard,"197,899",11.4
+5269,CA Oceanside,"6,534",8.1
+5270,CA Redwood City,"5,430",7.6
+5271,CA Oakland,"3,703",5.3
+5272,CA Oakland,"1,703",10.1
+5273,CA Orange,"4,324",9.2
+5274,CA Oxnard,"5,632",9.7
+5275,CA Perris,"9,335",8.8
+5276,CA Pomona,"5,170",11.1
+5277,CA Oakland,"2,385",11.1
+5278,CA Palmdale,"3,751",13.3
+5279,CA Oxnard,"5,778",12.7
+5280,CA Pleasanton,"4,576",7.2
+5281,CA Perris,"5,155",13.4
+5282,CA Redding,"4,184",11.4
+5283,CA Oakland,"3,243",11.6
+5284,CA Palmdale,"4,797",11.3
+5285,CA Richmond,"5,855",9.4
+5286,CA Palmdale,"3,485",11.0
+5287,CA Ontario,"5,145",9.4
+5288,CA Redding,"2,468",8.8
+5289,CA Redondo Beach,"4,414",6.1
+5290,CA Pasadena,"5,118",8.8
+5291,CA Redding,"89,861",9.8
+5293,CA Pomona,"3,436",10.5
+5294,CA Pasadena,"2,228",7.4
+5295,CA Oakland,"2,805",10.5
+5296,CA Oceanside,"3,175",8.0
+5297,CA Orange,"4,999",9.3
+5298,CA Oakland,"4,972",12.4
+5299,CA Oakland,"3,528",12.4
+5300,CA Oxnard,"4,657",9.3
+5301,CA Ontario,"4,760",10.3
+5302,CA Pomona,536,0.8
+5303,CA Orange,"5,089",10.3
+5304,CA Ontario,"6,656",8.3
+5305,CA Oakland,"3,719",9.4
+5306,CA Oakland,"3,345",13.5
+5307,CA Ontario,"4,827",10.1
+5308,CA Orange,222,4.6
+5309,CA Oceanside,"3,761",9.8
+5310,CA Oxnard,"6,424",13.1
+5311,CA Oxnard,"5,397",12.0
+5312,CA Redlands,"5,147",9.4
+5313,CA Oakland,"4,353",7.5
+5314,CA Rancho Cucamonga,"3,236",10.0
+5315,CA Orange,"3,233",8.7
+5316,CA Redwood City,"5,099",7.9
+5318,CA Rancho Cucamonga,"6,077",8.1
+5320,CA Rialto,"99,171",11.5
+5321,CA Oakland,"3,643",10.3
+5322,CA Palmdale,"4,086",12.3
+5323,CA Oxnard,"6,814",11.1
+5324,CA Redwood City,"4,023",7.5
+5325,CA Redding,"6,093",10.4
+5326,CA Oceanside,"167,086",9.3
+5327,CA Oakland,"3,450",14.3
+5328,CA Richmond,"5,706",8.1
+5329,CA Redding,"3,240",8.8
+5330,CA Oakland,"3,414",13.4
+5331,CA Oakland,"4,167",10.1
+5332,CA Richmond,"4,389",10.4
+5333,CA Pasadena,"5,259",11.0
+5334,CA Oakland,"2,145",13.5
+5335,CA Oceanside,"4,127",9.5
+5336,CA Oceanside,"5,659",7.8
+5338,CA Pasadena,"5,747",4.7
+5339,CA Oakland,"2,302",8.9
+5340,CA Pleasanton,"5,956",6.3
+5341,CA Ontario,"2,923",11.6
+5342,CA Pomona,"3,996",11.3
+5343,CA Rialto,97,13.2
+5344,CA Oakland,"3,792",10.9
+5345,CA Ontario,369,6.8
+5346,CA Oakland,"3,218",6.8
+5347,CA Ontario,"4,092",10.8
+5348,CA Pleasanton,"4,676",7.2
+5349,CA Rialto,"4,887",11.9
+5350,CA Oakland,"4,374",9.8
+5351,CA Oakland,"6,746",12.0
+5352,CA Rialto,721,14.2
+5353,CA Redondo Beach,"5,376",6.8
+5354,CA Pasadena,"137,122",8.7
+5355,CA Rancho Cucamonga,"7,663",7.3
+5356,CA Richmond,"1,882",10.9
+5357,CA Pleasanton,"8,718",6.6
+5358,CA Redondo Beach,"6,452",6.1
+5359,CA Redlands,"68,747",9.4
+5360,CA San Diego,"4,136",5.2
+5361,CA Sacramento,"1,425",8.2
+5362,CA San Diego,"5,484",16.7
+5363,CA Roseville,"118,788",7.9
+5364,CA San Diego,"3,678",7.4
+5365,CA San Bernardino,"5,791",14.6
+5366,CA Riverside,"2,105",13.5
+5367,CA Riverside,"4,761",5.5
+5368,CA San Diego,"4,022",8.0
+5369,CA Riverside,"5,968",8.2
+5370,CA San Diego,"4,563",7.7
+5371,CA San Diego,"5,881",6.9
+5372,CA San Diego,"5,651",8.8
+5374,CA Salinas,"7,161",12.9
+5375,CA San Bernardino,"1,526",13.1
+5376,CA Roseville,"2,135",8.0
+5377,CA San Diego,"4,574",12.4
+5378,CA San Diego,"6,921",6.9
+5379,CA San Diego,"4,345",9.5
+5380,CA Salinas,"4,219",9.4
+5381,CA Salinas,"2,680",9.5
+5382,CA San Bernardino,652,14.9
+5383,CA San Bernardino,769,12.6
+5384,CA San Bernardino,"3,567",10.7
+5386,CA San Diego,"5,032",6.5
+5387,CA San Buenaventura (Ventura),736,19.8
+5388,CA Sacramento,"5,083",14.1
+5389,CA Riverside,"3,611",9.5
+5390,CA San Buenaventura (Ventura),"6,288",10.8
+5391,CA Roseville,"1,771",14.4
+5392,CA San Diego,"4,764",12.0
+5393,CA San Diego,"2,060",7.2
+5394,CA Riverside,"3,655",11.0
+5395,CA Sacramento,"5,015",15.3
+5396,CA Sacramento,617,10.5
+5397,CA San Diego,"3,861",10.0
+5398,CA San Diego,"4,144",5.2
+5399,CA Sacramento,"3,568",11.3
+5400,CA Riverside,"4,559",12.5
+5401,CA San Diego,"5,180",8.7
+5402,CA San Diego,"4,255",12.9
+5403,CA Sacramento,"4,220",9.9
+5404,CA San Diego,"4,533",6.4
+5405,CA San Diego,"3,794",9.4
+5406,CA San Diego,"3,698",13.4
+5407,CA Sacramento,"2,466",7.6
+5408,CA San Diego,"1,801",7.8
+5409,CA Sacramento,"7,560",13.0
+5411,CA San Buenaventura (Ventura),"1,074",8.7
+5412,CA San Diego,"5,668",7.5
+5413,CA Sacramento,"1,651",9.1
+5414,CA San Bernardino,487,13.2
+5415,CA Sacramento,"3,558",7.8
+5416,CA Sacramento,"3,842",13.2
+5417,CA San Diego,"6,589",14.2
+5418,CA Riverside,"1,768",10.5
+5419,CA San Diego,"3,141",6.2
+5420,CA San Diego,"6,101",8.0
+5421,CA San Diego,"5,048",9.2
+5422,CA Riverside,741,8.4
+5423,CA San Diego,"3,079",12.3
+5424,CA San Diego,"4,164",8.0
+5425,CA Salinas,"6,439",11.4
+5426,CA San Diego,"5,272",8.5
+5427,CA San Bernardino,"1,730",10.8
+5428,CA San Buenaventura (Ventura),"3,881",9.8
+5429,CA Sacramento,"3,309",11.8
+5430,CA Riverside,"4,299",12.3
+5431,CA Sacramento,"9,553",12.2
+5432,CA Salinas,"4,892",11.4
+5433,CA San Diego,"2,354",10.7
+5434,CA Sacramento,"4,185",12.7
+5435,CA San Diego,"2,775",8.8
+5436,CA Sacramento,"3,850",5.3
+5437,CA San Diego,"5,385",9.4
+5438,CA San Diego,"5,607",5.7
+5439,CA San Bernardino,"5,178",6.9
+5440,CA Sacramento,"5,129",9.6
+5441,CA San Diego,"2,875",7.6
+5442,CA Sacramento,"2,224",11.4
+5443,CA San Buenaventura (Ventura),"3,814",9.4
+5444,CA San Diego,"2,184",10.0
+5445,CA San Bernardino,"8,145",8.1
+5446,CA Sacramento,"466,488",10.7
+5447,CA San Diego,"6,197",6.4
+5448,CA San Diego,"3,094",8.9
+5449,CA Roseville,"3,222",10.5
+5450,CA San Diego,"3,652",8.4
+5451,CA San Diego,"2,332",7.2
+5452,CA San Diego,"4,675",12.0
+5453,CA Sacramento,"5,788",7.7
+5454,CA San Bernardino,"2,243",12.5
+5455,CA Roseville,"3,494",9.8
+5456,CA San Diego,"5,319",7.9
+5457,CA San Diego,"8,579",7.0
+5458,CA Sacramento,"3,159",6.7
+5459,CA San Diego,"3,536",7.1
+5460,CA San Diego,"4,652",13.1
+5461,CA Riverside,"5,785",7.5
+5462,CA San Diego,"5,014",6.4
+5463,CA Riverside,"3,812",10.9
+5464,CA San Diego,"3,072",15.1
+5465,CA Sacramento,"5,112",13.9
+5466,CA San Diego,"6,530",2.7
+5467,CA Riverside,"5,314",11.7
+5468,CA Sacramento,"7,195",9.5
+5469,CA San Diego,"7,944",4.5
+5470,CA Salinas,"3,780",11.4
+5471,CA Sacramento,976,16.8
+5472,CA Riverside,"2,521",10.0
+5473,CA Sacramento,"7,597",10.5
+5474,CA Sacramento,"3,154",8.9
+5475,CA San Buenaventura (Ventura),"106,433",9.2
+5476,CA San Diego,"4,193",9.1
+5477,CA Sacramento,"3,311",6.5
+5478,CA Sacramento,"3,200",15.9
+5479,CA San Diego,"5,775",6.6
+5480,CA San Diego,"5,914",6.8
+5481,CA Sacramento,"4,004",13.0
+5482,CA Sacramento,"4,794",9.2
+5483,CA Sacramento,"2,916",11.9
+5484,CA San Diego,"5,178",7.6
+5485,CA San Diego,"3,629",8.7
+5486,CA San Diego,"5,483",6.0
+5487,CA San Bernardino,"4,141",13.0
+5488,CA San Diego,"3,775",8.4
+5489,CA San Diego,"6,021",8.7
+5490,CA Salinas,"150,441",10.9
+5491,CA San Diego,"5,029",8.4
+5492,CA San Diego,"3,834",8.3
+5493,CA San Diego,"2,569",11.6
+5494,CA San Diego,"5,857",7.7
+5495,CA San Bernardino,"209,924",14.7
+5496,CA Salinas,"3,894",10.6
+5497,CA Riverside,"5,620",7.4
+5498,CA San Diego,"6,546",8.7
+5499,CA Salinas,"4,113",11.2
+5500,CA San Diego,"3,254",9.8
+5501,CA Sacramento,"2,563",6.0
+5502,CA San Bernardino,"2,216",23.6
+5503,CA Roseville,"7,632",7.0
+5504,CA San Diego,"5,200",13.8
+5505,CA San Diego,"4,679",14.1
+5506,CA Riverside,"2,626",11.8
+5508,CA Riverside,"6,518",10.1
+5509,CA San Bernardino,"4,219",12.8
+5510,CA San Bernardino,"4,023",17.0
+5511,CA San Bernardino,565,12.4
+5512,CA Roseville,"2,962",7.3
+5513,CA San Diego,"2,722",6.2
+5514,CA Sacramento,"5,347",13.0
+5515,CA Riverside,"4,497",10.9
+5516,CA Sacramento,"3,383",10.1
+5517,CA Sacramento,"1,063",13.7
+5518,CA San Diego,"2,797",3.8
+5519,CA San Diego,"5,689",13.0
+5520,CA San Diego,"5,738",14.9
+5521,CA San Buenaventura (Ventura),"8,667",8.8
+5523,CA San Diego,"6,454",13.8
+5524,CA Sacramento,"3,374",11.7
+5525,CA San Diego,"4,228",12.7
+5526,CA San Diego,"6,599",8.1
+5527,CA Salinas,65,11.0
+5528,CA Sacramento,"3,291",14.2
+5529,CA Sacramento,"6,649",12.8
+5530,CA Salinas,"4,245",9.4
+5531,CA San Diego,"3,629",8.0
+5532,CA San Bernardino,"5,028",17.7
+5533,CA San Diego,"3,369",7.7
+5534,CA San Diego,"2,997",8.2
+5535,CA Salinas,"6,371",11.3
+5536,CA Sacramento,"4,329",6.9
+5537,CA San Buenaventura (Ventura),"4,083",11.1
+5539,CA Roseville,902,7.5
+5540,CA Riverside,"4,194",8.4
+5541,CA Riverside,"5,830",10.7
+5542,CA San Diego,626,3.8
+5543,CA San Diego,"2,221",6.4
+5544,CA Roseville,"6,210",7.7
+5545,CA Riverside,"4,584",10.5
+5546,CA Sacramento,"3,596",10.4
+5547,CA San Diego,"4,634",14.1
+5548,CA San Diego,"4,615",6.5
+5549,CA San Diego,"7,435",6.8
+5550,CA Salinas,"4,177",12.1
+5551,CA San Bernardino,"6,854",15.5
+5552,CA Sacramento,"5,083",6.8
+5553,CA San Diego,"8,988",4.7
+5554,CA Salinas,"3,623",9.3
+5556,CA Riverside,"6,907",9.0
+5557,CA San Diego,"5,535",6.2
+5558,CA San Diego,"5,028",14.9
+5559,CA Sacramento,"4,843",11.2
+5560,CA Sacramento,"4,387",7.9
+5561,CA San Buenaventura (Ventura),"1,832",7.9
+5562,CA San Diego,"5,724",4.6
+5563,CA Riverside,"2,832",10.6
+5564,CA San Diego,"2,691",7.9
+5565,CA San Diego,"6,693",13.1
+5566,CA Riverside,"2,220",13.7
+5567,CA San Bernardino,371,11.8
+5568,CA San Diego,"3,517",9.1
+5569,CA Riverside,"4,303",12.2
+5570,CA San Diego,"3,659",8.3
+5571,CA San Diego,"4,638",6.9
+5572,CA San Diego,"3,022",8.3
+5573,CA San Bernardino,"3,340",12.1
+5574,CA Sacramento,"4,913",12.0
+5575,CA San Diego,"4,747",6.7
+5576,CA San Diego,"5,660",7.3
+5577,CA San Bernardino,"3,282",13.7
+5579,CA Riverside,"5,284",10.2
+5580,CA San Diego,"3,679",8.2
+5581,CA San Diego,"5,504",12.3
+5582,CA Sacramento,"7,161",7.5
+5583,CA San Bernardino,"3,758",10.7
+5584,CA San Diego,"4,921",3.4
+5585,CA San Diego,"4,894",8.4
+5586,CA Sacramento,"2,253",7.1
+5587,CA San Diego,"5,880",8.0
+5588,CA San Diego,"4,859",15.6
+5589,CA San Diego,"3,179",8.1
+5590,CA San Diego,"1,307,402",9.2
+5592,CA San Diego,"3,227",4.2
+5593,CA San Buenaventura (Ventura),"3,211",7.3
+5595,CA San Diego,"7,627",8.7
+5596,CA San Diego,"4,581",12.7
+5597,CA Riverside,"4,390",11.0
+5598,CA San Diego,"10,541",6.8
+5599,CA Roseville,"3,560",10.3
+5600,CA Riverside,"5,598",9.7
+5601,CA Sacramento,"5,215",10.4
+5602,CA Riverside,"4,185",11.9
+5603,CA San Diego,"4,021",7.4
+5604,CA Sacramento,"3,626",6.0
+5605,CA San Diego,"2,939",7.0
+5606,CA Sacramento,"2,377",9.1
+5607,CA San Diego,"5,493",5.9
+5608,CA San Diego,"6,647",8.7
+5609,CA San Diego,"3,866",7.0
+5610,CA San Diego,"6,264",10.0
+5611,CA Riverside,"1,278",11.9
+5612,CA San Diego,"3,200",7.8
+5613,CA San Diego,"3,165",11.5
+5614,CA Salinas,"5,746",12.4
+5615,CA San Bernardino,"7,101",15.0
+5616,CA Sacramento,"7,455",14.4
+5617,CA San Diego,"4,280",6.9
+5618,CA Sacramento,"1,864",15.6
+5619,CA San Diego,"6,864",11.6
+5620,CA Roseville,"5,719",6.3
+5621,CA San Diego,"4,940",12.1
+5622,CA San Bernardino,"1,832",11.5
+5623,CA San Bernardino,"5,516",13.6
+5624,CA San Diego,"2,821",11.6
+5625,CA San Diego,"2,796",9.5
+5626,CA San Diego,"2,821",5.8
+5627,CA San Diego,"3,853",6.7
+5628,CA Riverside,734,9.3
+5629,CA San Buenaventura (Ventura),"2,388",10.4
+5630,CA San Diego,"5,162",6.8
+5631,CA San Bernardino,"2,182",8.3
+5632,CA San Diego,"4,208",6.1
+5633,CA Roseville,"3,118",6.4
+5634,CA San Diego,"4,487",4.1
+5635,CA San Diego,"6,996",8.9
+5636,CA Sacramento,"6,637",14.1
+5637,CA Sacramento,"5,525",14.0
+5638,CA Sacramento,"3,667",5.8
+5639,CA San Diego,"6,183",14.1
+5640,CA San Diego,"6,900",9.5
+5641,CA San Buenaventura (Ventura),"7,722",8.7
+5642,CA San Diego,"4,115",13.8
+5644,CA Whittier,"2,693",10.0
+5645,CA San Diego,"4,932",9.9
+5646,CA San Bernardino,"4,612",12.2
+5647,CA San Diego,"7,366",15.6
+5648,CA San Diego,"4,488",6.0
+5649,CA Riverside,"3,473",10.9
+5650,CA Sacramento,"2,047",9.2
+5651,CA Riverside,"3,017",8.8
+5652,CA San Diego,"3,435",0.9
+5654,CA San Diego,"5,883",11.2
+5655,CA Roseville,"4,320",5.6
+5656,CA Sacramento,"3,267",9.6
+5657,CA Roseville,"2,605",10.3
+5658,CA Salinas,"9,054",10.5
+5659,CA Sacramento,"5,052",14.8
+5660,CA San Diego,"2,522",6.4
+5661,CA San Diego,"3,563",13.6
+5662,CA Salinas,"2,642",9.9
+5663,CA Sacramento,"7,342",10.3
+5664,CA San Diego,"7,614",5.6
+5665,CA San Diego,"6,498",12.4
+5666,CA Riverside,"2,978",8.9
+5667,CA San Diego,"4,992",4.3
+5668,CA Sacramento,"466,488",11.3
+5669,CA San Diego,"4,241",13.8
+5670,CA Sacramento,"5,421",7.1
+5671,CA San Bernardino,496,11.5
+5672,CA San Bernardino,"5,717",11.0
+5673,CA San Buenaventura (Ventura),"5,898",8.4
+5674,CA Sacramento,"2,629",11.0
+5675,CA San Bernardino,"4,383",13.1
+5676,CA San Diego,"6,358",8.4
+5677,CA Riverside,"10,516",7.5
+5678,CA Sacramento,"1,203",8.5
+5679,CA San Bernardino,"1,266",13.4
+5680,CA San Diego,"3,796",11.2
+5681,CA San Buenaventura (Ventura),"4,795",9.5
+5682,CA Riverside,"303,871",10.9
+5683,CA San Diego,"4,694",7.4
+5684,CA Salinas,"5,078",10.2
+5685,CA Sacramento,"6,072",11.8
+5686,CA Riverside,"6,516",7.9
+5687,CA Sacramento,"5,755",12.6
+5688,CA San Buenaventura (Ventura),"2,577",8.5
+5689,CA San Diego,"3,849",3.6
+5690,CA San Diego,"3,537",7.2
+5691,CA Sacramento,"4,499",9.2
+5692,CA Sacramento,"3,086",10.3
+5693,CA San Diego,"2,225",8.0
+5694,CA San Diego,"3,395",6.9
+5695,CA San Diego,649,9.5
+5696,CA San Diego,"2,559",7.0
+5697,CA San Diego,"4,258",7.4
+5698,CA Roseville,"6,491",5.9
+5699,CA Sacramento,"6,166",13.2
+5700,CA San Diego,"13,748",5.5
+5702,CA San Diego,"3,098",5.8
+5703,CA Sacramento,"3,323",7.4
+5704,CA San Bernardino,56,9.6
+5705,CA San Bernardino,"7,590",15.2
+5706,CA San Diego,"3,945",12.6
+5707,CA San Diego,"3,341",11.6
+5708,CA Sacramento,58,9.2
+5709,CA San Diego,"6,241",8.4
+5710,CA San Diego,"5,254",12.1
+5711,CA San Diego,"5,906",13.0
+5712,CA Salinas,"7,304",9.5
+5713,CA San Diego,"3,276",7.3
+5714,CA San Diego,"5,370",9.5
+5715,CA San Diego,"4,261",9.4
+5716,CA Riverside,"2,817",8.0
+5717,CA Salinas,"5,628",12.2
+5718,CA San Bernardino,"3,875",12.7
+5719,CA San Diego,"4,040",4.9
+5720,CA San Diego,"5,510",14.1
+5721,CA San Diego,"1,920",4.3
+5723,CA San Bernardino,"5,176",17.0
+5724,CA Sacramento,988,15.0
+5725,CA San Diego,"3,337",14.4
+5727,CA San Buenaventura (Ventura),"5,670",8.9
+5728,CA Roseville,"3,355",6.4
+5729,CA Sacramento,"2,826",11.9
+5730,CA Sacramento,"1,587",7.8
+5731,CA Sacramento,"5,538",14.2
+5732,CA San Diego,"4,805",7.2
+5733,CA Riverside,"3,312",10.6
+5734,CA Sacramento,"6,725",7.8
+5735,CA San Diego,"4,283",12.7
+5736,CA Riverside,"6,878",9.5
+5737,CA Riverside,"2,763",10.9
+5738,CA San Diego,198,2.8
+5739,CA Sacramento,"1,823",18.4
+5740,CA San Buenaventura (Ventura),"7,191",8.7
+5741,CA San Diego,"5,028",2.0
+5742,CA San Diego,"1,307,402",8.4
+5743,CA San Diego,"10,482",1.4
+5744,CA Riverside,"6,973",9.8
+5745,CA San Diego,"3,633",13.1
+5746,CA San Diego,"4,042",8.3
+5747,CA Sacramento,"1,122",12.7
+5748,CA Roseville,"4,372",7.2
+5749,CA San Diego,"4,733",12.6
+5750,CA San Diego,"3,084",5.3
+5751,CA San Bernardino,"6,590",14.1
+5752,CA Riverside,"4,633",8.4
+5753,CA San Diego,"5,570",5.7
+5754,CA Riverside,"4,017",8.3
+5755,CA San Diego,"2,227",14.9
+5756,CA Sacramento,"5,356",12.9
+5757,CA Riverside,"9,277",3.0
+5758,CA Roseville,"7,002",6.7
+5759,CA Roseville,"3,901",5.7
+5760,CA Salinas,"4,161",11.4
+5762,CA Riverside,"5,461",8.7
+5763,CA Salinas,"4,430",12.1
+5764,CA Salinas,"3,178",10.1
+5765,CA San Diego,"3,882",4.9
+5766,CA San Diego,"5,437",11.7
+5767,CA San Diego,"4,927",14.1
+5768,CA San Bernardino,"8,618",15.2
+5769,CA Riverside,"8,020",11.0
+5770,CA San Diego,423,9.0
+5771,CA Riverside,"5,139",11.5
+5772,CA San Diego,"3,365",8.3
+5773,CA San Bernardino,"5,647",11.2
+5775,CA San Diego,"5,259",7.8
+5776,CA Riverside,"5,095",13.2
+5777,CA San Diego,"4,193",12.1
+5778,CA Sacramento,813,13.9
+5779,CA San Bernardino,"2,509",10.3
+5780,CA San Diego,"3,334",4.5
+5781,CA San Diego,"6,148",12.9
+5782,CA San Buenaventura (Ventura),"3,527",9.4
+5783,CA San Diego,"4,053",12.3
+5784,CA San Diego,"4,732",6.7
+5785,CA San Diego,"3,446",8.4
+5786,CA Sacramento,"2,771",6.7
+5787,CA Roseville,"3,059",8.2
+5788,CA San Diego,"2,584",4.1
+5789,CA Sacramento,"4,085",13.2
+5790,CA San Diego,"5,392",9.3
+5791,CA San Diego,"3,717",9.7
+5792,CA San Diego,"3,785",15.2
+5793,CA San Diego,144,11.6
+5794,CA San Diego,"4,301",8.5
+5795,CA Sacramento,"3,103",6.8
+5796,CA Salinas,"6,884",10.3
+5797,CA Sacramento,"2,376",11.2
+5798,CA San Diego,"2,416",14.1
+5799,CA San Diego,"4,948",4.8
+5800,CA San Diego,"3,665",6.5
+5801,CA San Diego,"7,225",6.1
+5802,CA Sacramento,"4,888",9.0
+5803,CA Salinas,"5,668",9.5
+5804,CA San Diego,"4,587",4.8
+5805,CA San Diego,"2,979",7.9
+5806,CA San Diego,"4,946",14.7
+5807,CA Riverside,"3,285",9.7
+5808,CA San Diego,"4,595",11.0
+5809,CA San Bernardino,"1,833",9.6
+5810,CA Riverside,"2,387",9.6
+5811,CA San Diego,"5,589",7.0
+5812,CA Sacramento,"6,621",13.1
+5813,CA Riverside,"3,545",9.6
+5814,CA San Bernardino,"2,918",14.4
+5815,CA San Buenaventura (Ventura),"2,571",9.4
+5816,CA Sacramento,"2,269",13.3
+5817,CA San Diego,"6,626",9.2
+5818,CA Sacramento,"2,797",14.8
+5819,CA San Diego,"4,300",13.1
+5820,CA Sacramento,"2,933",12.3
+5821,CA San Diego,"1,858",12.3
+5822,CA San Diego,"6,347",5.1
+5823,CA San Diego,"4,551",13.7
+5824,CA San Diego,"3,361",5.8
+5825,CA San Buenaventura (Ventura),"6,253",8.7
+5826,CA San Diego,"3,754",5.8
+5827,CA San Buenaventura (Ventura),"5,010",9.1
+5828,CA San Diego,"1,853",4.1
+5829,CA San Bernardino,"2,445",12.5
+5830,CA Roseville,"6,038",8.6
+5831,CA San Diego,"4,715",8.8
+5832,CA San Diego,"3,354",7.9
+5833,CA San Diego,"2,725",4.2
+5834,CA San Diego,"5,308",7.4
+5835,CA San Diego,"3,358",11.6
+5836,CA San Diego,"6,554",9.7
+5837,CA Riverside,"2,378",9.1
+5838,CA San Diego,"5,785",1.6
+5839,CA San Bernardino,"5,177",12.4
+5840,CA San Bernardino,"7,032",8.0
+5841,CA San Diego,"6,065",10.9
+5842,CA San Diego,"2,819",3.6
+5843,CA Sacramento,395,9.8
+5844,CA San Diego,"6,188",12.4
+5845,CA Sacramento,"5,131",11.0
+5846,CA San Diego,"4,097",11.6
+5847,CA Roseville,"7,431",6.2
+5848,CA Riverside,"2,651",14.1
+5849,CA San Diego,"7,461",5.5
+5850,CA Sacramento,"2,109",7.6
+5852,CA San Diego,"5,259",7.3
+5853,CA San Diego,"3,029",7.9
+5854,CA San Diego,"3,250",14.5
+5855,CA Roseville,"3,562",8.3
+5856,CA Riverside,"5,040",10.1
+5857,CA San Bernardino,"4,677",14.2
+5859,CA Riverside,"3,308",10.2
+5860,CA Sacramento,"2,669",13.4
+5861,CA Riverside,"1,226",8.0
+5862,CA San Diego,"2,372",6.9
+5863,CA San Buenaventura (Ventura),"3,950",8.5
+5864,CA Sacramento,"7,533",8.6
+5865,CA San Diego,"7,140",10.2
+5866,CA San Diego,"5,271",7.5
+5867,CA San Buenaventura (Ventura),"7,430",9.4
+5868,CA San Diego,"6,590",5.7
+5869,CA Sacramento,"6,086",12.1
+5870,CA Sacramento,"2,505",7.7
+5871,CA San Bernardino,"3,822",14.4
+5872,CA San Diego,"5,043",12.7
+5873,CA Sacramento,"2,779",9.9
+5874,CA Riverside,"8,333",7.8
+5875,CA San Diego,"4,009",6.4
+5876,CA San Diego,"5,087",3.2
+5877,CA Riverside,"3,127",9.8
+5878,CA Sacramento,"8,370",10.9
+5879,CA Riverside,"303,871",9.5
+5880,CA San Diego,"4,947",6.2
+5881,CA Sacramento,"1,082",9.2
+5882,CA Sacramento,"3,005",4.7
+5883,CA San Diego,"4,733",5.8
+5884,CA San Bernardino,"3,450",12.8
+5885,CA San Diego,"4,226",13.1
+5886,CA Roseville,"3,902",7.7
+5887,CA San Diego,"4,573",10.1
+5888,CA Roseville,"3,493",16.4
+5889,CA Riverside,786,9.4
+5890,CA Roseville,"4,396",7.2
+5891,CA Sacramento,"5,290",14.7
+5892,CA Sacramento,"7,689",6.5
+5893,CA Salinas,"4,842",12.5
+5895,CA San Diego,"4,463",6.6
+5896,CA San Diego,"4,228",14.5
+5897,CA San Diego,"13,017",8.4
+5898,CA San Diego,"4,167",11.3
+5899,CA San Diego,"2,466",6.4
+5900,CA San Diego,131,5.8
+5901,CA Roseville,"118,788",7.5
+5902,CA Salinas,"4,752",10.1
+5903,CA San Bernardino,"5,570",14.0
+5904,CA Sacramento,"4,219",14.1
+5905,CA Sacramento,"4,763",13.7
+5906,CA San Diego,"3,934",6.5
+5908,CA San Diego,"4,772",6.9
+5909,CA San Diego,"6,619",11.7
+5910,CA San Diego,"3,703",4.9
+5911,CA Sacramento,"6,563",11.2
+5912,CA San Diego,"8,846",6.6
+5913,CA San Diego,"6,493",7.3
+5914,CA San Diego,"3,068",5.7
+5915,CA Salinas,"5,512",10.2
+5916,CA San Bernardino,"3,339",14.8
+5918,CA San Diego,"3,446",9.3
+5919,CA Salinas,"7,143",12.8
+5920,CA San Diego,"2,503",6.2
+5921,CA Sacramento,"2,806",16.0
+5922,CA Sacramento,"1,586",15.0
+5923,CA San Diego,"2,237",6.3
+5924,CA San Bernardino,"4,406",12.3
+5925,CA Roseville,"4,754",7.6
+5926,CA San Diego,"6,256",13.2
+5927,CA Sacramento,"4,965",9.9
+5928,CA San Diego,"7,295",8.3
+5929,CA San Diego,"7,316",4.8
+5930,CA San Diego,"2,642",5.0
+5931,CA Salinas,"3,465",10.0
+5932,CA Sacramento,"5,456",14.6
+5933,CA San Diego,"4,428",7.1
+5934,CA San Diego,"7,298",13.6
+5935,CA Riverside,"5,249",9.1
+5937,CA San Diego,"5,160",14.2
+5938,CA Riverside,"7,387",6.9
+5939,CA San Buenaventura (Ventura),"3,576",10.4
+5940,CA Sacramento,"4,010",7.0
+5941,CA Sacramento,"4,686",8.7
+5942,CA Riverside,"6,702",10.2
+5943,CA Salinas,"3,094",11.8
+5944,CA Sacramento,"4,073",11.0
+5945,CA San Diego,"5,750",8.0
+5946,CA San Diego,"4,316",7.8
+5947,CA San Bernardino,"1,513",22.3
+5948,CA San Diego,"2,884",8.7
+5950,CA Sacramento,"3,497",6.8
+5951,CA San Diego,"3,514",9.0
+5952,CA San Diego,"2,633",6.7
+5953,CA Sacramento,"3,040",3.5
+5954,CA San Diego,"5,369",12.8
+5955,CA San Diego,"1,940",6.2
+5956,CA Salinas,"150,441",12.9
+5957,CA Riverside,582,19.2
+5958,CA Salinas,"3,646",8.7
+5959,CA San Diego,"5,972",6.9
+5960,CA San Diego,"4,193",11.6
+5961,CA San Bernardino,"6,241",13.9
+5962,CA San Bernardino,"3,981",14.5
+5963,CA Riverside,"4,458",11.7
+5964,CA San Bernardino,"7,749",10.9
+5965,CA San Diego,"5,318",7.4
+5966,CA San Diego,"3,669",5.6
+5967,CA San Buenaventura (Ventura),"106,433",8.6
+5968,CA Riverside,"5,622",10.2
+5969,CA San Bernardino,"4,712",11.2
+5970,CA Roseville,"1,558",7.0
+5971,CA San Diego,"1,948",11.3
+5972,CA San Diego,"4,637",7.1
+5973,CA San Diego,"3,975",6.0
+5974,CA San Diego,"4,773",8.7
+5975,CA San Diego,"3,805",4.9
+5976,CA Riverside,"4,550",8.4
+5977,CA San Diego,"6,585",7.9
+5978,CA San Diego,"3,462",7.8
+5979,CA San Buenaventura (Ventura),"4,270",9.0
+5980,CA Sacramento,"5,473",8.2
+5981,CA San Diego,"3,688",6.0
+5982,CA Riverside,"6,414",13.8
+5983,CA San Diego,"3,217",11.5
+5984,CA San Diego,"3,048",3.5
+5985,CA Riverside,"2,943",12.0
+5986,CA San Diego,"4,796",7.5
+5987,CA Roseville,"2,980",9.3
+5988,CA Sacramento,"7,159",12.8
+5989,CA San Bernardino,"209,924",13.0
+5990,CA Sacramento,"3,345",10.0
+5991,CA San Diego,"4,427",3.5
+5992,CA San Diego,"5,605",9.4
+5993,CA Sacramento,"4,592",13.1
+5994,CA Sacramento,"6,740",13.6
+5995,CA Sacramento,"3,156",7.0
+5996,CA San Diego,"2,947",8.1
+5997,CA San Diego,"4,450",10.7
+5998,CA San Diego,"5,673",6.8
+5999,CA San Diego,"6,442",7.5
+6000,CA Salinas,"2,548",14.7
+6001,CA San Diego,"5,206",8.4
+6002,CA San Diego,"5,148",7.3
+6003,CA Riverside,"4,459",9.0
+6004,CA San Diego,"3,108",6.8
+6005,CA San Jose,"2,533",8.7
+6006,CA San Mateo,"2,637",7.1
+6007,CA San Jose,"6,280",7.3
+6008,CA San Jose,"5,334",7.4
+6009,CA San Jose,"8,841",7.3
+6010,CA San Francisco,"5,667",8.2
+6011,CA San Jose,80,7.7
+6012,CA San Jose,"4,523",3.5
+6013,CA San Francisco,"2,099",9.6
+6014,CA San Francisco,"6,343",8.5
+6015,CA San Ramon,"72,148",6.5
+6016,CA San Jose,"5,085",8.2
+6017,CA San Jose,"4,828",8.7
+6018,CA San Francisco,"4,551",12.8
+6019,CA San Jose,"5,978",7.1
+6020,CA San Jose,"6,743",6.8
+6021,CA San Jose,"5,374",8.5
+6022,CA San Jose,"4,688",9.8
+6023,CA San Francisco,"3,404",7.8
+6025,CA San Jose,"2,540",9.4
+6026,CA San Francisco,"7,564",11.5
+6027,CA San Francisco,"1,500",19.4
+6028,CA San Francisco,"5,335",16.2
+6029,CA San Francisco,"3,811",4.4
+6030,CA San Jose,"2,847",7.6
+6031,CA San Marcos,"4,175",9.9
+6032,CA San Francisco,"3,683",4.8
+6033,CA San Francisco,"4,545",6.6
+6034,CA San Mateo,"3,703",8.0
+6035,CA San Francisco,"3,622",10.9
+6036,CA San Francisco,"4,316",10.2
+6037,CA San Leandro,"6,897",11.1
+6038,CA San Francisco,"3,218",4.9
+6039,CA San Francisco,"4,350",8.7
+6040,CA San Marcos,"1,035",10.5
+6041,CA San Jose,"3,296",8.5
+6042,CA San Francisco,"3,689",5.7
+6043,CA San Jose,"5,088",15.9
+6044,CA San Ramon,55,7.1
+6045,CA San Francisco,"6,474",8.4
+6046,CA San Leandro,"3,770",8.0
+6047,CA San Jose,"1,742",3.9
+6048,CA San Jose,"4,429",9.6
+6049,CA San Jose,"4,986",9.6
+6050,CA San Jose,"5,474",8.3
+6051,CA San Francisco,"2,060",5.0
+6052,CA San Francisco,"3,492",4.5
+6053,CA San Mateo,"3,241",8.0
+6054,CA San Jose,"5,602",7.6
+6055,CA San Francisco,"3,833",4.8
+6056,CA San Jose,"6,916",11.3
+6057,CA San Francisco,"2,376",7.8
+6058,CA San Jose,"6,683",7.3
+6059,CA San Francisco,"4,711",5.5
+6060,CA San Francisco,"2,734",17.3
+6061,CA San Jose,"3,295",9.9
+6062,CA San Francisco,"4,307",25.4
+6063,CA San Jose,"3,738",6.9
+6064,CA San Jose,"2,182",10.4
+6065,CA San Francisco,"2,965",4.9
+6066,CA San Jose,"2,903",10.1
+6067,CA San Francisco,"5,021",10.1
+6068,CA San Jose,"3,027",7.3
+6069,CA San Jose,"5,968",10.1
+6070,CA San Ramon,"6,513",6.4
+6071,CA San Francisco,"2,624",13.4
+6072,CA San Francisco,"4,996",7.2
+6073,CA San Francisco,"2,128",6.3
+6074,CA San Francisco,"11,502",4.5
+6075,CA San Ramon,"4,431",5.1
+6076,CA San Jose,815,6.6
+6077,CA San Francisco,"4,005",9.2
+6079,CA San Jose,"3,506",8.1
+6080,CA San Jose,"4,406",7.2
+6081,CA San Mateo,"5,579",7.9
+6082,CA San Francisco,"2,909",4.6
+6083,CA San Jose,"2,826",7.0
+6084,CA San Francisco,"2,583",5.5
+6085,CA San Mateo,"4,451",9.5
+6086,CA San Francisco,"4,044",4.1
+6087,CA San Francisco,"3,836",7.2
+6088,CA San Jose,725,7.2
+6089,CA San Leandro,"4,080",10.3
+6090,CA San Jose,"4,494",12.6
+6091,CA San Francisco,"5,621",6.0
+6092,CA San Jose,"6,493",8.5
+6093,CA San Jose,"7,640",7.8
+6094,CA San Leandro,109,10.4
+6095,CA San Jose,230,9.1
+6096,CA San Francisco,"1,689",7.6
+6097,CA San Jose,"3,203",8.8
+6098,CA San Francisco,"4,196",4.9
+6099,CA San Francisco,"5,191",7.7
+6100,CA San Jose,"5,075",8.1
+6101,CA San Jose,"4,074",8.8
+6102,CA San Francisco,"5,592",18.9
+6103,CA San Jose,"2,236",8.9
+6104,CA San Francisco,"4,362",6.4
+6105,CA San Mateo,"5,546",7.0
+6106,CA San Jose,"7,191",8.1
+6107,CA San Jose,"4,431",10.9
+6108,CA San Jose,"4,271",10.7
+6109,CA San Francisco,"3,286",8.1
+6110,CA San Jose,"2,094",9.8
+6111,CA San Francisco,"6,167",11.0
+6112,CA San Francisco,"3,549",8.3
+6113,CA San Jose,"5,240",8.5
+6114,CA San Francisco,"3,384",7.1
+6115,CA San Francisco,350,6.0
+6116,CA San Jose,"1,860",8.9
+6117,CA San Francisco,"2,851",12.4
+6118,CA San Francisco,"5,300",9.6
+6119,CA San Francisco,"6,269",7.2
+6120,CA San Jose,"5,684",8.3
+6121,CA San Jose,"3,985",9.6
+6122,CA San Jose,"4,618",12.3
+6123,CA San Marcos,332,8.1
+6124,CA San Francisco,"5,618",11.3
+6125,CA San Jose,"3,173",10.8
+6126,CA San Francisco,"3,778",4.7
+6127,CA San Francisco,"3,544",10.7
+6128,CA San Mateo,"8,107",9.9
+6129,CA San Francisco,"2,556",5.3
+6130,CA San Jose,"4,558",7.4
+6131,CA San Leandro,"6,842",9.7
+6132,CA San Jose,"3,101",6.6
+6133,CA San Francisco,"8,471",9.7
+6134,CA San Jose,"3,723",5.9
+6135,CA San Francisco,"2,408",6.6
+6136,CA San Jose,"2,725",11.7
+6137,CA San Francisco,"7,226",10.7
+6138,CA San Francisco,"3,739",8.5
+6139,CA San Francisco,"2,493",7.3
+6140,CA San Jose,"3,214",7.8
+6141,CA San Jose,"6,883",7.0
+6142,CA San Jose,"4,311",11.4
+6143,CA San Ramon,"72,148",6.6
+6144,CA San Jose,"4,916",10.8
+6145,CA San Jose,"2,974",13.4
+6147,CA San Jose,"6,388",6.9
+6148,CA San Francisco,"4,875",12.4
+6149,CA San Mateo,"2,348",8.1
+6150,CA San Jose,"5,461",8.2
+6151,CA San Francisco,"2,986",11.0
+6153,CA San Marcos,"6,423",8.9
+6154,CA San Jose,"7,062",7.7
+6155,CA San Mateo,"3,529",8.4
+6156,CA San Jose,"3,585",10.4
+6157,CA San Leandro,"3,989",9.4
+6158,CA San Francisco,"3,034",5.2
+6159,CA San Jose,429,8.0
+6160,CA San Jose,"2,947",10.4
+6161,CA San Francisco,"4,567",7.7
+6162,CA San Jose,"2,369",7.5
+6163,CA San Francisco,"5,106",8.9
+6164,CA San Ramon,"5,062",8.2
+6165,CA San Francisco,"3,687",8.8
+6166,CA San Jose,"6,432",10.8
+6167,CA San Francisco,"4,089",12.5
+6168,CA San Francisco,"3,968",9.3
+6169,CA San Francisco,"6,572",9.3
+6170,CA San Jose,"4,839",9.6
+6171,CA San Jose,"5,240",8.1
+6172,CA San Francisco,"6,193",7.8
+6173,CA San Francisco,"3,122",5.0
+6174,CA San Jose,"4,915",10.6
+6175,CA San Jose,"3,912",8.1
+6176,CA San Francisco,"4,372",8.0
+6178,CA San Jose,"4,146",9.9
+6179,CA San Francisco,"3,594",9.2
+6180,CA San Jose,"7,306",8.3
+6181,CA San Jose,"3,080",8.2
+6182,CA San Francisco,"3,660",13.3
+6183,CA San Jose,"4,460",8.7
+6184,CA San Leandro,"4,352",10.2
+6185,CA San Jose,"6,087",8.5
+6186,CA San Jose,"4,737",7.9
+6187,CA San Francisco,"3,948",8.9
+6188,CA San Francisco,"7,630",10.9
+6189,CA San Francisco,"3,216",13.3
+6190,CA San Leandro,"2,478",9.2
+6191,CA San Francisco,"3,928",6.4
+6192,CA San Jose,"4,477",10.7
+6193,CA San Jose,"4,521",6.8
+6194,CA San Francisco,"7,842",9.1
+6195,CA San Jose,"3,806",9.0
+6196,CA San Jose,"5,346",8.8
+6197,CA San Francisco,"3,831",11.4
+6198,CA San Francisco,"3,264",5.9
+6199,CA San Jose,"3,367",8.0
+6200,CA San Ramon,"1,399",7.9
+6201,CA San Jose,"5,101",10.9
+6202,CA San Francisco,"3,376",4.0
+6203,CA San Jose,"6,339",8.0
+6204,CA San Francisco,"5,495",10.0
+6205,CA San Jose,"5,002",11.7
+6206,CA San Jose,"3,042",8.0
+6207,CA San Jose,"6,069",12.1
+6208,CA San Marcos,"83,781",9.0
+6209,CA San Jose,"1,982",11.7
+6210,CA San Jose,"6,187",7.0
+6211,CA San Francisco,"4,140",13.4
+6212,CA San Leandro,"3,760",9.2
+6213,CA San Jose,"4,063",7.6
+6214,CA San Mateo,"2,640",7.1
+6215,CA San Jose,"6,256",7.1
+6216,CA San Jose,"3,665",10.3
+6217,CA San Jose,"3,938",11.5
+6218,CA San Jose,"6,260",7.1
+6219,CA San Francisco,"3,478",14.3
+6220,CA San Leandro,"4,656",8.5
+6221,CA San Jose,"4,273",8.6
+6222,CA San Jose,"4,825",7.3
+6223,CA San Jose,"4,108",14.9
+6224,CA San Francisco,"5,083",5.3
+6225,CA San Francisco,"4,162",5.4
+6226,CA San Ramon,"5,627",5.8
+6227,CA San Francisco,467,13.9
+6228,CA San Jose,"6,562",9.4
+6229,CA San Francisco,"3,824",9.7
+6230,CA San Jose,"1,897",7.5
+6231,CA San Jose,"6,125",8.0
+6232,CA San Jose,210,5.7
+6233,CA San Jose,"6,959",7.8
+6234,CA San Jose,"4,278",10.6
+6235,CA San Jose,"5,450",9.3
+6236,CA San Marcos,"8,127",6.6
+6237,CA San Jose,"5,462",10.4
+6238,CA San Jose,"3,870",8.5
+6240,CA San Jose,"7,216",13.6
+6241,CA San Francisco,"4,908",10.7
+6242,CA San Jose,"4,624",10.6
+6243,CA San Francisco,"2,617",7.3
+6244,CA San Jose,"1,897",10.1
+6245,CA San Mateo,"4,073",8.9
+6246,CA San Francisco,"3,974",8.5
+6247,CA San Francisco,"3,894",12.4
+6248,CA San Francisco,"2,880",6.3
+6249,CA San Marcos,"3,941",9.2
+6250,CA San Mateo,"2,859",9.7
+6251,CA San Mateo,"3,954",9.1
+6252,CA San Jose,79,11.2
+6253,CA San Francisco,"5,164",7.3
+6254,CA San Marcos,"7,708",9.7
+6255,CA San Jose,"5,415",8.0
+6256,CA San Jose,"6,463",10.1
+6257,CA San Francisco,"2,846",5.8
+6258,CA San Mateo,"4,246",10.2
+6259,CA San Mateo,"4,197",7.6
+6260,CA San Jose,"3,449",15.0
+6261,CA San Francisco,"3,840",6.2
+6262,CA San Jose,"3,988",6.9
+6263,CA San Francisco,"4,315",10.6
+6264,CA San Francisco,"2,598",5.7
+6265,CA San Jose,"4,512",9.2
+6266,CA San Francisco,"4,143",5.3
+6267,CA San Francisco,"5,075",11.4
+6268,CA San Leandro,"4,839",11.1
+6269,CA San Francisco,"3,243",7.1
+6270,CA San Francisco,"3,536",9.3
+6271,CA San Jose,"5,919",7.7
+6272,CA San Jose,"4,149",10.6
+6273,CA San Marcos,"7,404",8.3
+6274,CA San Marcos,"7,115",6.8
+6275,CA San Ramon,"6,734",5.9
+6276,CA Westminster,"4,499",14.0
+6277,CA San Francisco,"5,069",4.3
+6278,CA San Leandro,"3,832",10.2
+6279,CA San Leandro,"6,305",10.6
+6280,CA San Jose,"4,958",5.9
+6281,CA San Francisco,"2,474",5.0
+6282,CA San Francisco,"4,334",9.1
+6283,CA San Jose,"2,600",8.9
+6284,CA San Marcos,"3,479",8.8
+6285,CA San Francisco,"5,366",14.5
+6286,CA San Jose,"4,763",10.2
+6287,CA San Ramon,"3,895",7.2
+6288,CA San Jose,"6,854",7.3
+6289,CA San Jose,"4,658",10.5
+6290,CA San Jose,"3,988",8.4
+6291,CA San Francisco,"4,118",10.9
+6292,CA San Mateo,"97,207",8.4
+6293,CA San Francisco,"1,960",11.7
+6294,CA San Jose,"3,656",7.6
+6295,CA San Francisco,"2,557",3.6
+6296,CA San Jose,"6,858",6.5
+6297,CA San Jose,"7,804",9.4
+6298,CA San Francisco,"4,267",9.6
+6299,CA San Jose,"7,481",10.6
+6300,CA San Francisco,"3,143",17.4
+6301,CA San Francisco,"2,329",3.8
+6302,CA San Francisco,"6,577",6.9
+6303,CA San Mateo,"1,582",7.7
+6304,CA San Francisco,"9,083",4.6
+6305,CA San Jose,"2,841",9.9
+6306,CA San Marcos,"2,643",8.7
+6307,CA San Francisco,"3,077",7.2
+6308,CA San Francisco,"7,832",4.8
+6309,CA San Jose,"3,719",7.3
+6310,CA San Jose,"5,263",5.8
+6311,CA San Leandro,"3,530",9.4
+6312,CA San Ramon,"4,778",6.9
+6313,CA San Jose,"5,254",2.9
+6314,CA San Francisco,"3,494",8.6
+6315,CA San Jose,"3,772",10.5
+6316,CA San Francisco,"3,451",4.7
+6317,CA San Jose,"3,140",6.3
+6318,CA San Francisco,"3,046",10.9
+6319,CA San Francisco,"4,640",8.0
+6320,CA San Leandro,"84,950",10.2
+6321,CA San Jose,"5,784",8.3
+6322,CA San Francisco,"4,838",5.3
+6323,CA San Mateo,95,6.5
+6324,CA San Jose,"8,175",10.7
+6325,CA San Jose,"2,870",7.6
+6326,CA San Jose,"3,120",12.5
+6327,CA San Francisco,"4,665",12.7
+6328,CA San Jose,"4,585",8.3
+6329,CA San Mateo,"4,820",8.1
+6330,CA San Francisco,"4,232",7.5
+6331,CA San Jose,"4,186",9.7
+6332,CA San Jose,"4,585",5.9
+6333,CA San Jose,"4,241",7.9
+6334,CA San Jose,"6,813",6.6
+6335,CA San Jose,"5,265",10.6
+6336,CA San Francisco,"4,238",9.9
+6337,CA San Francisco,"3,725",14.7
+6338,CA San Ramon,"2,859",7.0
+6340,CA San Ramon,"7,353",6.8
+6341,CA San Jose,"2,992",9.7
+6342,CA San Jose,"5,822",6.5
+6343,CA San Francisco,"4,827",6.9
+6344,CA San Francisco,"3,826",11.5
+6345,CA San Francisco,"4,093",11.8
+6346,CA San Marcos,"83,781",8.4
+6347,CA San Francisco,"4,313",5.5
+6348,CA San Jose,"3,237",10.8
+6349,CA San Jose,"1,528",6.9
+6350,CA San Francisco,"4,221",6.2
+6351,CA San Francisco,"3,821",7.5
+6352,CA San Jose,"4,669",7.6
+6353,CA San Jose,"6,892",7.9
+6354,CA San Jose,"4,025",8.4
+6355,CA San Leandro,"5,814",10.9
+6356,CA San Mateo,"3,342",9.0
+6357,CA San Francisco,"3,264",5.1
+6358,CA San Jose,"5,263",11.3
+6359,CA San Jose,"4,085",7.8
+6360,CA San Jose,"3,461",8.3
+6361,CA San Jose,"4,744",10.5
+6362,CA San Jose,"3,239",7.8
+6364,CA San Francisco,"2,541",6.2
+6365,CA San Francisco,"6,691",9.7
+6366,CA San Jose,790,5.8
+6367,CA San Francisco,"3,934",7.7
+6368,CA San Leandro,"2,391",10.7
+6369,CA San Francisco,"2,685",8.8
+6370,CA San Jose,"6,163",6.2
+6371,CA San Marcos,"11,365",5.3
+6372,CA San Mateo,"3,160",9.8
+6373,CA San Jose,"4,549",10.1
+6374,CA San Ramon,"8,376",5.6
+6375,CA San Jose,"6,219",10.9
+6376,CA San Marcos,384,9.2
+6377,CA San Francisco,"6,400",9.4
+6378,CA San Francisco,797,22.0
+6379,CA San Francisco,"6,676",11.9
+6380,CA San Jose,"4,753",10.5
+6381,CA San Jose,745,10.9
+6382,CA San Jose,745,8.2
+6383,CA San Jose,"2,484",14.1
+6384,CA San Jose,"4,471",10.7
+6385,CA San Jose,"5,073",7.7
+6386,CA San Francisco,"2,625",5.0
+6387,CA San Francisco,"3,073",7.0
+6388,CA San Mateo,"97,207",7.9
+6389,CA San Francisco,"3,472",7.4
+6390,CA San Jose,"3,543",9.7
+6391,CA San Jose,"3,129",8.5
+6392,CA San Francisco,"2,728",6.7
+6393,CA San Francisco,"5,369",7.3
+6394,CA San Marcos,"6,062",12.5
+6395,CA San Mateo,"4,829",7.5
+6396,CA San Jose,"6,711",8.5
+6397,CA San Francisco,"2,779",5.4
+6398,CA San Jose,"5,418",7.7
+6399,CA San Francisco,"2,465",9.7
+6400,CA San Jose,"4,769",10.9
+6401,CA San Francisco,"3,544",4.9
+6402,CA San Francisco,"2,912",8.8
+6403,CA San Francisco,"3,833",8.4
+6404,CA San Francisco,"2,221",8.2
+6405,CA San Francisco,"805,235",8.8
+6406,CA San Jose,"3,599",14.0
+6407,CA San Francisco,"3,235",2.9
+6408,CA San Jose,"7,200",7.5
+6409,CA San Francisco,"5,137",8.5
+6410,CA San Jose,"4,641",6.7
+6411,CA San Francisco,"4,516",8.6
+6412,CA San Francisco,"4,416",8.0
+6413,CA San Francisco,171,3.5
+6414,CA San Francisco,"4,652",4.2
+6415,CA San Jose,"4,760",10.5
+6416,CA San Jose,"6,064",7.5
+6417,CA San Jose,"3,492",10.4
+6418,CA San Francisco,"6,581",9.1
+6419,CA San Francisco,"1,534",3.7
+6420,CA San Marcos,"4,819",11.7
+6421,CA San Francisco,"6,810",11.1
+6422,CA San Jose,"6,129",10.9
+6423,CA San Jose,"5,875",10.3
+6424,CA San Francisco,"3,821",21.2
+6425,CA San Francisco,"5,171",4.8
+6426,CA San Marcos,"4,626",8.0
+6427,CA San Francisco,"5,078",6.6
+6428,CA San Leandro,"84,950",9.4
+6429,CA San Francisco,"4,595",6.6
+6430,CA San Marcos,"4,070",4.6
+6431,CA San Jose,"3,147",8.1
+6432,CA San Francisco,"4,044",13.2
+6433,CA San Jose,"5,563",9.4
+6434,CA San Jose,"3,170",8.0
+6435,CA San Leandro,"6,834",10.6
+6436,CA San Francisco,"4,261",10.4
+6437,CA San Jose,"4,499",11.1
+6438,CA San Jose,"3,857",4.0
+6439,CA San Mateo,"2,879",8.0
+6440,CA San Francisco,"7,764",9.8
+6441,CA San Jose,"4,582",8.9
+6442,CA San Jose,"7,469",8.3
+6443,CA San Francisco,"1,783",11.0
+6444,CA San Francisco,"2,924",5.1
+6445,CA San Francisco,"3,852",7.3
+6446,CA San Francisco,"5,326",10.1
+6447,CA San Francisco,"3,610",8.9
+6448,CA San Jose,"4,784",8.4
+6449,CA San Jose,"4,477",10.9
+6450,CA San Francisco,"4,106",5.2
+6451,CA San Jose,"4,448",9.5
+6452,CA San Jose,"4,534",8.1
+6453,CA San Francisco,"5,216",13.6
+6454,CA San Francisco,"5,863",11.5
+6455,CA San Francisco,"3,853",5.1
+6456,CA San Jose,"4,670",7.7
+6457,CA San Francisco,"4,578",8.3
+6458,CA San Jose,"4,424",10.9
+6459,CA San Francisco,"4,233",5.0
+6460,CA San Mateo,"3,182",7.6
+6461,CA San Jose,"1,969",6.2
+6462,CA San Marcos,73,8.6
+6463,CA San Jose,"3,245",7.4
+6464,CA San Francisco,"3,997",6.0
+6465,CA San Mateo,"3,636",6.6
+6466,CA San Francisco,"4,320",5.7
+6467,CA San Jose,"4,741",12.4
+6468,CA San Jose,"1,078",7.0
+6469,CA San Francisco,"5,395",7.3
+6470,CA San Francisco,"4,088",7.2
+6471,CA San Jose,"4,172",8.0
+6472,CA San Ramon,"4,189",6.5
+6473,CA San Francisco,"2,040",5.6
+6474,CA San Jose,"4,153",7.4
+6475,CA San Jose,"5,741",8.2
+6476,CA San Jose,"945,942",9.2
+6477,CA San Jose,"4,058",10.7
+6478,CA San Jose,"7,544",7.9
+6479,CA San Mateo,"3,613",7.3
+6480,CA San Francisco,"6,172",9.8
+6481,CA San Francisco,"4,992",11.0
+6482,CA San Jose,"5,099",7.4
+6483,CA San Jose,"4,380",6.5
+6484,CA San Mateo,"4,959",8.9
+6485,CA San Jose,"4,443",10.0
+6486,CA San Francisco,"4,582",12.6
+6487,CA San Jose,"4,040",9.7
+6488,CA San Francisco,"5,096",5.4
+6489,CA San Francisco,"3,499",20.9
+6490,CA San Francisco,320,13.1
+6491,CA San Leandro,"5,978",11.1
+6492,CA San Jose,"4,586",6.7
+6493,CA San Francisco,"4,293",5.5
+6494,CA San Francisco,"4,788",10.8
+6495,CA San Francisco,"3,599",4.7
+6496,CA San Jose,"3,628",7.5
+6497,CA San Francisco,"5,658",7.7
+6498,CA San Francisco,"3,656",9.5
+6499,CA San Ramon,"5,730",7.0
+6500,CA San Leandro,"4,485",10.7
+6501,CA San Jose,"2,342",6.5
+6502,CA San Francisco,"4,322",8.2
+6503,CA San Francisco,"4,047",9.5
+6504,CA San Jose,"6,936",8.9
+6505,CA San Jose,"3,074",7.7
+6506,CA San Ramon,"5,099",6.2
+6507,CA San Jose,"4,295",7.5
+6508,CA San Jose,"7,894",7.0
+6509,CA San Francisco,"3,137",11.3
+6510,CA Vallejo,"1,399",11.1
+6511,CA Santa Clara,"4,015",8.2
+6512,CA Santa Barbara,333,11.7
+6513,CA Santa Clara,"4,699",8.1
+6514,CA Torrance,"145,438",7.6
+6515,CA Simi Valley,"6,948",7.2
+6516,CA Santa Maria,"3,873",10.2
+6517,CA Torrance,"2,248",8.3
+6518,CA Santa Ana,"4,449",11.8
+6519,CA Simi Valley,"3,331",9.7
+6520,CA Simi Valley,"3,714",7.8
+6521,CA Stockton,"5,778",12.2
+6522,CA Upland,"5,077",9.4
+6523,CA Santa Maria,"2,621",13.7
+6524,CA Tustin,122,6.5
+6525,CA Torrance,"4,294",8.9
+6526,CA Vacaville,"3,296",6.7
+6528,CA Stockton,"2,925",11.1
+6529,CA Turlock,"5,980",9.3
+6530,CA Santa Ana,"2,980",10.6
+6531,CA Santa Clarita,"4,342",7.9
+6532,CA Tracy,"3,417",10.1
+6533,CA Santa Rosa,"3,623",8.5
+6534,CA Stockton,"1,620",13.4
+6535,CA Stockton,"3,043",11.5
+6536,CA Santa Rosa,"4,245",8.8
+6537,CA Turlock,"3,853",10.5
+6538,CA South Gate,"4,958",12.6
+6539,CA Santa Clara,"3,026",8.5
+6540,CA Vacaville,"6,016",9.1
+6541,CA Tracy,"11,140",7.1
+6542,CA Temecula,"4,214",8.2
+6543,CA Temecula,"100,097",8.4
+6544,CA Sunnyvale,"5,227",5.0
+6545,CA Santa Ana,"5,057",13.1
+6546,CA Santa Rosa,"3,563",7.8
+6547,CA Union City,"4,459",9.2
+6548,CA Stockton,"12,082",10.0
+6549,CA Torrance,"3,291",8.9
+6550,CA Union City,"7,312",9.9
+6551,CA Sunnyvale,"5,756",5.9
+6552,CA Torrance,"4,005",8.6
+6553,CA Temecula,"4,594",7.7
+6554,CA Stockton,"3,220",13.6
+6555,CA Santa Clarita,"4,490",7.3
+6556,CA Simi Valley,"4,119",9.2
+6557,CA Santa Rosa,"6,594",8.8
+6558,CA Torrance,"5,522",9.7
+6559,CA Upland,"5,092",9.9
+6560,CA Tustin,"1,798",10.4
+6561,CA Santa Barbara,"5,294",8.5
+6562,CA Santa Monica,"4,463",9.0
+6563,CA Stockton,"3,700",15.6
+6564,CA Tustin,"3,548",9.4
+6565,CA Thousand Oaks,"1,596",9.0
+6566,CA Santa Ana,"3,137",8.3
+6567,CA Turlock,"8,007",8.6
+6568,CA Santa Ana,"5,568",10.0
+6569,CA Santa Clarita,"5,818",6.9
+6570,CA Santa Clarita,"2,686",6.5
+6572,CA Santa Barbara,"3,266",10.3
+6573,CA Stockton,"5,303",6.9
+6574,CA Santa Barbara,"7,522",8.3
+6575,CA Stockton,"5,269",15.6
+6576,CA Santa Monica,"3,106",7.1
+6577,CA Tracy,"4,790",7.0
+6578,CA Santa Rosa,"3,004",7.1
+6579,CA Santa Clarita,532,7.6
+6580,CA Santa Clarita,"1,990",5.8
+6581,CA Santa Clarita,"176,320",7.6
+6582,CA Sunnyvale,"5,322",7.5
+6583,CA Simi Valley,"5,401",7.8
+6584,CA South Gate,"6,814",11.2
+6585,CA Santa Ana,"3,843",12.0
+6586,CA Turlock,"68,549",9.9
+6587,CA Upland,"4,600",11.7
+6588,CA Simi Valley,"1,160",8.2
+6589,CA Santa Monica,"5,867",9.0
+6590,CA Upland,"73,732",9.6
+6592,CA Santa Rosa,"7,264",8.8
+6593,CA Torrance,"5,056",7.4
+6594,CA Vacaville,"5,617",7.5
+6595,CA Torrance,"5,412",8.5
+6596,CA Santa Ana,"8,346",12.7
+6597,CA Santa Monica,"4,483",6.4
+6598,CA Stockton,"2,914",12.4
+6599,CA Stockton,"2,926",13.1
+6600,CA Turlock,"2,295",11.4
+6601,CA Thousand Oaks,"6,335",9.0
+6602,CA Santa Ana,"5,820",11.1
+6603,CA Tracy,"6,442",7.3
+6604,CA Sunnyvale,"4,194",7.2
+6605,CA Temecula,"2,088",7.7
+6606,CA Santa Maria,"7,556",12.5
+6607,CA Stockton,"5,020",15.7
+6608,CA Santa Rosa,"3,846",7.0
+6609,CA Santa Barbara,"3,959",7.4
+6610,CA Santa Ana,"6,387",11.6
+6611,CA Stockton,"2,088",10.8
+6612,CA Union City,"3,841",9.8
+6613,CA Santa Barbara,"4,740",8.4
+6614,CA Sunnyvale,"6,502",5.8
+6615,CA Stockton,"3,855",8.9
+6616,CA Santa Clarita,"2,193",6.6
+6617,CA Santa Rosa,"6,948",8.4
+6618,CA Union City,"2,839",9.1
+6619,CA Santa Clarita,"6,598",7.6
+6620,CA Santa Clarita,"4,149",6.5
+6621,CA Santa Monica,"3,841",6.7
+6622,CA South Gate,"1,860",12.2
+6623,CA Santa Ana,"6,347",8.8
+6624,CA South Gate,"3,164",11.6
+6625,CA Santa Maria,"4,782",12.4
+6626,CA Santa Clara,"6,650",7.2
+6627,CA Santa Ana,"5,026",11.0
+6628,CA Santa Clara,"4,083",9.6
+6629,CA Torrance,"5,114",6.8
+6630,CA Santa Ana,"5,712",10.1
+6631,CA Thousand Oaks,"9,090",8.0
+6632,CA Thousand Oaks,"4,019",9.9
+6634,CA Simi Valley,"3,433",9.2
+6635,CA Vacaville,"5,262",7.4
+6636,CA Stockton,"6,519",10.7
+6637,CA Torrance,"7,074",8.9
+6638,CA Tustin,"2,403",7.8
+6639,CA Simi Valley,"5,380",9.8
+6640,CA Santa Monica,"3,268",5.5
+6641,CA Tustin,"7,952",6.8
+6642,CA Turlock,"3,834",8.6
+6643,CA Stockton,"3,754",10.6
+6644,CA Santa Rosa,"3,490",9.2
+6645,CA Santa Ana,751,7.3
+6646,CA Santa Barbara,"4,138",7.0
+6647,CA Stockton,"291,707",12.4
+6648,CA Temecula,"5,215",7.7
+6649,CA Santa Clarita,"4,430",8.5
+6650,CA Santa Barbara,"88,410",8.3
+6651,CA Sunnyvale,"1,239",7.7
+6652,CA Vacaville,"3,022",8.2
+6653,CA Santa Clara,"5,708",7.1
+6654,CA Santa Clarita,"2,473",6.8
+6655,CA Santa Rosa,"5,532",8.1
+6656,CA Sunnyvale,"7,269",7.4
+6657,CA Santa Ana,"7,408",10.8
+6658,CA Stockton,"4,229",11.8
+6659,CA Tracy,"3,214",9.1
+6660,CA Thousand Oaks,"6,706",8.1
+6661,CA Stockton,"4,214",14.5
+6662,CA Santa Clarita,"1,314",6.1
+6663,CA South Gate,"2,497",13.8
+6664,CA Santa Ana,"5,290",14.2
+6665,CA Simi Valley,"4,315",8.7
+6666,CA Torrance,"4,606",9.0
+6667,CA Tracy,"6,507",10.5
+6668,CA Santa Monica,"6,374",7.6
+6670,CA Torrance,"4,590",7.8
+6671,CA Santa Clarita,"5,349",7.2
+6672,CA Upland,"5,428",10.4
+6673,CA Santa Ana,"5,962",10.6
+6674,CA Turlock,"4,647",11.2
+6675,CA Tustin,"12,181",7.1
+6676,CA Thousand Oaks,"126,683",7.4
+6677,CA Tracy,"5,875",8.1
+6678,CA Vacaville,"5,958",7.9
+6679,CA Thousand Oaks,"6,573",8.7
+6680,CA South Gate,"5,516",10.4
+6681,CA Santa Clara,"4,424",9.1
+6682,CA Santa Ana,457,11.6
+6683,CA Torrance,"145,438",8.6
+6684,CA Santa Maria,"4,997",11.8
+6685,CA Stockton,"5,592",15.0
+6686,CA Thousand Oaks,"4,313",8.6
+6687,CA Sunnyvale,"140,081",7.5
+6688,CA Santa Clarita,"2,909",6.9
+6689,CA Santa Rosa,"5,488",8.7
+6690,CA Santa Rosa,"5,239",7.8
+6691,CA Simi Valley,"5,988",8.3
+6692,CA Santa Barbara,"4,629",8.3
+6693,CA Stockton,"14,598",9.5
+6694,CA Tustin,"3,689",10.4
+6695,CA Torrance,"7,161",7.8
+6696,CA Union City,"69,516",9.2
+6697,CA Simi Valley,"3,819",8.0
+6698,CA Stockton,"4,450",8.8
+6699,CA Santa Clarita,"3,220",7.4
+6700,CA Torrance,"6,211",7.4
+6701,CA Santa Clarita,"2,598",8.9
+6702,CA Santa Ana,"6,880",12.5
+6703,CA Sunnyvale,"5,242",8.9
+6704,CA Stockton,"4,883",12.9
+6705,CA Santa Clarita,"4,281",6.4
+6706,CA Tustin,"75,540",8.3
+6707,CA Stockton,"3,303",12.3
+6709,CA Santa Ana,"2,297",9.7
+6710,CA Santa Clarita,"7,027",9.4
+6711,CA Santa Ana,"6,316",11.6
+6712,CA Santa Barbara,"4,096",7.7
+6713,CA Stockton,"5,721",12.8
+6714,CA Upland,"6,658",9.8
+6715,CA Santa Monica,"4,165",6.6
+6716,CA Simi Valley,"4,827",9.1
+6717,CA Stockton,"4,571",13.1
+6718,CA Sunnyvale,"6,023",7.3
+6719,CA Tustin,"5,187",7.9
+6720,CA Thousand Oaks,"3,407",7.7
+6721,CA Thousand Oaks,"4,161",7.1
+6722,CA Santa Clara,"3,063",5.0
+6723,CA Torrance,"5,783",8.8
+6724,CA Santa Ana,"7,150",13.5
+6725,CA Temecula,"7,154",8.1
+6726,CA Sunnyvale,"4,892",4.7
+6727,CA Santa Barbara,"6,270",7.3
+6728,CA Santa Barbara,"2,810",6.7
+6729,CA Vacaville,"4,144",9.1
+6730,CA Stockton,"2,396",17.1
+6731,CA Santa Rosa,"9,049",8.6
+6732,CA Upland,"5,840",10.0
+6733,CA Santa Rosa,"167,815",8.5
+6734,CA Santa Clarita,"5,010",5.8
+6735,CA Santa Clara,"6,595",6.0
+6736,CA Temecula,"8,339",7.4
+6737,CA Tracy,"3,874",8.9
+6738,CA Sunnyvale,"3,766",6.1
+6739,CA Santa Rosa,"2,467",12.8
+6740,CA Union City,"6,496",6.0
+6742,CA Santa Rosa,"2,570",5.9
+6743,CA Santa Ana,"5,688",11.3
+6744,CA Union City,"5,989",9.7
+6745,CA Santa Clarita,"5,301",10.7
+6746,CA Temecula,"3,842",9.9
+6747,CA Temecula,"5,597",8.2
+6748,CA Sunnyvale,447,8.0
+6749,CA Stockton,"1,500",10.5
+6750,CA Union City,"4,219",11.5
+6751,CA Vacaville,"3,079",6.6
+6752,CA Santa Barbara,"4,738",8.9
+6753,CA Santa Ana,"7,011",13.7
+6756,CA Santa Ana,"5,674",12.4
+6757,CA Stockton,"4,559",13.5
+6758,CA Santa Rosa,"2,079",7.2
+6759,CA Santa Monica,"4,433",7.6
+6760,CA Union City,"5,883",10.0
+6761,CA Upland,"4,338",10.8
+6762,CA Santa Clara,"3,808",7.0
+6763,CA Simi Valley,"124,237",8.4
+6764,CA Santa Maria,"8,735",10.2
+6765,CA Santa Ana,"4,481",9.8
+6766,CA Santa Clarita,"1,996",8.2
+6767,CA Vacaville,"4,912",13.9
+6769,CA Santa Rosa,"4,451",8.5
+6770,CA Santa Ana,"324,528",11.3
+6771,CA Santa Clarita,"176,320",7.5
+6772,CA Stockton,"1,898",11.6
+6773,CA Sunnyvale,"3,668",8.3
+6774,CA Upland,"3,449",9.5
+6775,CA Temecula,"3,263",8.2
+6776,CA South Gate,"5,522",12.8
+6777,CA Santa Clarita,"4,261",8.6
+6778,CA Turlock,"2,043",9.2
+6779,CA Temecula,"6,106",6.7
+6780,CA Santa Maria,"99,553",12.4
+6781,CA Thousand Oaks,"126,683",8.5
+6782,CA Santa Clarita,"1,932",8.0
+6783,CA Stockton,"2,725",12.1
+6784,CA Tracy,"4,189",10.0
+6785,CA Torrance,"3,958",9.5
+6786,CA Santa Ana,"8,605",15.3
+6787,CA Santa Monica,"6,306",6.1
+6788,CA Santa Clara,"9,741",6.2
+6789,CA Sunnyvale,"4,410",8.6
+6790,CA Stockton,"3,419",11.5
+6791,CA Thousand Oaks,"3,117",8.5
+6793,CA Stockton,761,11.7
+6794,CA Vacaville,"3,477",6.6
+6795,CA Simi Valley,"4,353",8.4
+6796,CA Santa Clarita,"6,490",5.1
+6797,CA Stockton,"3,754",15.5
+6798,CA Stockton,"2,974",12.7
+6800,CA Santa Clarita,"2,895",8.4
+6801,CA Santa Rosa,"167,815",8.2
+6802,CA South Gate,"4,153",11.6
+6803,CA Simi Valley,"4,281",7.2
+6804,CA Santa Ana,"6,015",8.9
+6805,CA Stockton,"5,001",15.9
+6806,CA Thousand Oaks,"3,908",8.5
+6807,CA Temecula,"3,478",7.2
+6808,CA Turlock,"5,393",14.5
+6809,CA Tustin,"5,399",9.7
+6810,CA Turlock,"7,449",9.9
+6811,CA Thousand Oaks,"1,196",8.2
+6812,CA Santa Ana,"7,432",11.3
+6813,CA Santa Ana,"3,011",8.8
+6814,CA Santa Clarita,"1,901",6.4
+6815,CA Stockton,"10,682",7.9
+6816,CA Santa Clarita,"3,246",7.3
+6817,CA Santa Clarita,"7,720",7.5
+6818,CA Thousand Oaks,"6,565",7.6
+6819,CA Stockton,"3,137",13.9
+6820,CA Santa Rosa,"4,037",7.2
+6821,CA Santa Clarita,"4,075",8.1
+6822,CA Santa Rosa,"5,250",7.9
+6823,CA Sunnyvale,"140,081",7.1
+6824,CA Stockton,"2,749",13.9
+6825,CA Stockton,"3,201",11.6
+6826,CA Sunnyvale,"5,273",8.3
+6827,CA Santa Monica,"4,037",5.7
+6828,CA Santa Ana,"6,627",11.6
+6829,CA Santa Clarita,"5,031",7.3
+6830,CA Torrance,"6,311",8.1
+6831,CA Temecula,"2,149",7.5
+6832,CA Union City,"2,261",8.9
+6833,CA South Gate,"4,052",11.6
+6834,CA Torrance,"5,853",11.4
+6835,CA Santa Maria,"3,930",11.4
+6836,CA Stockton,"4,191",12.9
+6837,CA Santa Monica,"5,700",6.0
+6838,CA Sunnyvale,"4,171",6.8
+6839,CA Thousand Oaks,"6,025",7.8
+6840,CA Santa Ana,"5,512",6.7
+6842,CA Upland,"3,478",6.4
+6843,CA Santa Barbara,"3,707",8.0
+6844,CA Santa Rosa,"3,970",8.5
+6845,CA Tustin,"2,523",9.7
+6846,CA Santa Ana,"4,392",11.5
+6847,CA Thousand Oaks,"1,069",9.1
+6848,CA Vacaville,"4,943",9.0
+6849,CA Santa Ana,"324,528",13.8
+6851,CA Santa Ana,"3,220",7.0
+6852,CA Santa Clarita,367,7.4
+6853,CA Stockton,"2,771",16.3
+6854,CA Thousand Oaks,"3,429",8.4
+6855,CA Santa Barbara,"4,059",8.9
+6856,CA Santa Rosa,"6,807",8.6
+6857,CA Santa Clara,"5,514",7.6
+6858,CA Temecula,668,7.4
+6859,CA Santa Clarita,"7,257",8.7
+6860,CA Vacaville,"4,612",8.7
+6861,CA Stockton,"3,863",18.7
+6862,CA Santa Ana,"7,486",13.2
+6863,CA South Gate,"3,493",10.8
+6864,CA Turlock,"6,450",10.7
+6865,CA Santa Rosa,"6,254",7.4
+6866,CA South Gate,"5,757",11.6
+6867,CA Temecula,"6,483",6.8
+6868,CA Tracy,"82,922",8.6
+6869,CA Santa Maria,"5,294",10.3
+6870,CA Santa Ana,"9,983",11.2
+6871,CA Sunnyvale,"2,817",7.7
+6872,CA Santa Rosa,"2,610",12.5
+6873,CA Union City,"4,016",10.5
+6874,CA Stockton,"2,579",11.4
+6875,CA Upland,"3,248",9.3
+6876,CA Santa Clara,"2,348",6.1
+6877,CA Torrance,"6,704",9.2
+6878,CA Santa Ana,"3,412",10.4
+6879,CA Stockton,"5,842",13.7
+6880,CA Santa Maria,"11,117",10.3
+6881,CA Santa Barbara,"88,410",8.3
+6882,CA Torrance,"5,103",9.0
+6883,CA South Gate,"94,396",13.6
+6884,CA Vacaville,"1,780",7.4
+6885,CA Simi Valley,"4,855",7.8
+6886,CA Simi Valley,"5,008",8.8
+6887,CA Santa Ana,"5,499",12.6
+6888,CA Torrance,"4,472",8.6
+6889,CA Upland,"3,264",9.5
+6890,CA Stockton,991,15.0
+6891,CA Santa Rosa,"1,893",9.4
+6892,CA Thousand Oaks,"3,722",8.4
+6893,CA Santa Clara,"116,468",7.8
+6895,CA Tustin,"3,703",10.2
+6896,CA Temecula,"7,683",7.0
+6897,CA Turlock,"2,742",10.7
+6898,CA Santa Ana,"2,018",11.9
+6899,CA Santa Clarita,"3,419",8.4
+6900,CA Tustin,280,10.0
+6901,CA Sunnyvale,"5,336",7.6
+6902,CA Santa Clara,"3,911",7.9
+6903,CA Santa Ana,"2,697",12.5
+6904,CA Santa Barbara,"4,480",7.0
+6905,CA Sunnyvale,"4,392",7.0
+6906,CA Union City,"3,205",9.5
+6907,CA Stockton,"4,787",10.1
+6908,CA Santa Rosa,"3,158",10.7
+6909,CA Stockton,"3,148",9.7
+6910,CA South Gate,"6,050",10.9
+6911,CA Torrance,"7,103",7.4
+6912,CA Santa Clara,"3,265",8.6
+6913,CA Simi Valley,"124,237",8.2
+6914,CA Santa Clara,"4,615",8.0
+6915,CA Simi Valley,"3,324",8.5
+6916,CA Upland,"3,905",8.7
+6917,CA Vacaville,"92,428",8.6
+6918,CA Santa Ana,"5,822",12.6
+6919,CA Santa Maria,"6,765",11.8
+6920,CA Vacaville,"5,625",7.5
+6921,CA Thousand Oaks,"7,126",9.1
+6922,CA Simi Valley,"5,458",8.2
+6923,CA Santa Maria,147,1.8
+6924,CA Simi Valley,"5,156",8.2
+6925,CA Thousand Oaks,"3,635",10.2
+6926,CA Santa Ana,"8,286",10.8
+6927,CA Santa Monica,"89,736",6.8
+6928,CA Tustin,"3,456",6.6
+6929,CA Santa Rosa,"3,527",8.4
+6930,CA Temecula,"6,495",8.5
+6931,CA Stockton,"2,327",10.1
+6932,CA Sunnyvale,"2,562",7.8
+6933,CA Upland,"3,832",9.7
+6934,CA Thousand Oaks,"3,520",10.8
+6935,CA Stockton,"4,385",12.7
+6936,CA Temecula,"4,472",7.9
+6937,CA Turlock,125,12.6
+6938,CA Santa Clarita,"6,010",8.1
+6939,CA Stockton,"5,859",11.9
+6940,CA Santa Barbara,145,8.8
+6941,CA Union City,"4,674",10.1
+6942,CA Santa Clarita,"2,979",6.3
+6943,CA Santa Monica,"6,696",7.2
+6944,CA Tracy,"4,694",10.2
+6945,CA Stockton,"1,590",10.2
+6946,CA Santa Clarita,"1,291",7.2
+6947,CA Sunnyvale,"3,839",6.9
+6948,CA Santa Ana,"5,845",12.1
+6949,CA Santa Clara,"2,840",2.3
+6950,CA South Gate,"5,498",11.6
+6951,CA Santa Ana,"5,555",7.6
+6953,CA Santa Ana,"5,226",10.9
+6954,CA Torrance,"6,050",8.3
+6955,CA Tustin,"75,540",9.2
+6956,CA Santa Monica,"6,364",7.6
+6958,CA Vacaville,"3,626",7.3
+6959,CA Stockton,127,10.8
+6960,CA Santa Rosa,"5,320",8.2
+6961,CA Torrance,"2,521",9.2
+6962,CA Santa Maria,"99,553",10.8
+6964,CA Santa Barbara,"7,189",9.7
+6965,CA Sunnyvale,"4,798",4.7
+6966,CA Stockton,"6,256",10.3
+6967,CA Stockton,"4,582",13.9
+6968,CA Santa Rosa,"3,461",8.9
+6969,CA Vacaville,"4,088",8.3
+6970,CA Temecula,365,8.0
+6971,CA Sunnyvale,"7,407",8.7
+6972,CA South Gate,"94,396",11.5
+6973,CA Santa Rosa,"3,006",8.3
+6974,CA Santa Barbara,"1,428",8.6
+6975,CA Santa Monica,"89,736",6.6
+6976,CA Union City,"6,068",8.3
+6977,CA Santa Rosa,"4,775",7.4
+6978,CA Santa Clarita,"3,336",6.7
+6979,CA Union City,"1,061",7.2
+6980,CA Santa Ana,"7,444",9.7
+6981,CA Stockton,"3,540",10.2
+6982,CA Temecula,"4,604",7.0
+6983,CA Santa Clarita,"4,287",8.1
+6984,CA Temecula,"1,470",9.6
+6985,CA Santa Ana,"3,017",13.2
+6986,CA Stockton,"2,279",13.4
+6987,CA Santa Clara,"9,530",3.9
+6988,CA Sunnyvale,"6,834",7.2
+6989,CA Upland,"3,906",9.6
+6990,CA Santa Ana,"9,170",12.5
+6991,CA Santa Monica,"4,016",6.8
+6992,CA Santa Maria,"6,991",8.8
+6993,CA Thousand Oaks,"3,395",9.4
+6994,CA South Gate,"7,289",10.6
+6995,CA Santa Ana,562,6.2
+6996,CA Santa Clara,"2,369",6.3
+6997,CA Santa Maria,"2,084",10.2
+6998,CA Simi Valley,"7,514",7.7
+7000,CA Torrance,"5,831",10.5
+7001,CA Santa Rosa,"5,065",10.3
+7002,CA Turlock,"2,667",7.0
+7003,CA Santa Clara,"5,957",5.9
+7004,CA Tracy,"13,371",8.0
+7005,CA Simi Valley,"5,308",9.4
+7006,CA Torrance,"3,063",8.6
+7007,CA Santa Ana,"9,450",10.7
+7008,CA Stockton,"5,569",11.1
+7009,CA Santa Clarita,"3,574",7.0
+7010,CA Sunnyvale,"5,294",10.0
+7011,CA Santa Clarita,"1,508",5.4
+7012,CA Stockton,"2,750",13.7
+7013,CA Stockton,"4,586",11.9
+7014,CA Santa Maria,"6,811",11.7
+7015,CA South Gate,"4,435",12.0
+7016,CA South Gate,"6,519",11.2
+7017,CA Santa Maria,"6,035",9.0
+7018,CA Torrance,"3,639",9.0
+7019,CA Santa Monica,"3,196",6.4
+7020,CA Santa Ana,"5,245",10.9
+7021,CA Simi Valley,"5,831",9.0
+7022,CA Santa Clarita,"2,337",5.4
+7023,CA Turlock,"2,226",12.2
+7024,CA Tustin,"3,599",8.9
+7025,CA Thousand Oaks,"8,378",7.9
+7026,CA Vacaville,"7,810",10.3
+7027,CA Santa Clara,"5,940",8.0
+7028,CA Simi Valley,"7,676",8.1
+7029,CA Stockton,"3,982",11.9
+7030,CA Torrance,"3,158",9.2
+7031,CA Sunnyvale,"5,172",7.0
+7032,CA Thousand Oaks,"6,305",8.6
+7034,CA Santa Ana,"3,895",10.3
+7035,CA Santa Barbara,433,8.4
+7036,CA Santa Clara,"3,880",6.1
+7037,CA Upland,"73,732",9.3
+7038,CA Thousand Oaks,"3,744",8.4
+7039,CA Vacaville,"4,910",7.5
+7040,CA Santa Clarita,"4,230",7.8
+7041,CA Stockton,"4,450",13.0
+7042,CA Tustin,"6,065",7.0
+7043,CA Thousand Oaks,"2,689",9.0
+7044,CA Simi Valley,"3,767",10.2
+7045,CA South Gate,"4,775",11.8
+7046,CA Santa Clarita,"5,460",6.5
+7047,CA Stockton,"2,627",9.9
+7048,CA Tracy,"82,922",9.5
+7049,CA Santa Ana,"3,797",11.5
+7050,CA Stockton,"2,560",17.4
+7051,CA Santa Ana,"3,801",11.5
+7052,CA Tracy,"5,784",7.5
+7053,CA Temecula,"5,122",8.6
+7054,CA Thousand Oaks,"3,907",9.6
+7055,CA Turlock,"10,838",6.7
+7056,CA Santa Ana,"5,753",12.1
+7057,CA Santa Maria,"6,687",11.9
+7058,CA Sunnyvale,"2,930",10.0
+7059,CA Tustin,"2,573",10.2
+7060,CA Santa Barbara,"2,757",8.8
+7061,CA Santa Monica,"4,986",5.7
+7062,CA Stockton,"3,054",10.1
+7063,CA Torrance,"5,928",8.0
+7064,CA Santa Ana,"9,156",11.9
+7065,CA Simi Valley,"2,788",8.7
+7066,CA Tustin,"5,074",8.5
+7067,CA Santa Clara,"5,867",8.4
+7068,CA Santa Rosa,"2,976",7.7
+7069,CA Stockton,"4,669",11.2
+7070,CA Tracy,"3,262",11.0
+7071,CA Santa Barbara,"1,012",8.9
+7072,CA Stockton,"291,707",11.8
+7073,CA Santa Clarita,"1,896",7.7
+7074,CA Temecula,"6,696",9.1
+7075,CA Santa Barbara,"4,659",7.6
+7076,CA Vacaville,"3,224",6.8
+7077,CA Santa Rosa,"6,433",8.4
+7079,CA Stockton,"12,552",10.1
+7080,CA Santa Barbara,"4,059",9.0
+7081,CA Santa Clarita,"5,061",8.1
+7082,CA Santa Clarita,"2,725",7.0
+7083,CA Stockton,"10,129",7.8
+7084,CA Santa Rosa,"6,660",9.1
+7085,CA Tustin,"5,913",8.7
+7086,CA Temecula,"100,097",7.9
+7087,CA Sunnyvale,"7,572",5.8
+7088,CA Santa Ana,"9,053",12.3
+7089,CA South Gate,"4,458",11.4
+7090,CA Santa Ana,"6,819",10.9
+7091,CA Simi Valley,"6,472",7.8
+7092,CA Santa Rosa,"7,942",8.1
+7093,CA South Gate,"3,866",12.3
+7094,CA Upland,"3,584",8.8
+7095,CA Turlock,"68,549",9.7
+7096,CA Santa Ana,"2,266",11.7
+7097,CA Thousand Oaks,"5,149",7.3
+7098,CA Union City,"3,883",10.6
+7099,CA Stockton,"1,586",12.5
+7100,CA Vacaville,"7,016",8.7
+7101,CA Santa Clarita,"4,306",9.0
+7102,CA Santa Barbara,"2,687",8.7
+7103,CA Sunnyvale,"7,701",5.9
+7104,CA Torrance,"2,763",8.0
+7105,CA Union City,"3,310",7.9
+7106,CA Santa Rosa,"5,219",8.4
+7107,CA Santa Monica,"3,751",7.2
+7108,CA Tracy,"6,332",9.2
+7109,CA Upland,"3,958",9.4
+7110,CA Stockton,"3,704",13.2
+7111,CA Santa Ana,"6,801",9.0
+7112,CA Santa Monica,"4,684",5.1
+7113,CA South Gate,"3,720",10.8
+7114,CA Upland,"4,075",8.5
+7115,CA Santa Clara,"4,617",7.1
+7116,CA Santa Ana,332,10.6
+7117,CA Santa Maria,"3,321",10.9
+7118,CA Santa Ana,"3,287",12.8
+7119,CA Torrance,"2,614",8.8
+7120,CA Visalia,"2,729",8.6
+7125,CA Victorville,681,13.7
+7133,CA Vista,"6,291",9.1
+7134,CA West Covina,"6,705",8.7
+7135,CA Vista,"93,834",8.9
+7143,CA Whittier,"4,213",8.3
+7145,CA Vallejo,"5,308",12.9
+7147,CA Victorville,"4,817",11.3
+7152,CA Visalia,"3,390",9.2
+7157,CA Vallejo,"4,292",12.2
+7158,CA Visalia,"124,442",10.1
+7161,CA Westminster,"4,733",12.9
+7162,CA West Covina,"3,063",9.9
+7163,CA Vallejo,"3,011",10.2
+7164,CA Vallejo,"3,206",11.5
+7170,CA Victorville,"3,195",10.0
+7171,CA West Covina,"2,076",9.1
+7179,CA Westminster,"5,749",12.2
+7182,CA Vallejo,"4,988",11.4
+7186,CA Vista,"5,614",9.2
+7191,CA Whittier,"85,331",9.3
+7192,CA West Covina,"3,849",10.9
+7195,CA Westminster,"3,053",9.5
+7197,CA Vallejo,"3,764",9.7
+7198,CA Westminster,"1,230",8.3
+7199,CA West Covina,"6,272",9.9
+7211,CA Vista,"4,933",8.3
+7212,CA Vista,325,6.2
+7214,CA Westminster,"5,816",13.7
+7216,CA Visalia,"1,337",12.8
+7217,CA West Covina,"5,725",11.1
+7219,CA Vista,"2,869",9.8
+7223,CA Whittier,"3,326",8.9
+7228,CA Visalia,"2,769",13.5
+7234,CA Visalia,"5,663",10.5
+7238,CA West Covina,"5,823",10.1
+7239,CA West Covina,960,7.5
+7243,CA Victorville,92,14.6
+7245,CA Vista,"4,628",9.1
+7252,CA Victorville,"4,499",10.7
+7254,CA Vallejo,"2,938",9.2
+7255,CA Westminster,"5,136",13.1
+7256,CA Whittier,"1,153",15.3
+7259,CA Visalia,"8,224",13.1
+7260,CA Vallejo,"3,061",11.9
+7261,CA Whittier,"5,016",8.0
+7266,CA Vallejo,"1,322",9.4
+7276,CA West Covina,"106,098",9.9
+7279,CA Vallejo,"2,280",11.0
+7280,CA West Covina,"4,803",9.7
+7281,CA West Covina,"2,392",11.1
+7289,CA Victorville,241,8.5
+7294,CA Vallejo,"6,678",10.1
+7296,CA Whittier,"3,592",12.3
+7298,CA Victorville,217,14.5
+7300,CA Whittier,"85,331",9.4
+7303,CA Vista,"4,541",8.7
+7305,CA Whittier,"3,792",9.2
+7311,CA Vallejo,"3,872",9.1
+7314,CA Vallejo,"5,833",13.5
+7326,CA Victorville,"2,469",13.8
+7330,CA Vista,"6,163",11.8
+7334,CA West Covina,"5,283",9.9
+7338,CA West Covina,"2,940",9.1
+7344,CA Visalia,"124,442",9.8
+7345,CA Visalia,"6,117",11.6
+7346,CA Westminster,"6,352",12.9
+7349,CA Vallejo,"2,538",16.1
+7351,CA Westminster,"4,137",11.8
+7353,CA Vallejo,"3,845",10.8
+7354,CA Whittier,"2,131",10.4
+7355,CA Westminster,"89,701",11.7
+7360,CA West Covina,"5,351",10.7
+7363,CA Victorville,"5,510",11.2
+7368,CA Vista,"5,777",7.6
+7370,CA West Covina,150,14.0
+7371,CA Whittier,"4,273",8.2
+7372,CA Visalia,"4,830",10.8
+7374,CA Vista,"1,733",8.4
+7378,CA Victorville,"10,960",13.0
+7383,CA Vallejo,"2,798",18.1
+7387,CA Victorville,"14,794",10.3
+7394,CA Westminster,"5,111",16.8
+7395,CA Westminster,"7,016",13.3
+7396,CA Whittier,"1,303",9.5
+7398,CA Vista,"1,070",7.2
+7400,CA Visalia,"6,983",13.8
+7403,CA Westminster,"5,282",15.1
+7408,CA West Covina,"4,926",10.6
+7413,CA Visalia,"7,487",8.6
+7414,CA Vista,"1,064",8.8
+7422,CA Vallejo,"5,357",9.5
+7429,CA Whittier,"7,238",9.3
+7430,CA Whittier,638,8.8
+7433,CA Vista,"4,147",9.8
+7438,CA Vista,"1,261",7.0
+7442,CA Victorville,"5,017",14.5
+7450,CA Vallejo,"2,578",8.3
+7453,CA Whittier,"6,780",8.5
+7454,CA Vista,"5,974",7.3
+7456,CA West Covina,"2,008",11.0
+7457,CA Visalia,"19,471",7.8
+7461,CA Vallejo,"2,918",12.8
+7464,CA Vallejo,"4,408",9.2
+7468,CA Westminster,"2,738",9.7
+7472,CA West Covina,"106,098",10.1
+7476,CA Vista,"5,715",10.5
+7478,CA Westminster,"5,762",15.3
+7484,CA Vallejo,"5,072",13.5
+7485,CA Whittier,"4,705",11.4
+7487,CA Westminster,"89,701",12.7
+7489,CA Visalia,"6,153",8.1
+7491,CA Vallejo,"115,942",10.6
+7493,CA West Covina,539,9.7
+7494,CA Visalia,"6,571",9.6
+7500,CA West Covina,717,11.2
+7503,CA Vallejo,"3,126",11.9
+7514,CA Victorville,"6,068",13.7
+7519,CA West Covina,"3,883",11.7
+7520,CA Victorville,"115,903",11.4
+7526,CA Vista,"3,984",8.6
+7527,CA Whittier,"4,359",10.4
+7530,CA Vallejo,"3,555",12.6
+7531,CA Westminster,166,12.7
+7535,CA Vista,500,8.8
+7541,CA Vallejo,"2,470",9.4
+7544,CA Whittier,"4,900",9.2
+7552,CA Visalia,"7,019",8.9
+7557,CA West Covina,"3,918",11.3
+7558,CA Visalia,"4,016",10.0
+7560,CA Victorville,"10,477",11.2
+7570,CA West Covina,806,12.2
+7572,CA Vista,"5,404",7.6
+7576,CA Vista,162,8.9
+7578,CA Visalia,"5,762",8.6
+7583,CA Whittier,"6,529",8.7
+7584,CA Victorville,"7,575",11.7
+7586,CA Whittier,"1,381",8.6
+7587,CA Whittier,"3,974",9.3
+7588,CA West Covina,"3,863",9.5
+7591,CA Vallejo,"5,180",10.2
+7594,CA Vista,"4,256",8.4
+7597,CA West Covina,"2,482",10.0
+7599,CA Westminster,"1,400",15.2
+7601,CA Visalia,"4,151",7.9
+7610,CA Westminster,"4,631",12.8
+7611,CA Vista,"2,361",10.3
+7621,CA Vista,"4,795",9.0
+7622,CA Visalia,"7,794",9.9
+7623,CA Vista,"93,834",10.0
+7624,CA Westminster,"4,486",9.1
+7625,CA Newport Beach,"6,084",7.5
+7626,CA Moreno Valley,"6,188",9.1
+7627,CA Modesto,"4,402",11.0
+7628,CA Newport Beach,"5,917",7.7
+7629,CA Manteca,"4,368",7.9
+7630,CA Menifee,"7,097",8.0
+7631,CA Modesto,"3,631",11.7
+7632,CA Moreno Valley,"4,150",10.5
+7633,CA Milpitas,"4,474",9.6
+7634,CA Milpitas,"1,714",10.3
+7646,CA West Covina,"3,246",9.7
+7647,CA West Covina,"2,133",10.3
+7652,CA Victorville,"4,941",10.7
+7653,CA West Covina,"2,126",9.5
+7658,CA Visalia,"4,689",9.5
+7661,CA West Covina,"4,159",10.4
+7666,CA Vista,"3,592",7.1
+7670,CA Westminster,"4,866",9.3
+7671,CA Vallejo,"4,219",9.2
+7676,CA Vallejo,"3,372",10.0
+7680,CA Vallejo,"115,942",11.3
+7687,CA Vallejo,"3,886",10.8
+7692,CA Whittier,"3,695",9.1
+7693,CA Victorville,"4,762",16.4
+7699,CA Whittier,"4,002",8.4
+7702,CA Vallejo,626,9.4
+7707,CA West Covina,"2,743",10.5
+7709,CA Vallejo,"3,655",12.4
+7710,CA Victorville,"115,903",12.9
+7715,CA Visalia,"4,376",10.5
+7717,CA Vallejo,"2,359",11.7
+7722,CA Victorville,"7,405",11.2
+7729,CA Vista,"6,370",9.7
+7732,CA Vallejo,"2,028",12.8
+7734,CA Whittier,"2,244",9.2
+7740,CA Victorville,"22,178",9.1
+7741,CA Westminster,"3,873",11.3
+7746,CA Westminster,"3,266",9.4
+7748,CA Westminster,399,18.6
+7750,CA Whittier,"3,394",8.4
+7754,CA West Covina,429,11.3
+7755,CA West Covina,"5,088",9.1
+7757,CA Vista,277,16.7
+7761,CA West Covina,"5,394",9.9
+7762,CA Visalia,"4,910",9.9
