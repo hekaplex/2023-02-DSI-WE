@@ -1,0 +1,146 @@
+{
+    "SGP": {
+        "energy_src": "Synthesis Gas Derived from Petroleum Coke",
+        "kg_co2_per_million_btu": 102.116666666666
+    },
+    "PC": {
+        "energy_src": "Petroleum Coke",
+        "kg_co2_per_million_btu": 102.116666666666
+    },
+    "LIG": {
+        "energy_src": "Lignite Coal",
+        "kg_co2_per_million_btu": 98.1566666666666
+    },
+    "SUB": {
+        "energy_src": "Subbituminous Coal",
+        "kg_co2_per_million_btu": 97.13
+    },
+    "WC": {
+        "energy_src": "Waste Coal",
+        "kg_co2_per_million_btu": 93.24
+    },
+    "SGC": {
+        "energy_src": "Synthesis Gas Derived from Coal",
+        "kg_co2_per_million_btu": 93.24
+    },
+    "RC": {
+        "energy_src": "Refined Coal",
+        "kg_co2_per_million_btu": 93.24
+    },
+    "BIT": {
+        "energy_src": "Bituminous Coal",
+        "kg_co2_per_million_btu": 93.24
+    },
+    "TDF": {
+        "energy_src": "Tire-Derived Fuel",
+        "kg_co2_per_million_btu": 85.97
+    },
+    "RFO": {
+        "energy_src": "Residual Fuel Oil",
+        "kg_co2_per_million_btu": 75.0933333333333
+    },
+    "DFO": {
+        "energy_src": "Distillate Fuel Oil",
+        "kg_co2_per_million_btu": 74.14
+    },
+    "WO": {
+        "energy_src": "Waste Oil",
+        "kg_co2_per_million_btu": 74.0
+    },
+    "KER": {
+        "energy_src": "Kerosene",
+        "kg_co2_per_million_btu": 73.1866666666666
+    },
+    "JF": {
+        "energy_src": "Jet Fuel",
+        "kg_co2_per_million_btu": 72.2333333333333
+    },
+    "PG": {
+        "energy_src": "Propane Gas",
+        "kg_co2_per_million_btu": 62.8833333333333
+    },
+    "NG": {
+        "energy_src": "Natural Gas",
+        "kg_co2_per_million_btu": 52.91
+    },
+    "MSW": {
+        "energy_src": "Municipal Solid Waste",
+        "kg_co2_per_million_btu": 49.8850630485971
+    },
+    "GEO": {
+        "energy_src": "Geothermal (Steam)",
+        "kg_co2_per_million_btu": 11.8066666666667
+    },
+    "BLQ": {
+        "energy_src": "Black Liquor",
+        "kg_co2_per_million_btu": 0.0
+    },
+    "WDL": {
+        "energy_src": "Wood Waste Liquids",
+        "kg_co2_per_million_btu": 0.0
+    },
+    "BFG": {
+        "energy_src": "Blast-Furnace Gas",
+        "kg_co2_per_million_btu": 0.0
+    },
+    "OBL": {
+        "energy_src": "Other Biomass Liquids ",
+        "kg_co2_per_million_btu": 0.0
+    },
+    "NUC": {
+        "energy_src": "Nuclear",
+        "kg_co2_per_million_btu": 0.0
+    },
+    "PUR": {
+        "energy_src": "Purchased Steam",
+        "kg_co2_per_million_btu": 0.0
+    },
+    "AB": {
+        "energy_src": "Agriculture Byproducts",
+        "kg_co2_per_million_btu": 0.0
+    },
+    "OTH": {
+        "energy_src": "Other",
+        "kg_co2_per_million_btu": 0.0
+    },
+    "SUN": {
+        "energy_src": "Solar",
+        "kg_co2_per_million_btu": 0.0
+    },
+    "WDS": {
+        "energy_src": "Wood Waste Solids",
+        "kg_co2_per_million_btu": 0.0
+    },
+    "OBG": {
+        "energy_src": "Other Biomass Gases ",
+        "kg_co2_per_million_btu": 0.0
+    },
+    "OG": {
+        "energy_src": "Other Gas",
+        "kg_co2_per_million_btu": 0.0
+    },
+    "MWH": {
+        "energy_src": "Electricity used for energy storage",
+        "kg_co2_per_million_btu": 0.0
+    },
+    "WAT": {
+        "energy_src": "Water",
+        "kg_co2_per_million_btu": 0.0
+    },
+    "WH": {
+        "energy_src": "Waste Heat",
+        "kg_co2_per_million_btu": 0.0
+    },
+    "LFG": {
+        "energy_src": "Landfill Gas",
+        "kg_co2_per_million_btu": 0.0
+    },
+    "WND": {
+        "energy_src": "Wind",
+        "kg_co2_per_million_btu": 0.0
+    },
+    "OBS": {
+        "energy_src": "Other Biomass Solids",
+        "kg_co2_per_million_btu": 0.0
+    }
+}
