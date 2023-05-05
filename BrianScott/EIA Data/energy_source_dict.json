@@ -1,0 +1,74 @@
+{
+    "BIT": {
+        "Fuel": "Bituminous Coal",
+        "kg_co2_per_million_btu": 93.24
+    },
+    "DFO": {
+        "Fuel": "Distillate Fuel Oil",
+        "kg_co2_per_million_btu": 74.14
+    },
+    "GEO": {
+        "Fuel": "Geothermal (Binary Cycle)",
+        "kg_co2_per_million_btu": 0.0
+    },
+    "JF": {
+        "Fuel": "Jet Fuel",
+        "kg_co2_per_million_btu": 72.2333333333333
+    },
+    "KER": {
+        "Fuel": "Kerosene",
+        "kg_co2_per_million_btu": 73.1866666666666
+    },
+    "LIG": {
+        "Fuel": "Lignite Coal",
+        "kg_co2_per_million_btu": 98.1566666666666
+    },
+    "MSW": {
+        "Fuel": "Municipal Solid Waste",
+        "kg_co2_per_million_btu": 49.8850630485971
+    },
+    "NG": {
+        "Fuel": "Natural Gas",
+        "kg_co2_per_million_btu": 52.91
+    },
+    "PC": {
+        "Fuel": "Petroleum Coke",
+        "kg_co2_per_million_btu": 102.116666666666
+    },
+    "PG": {
+        "Fuel": "Propane Gas",
+        "kg_co2_per_million_btu": 62.8833333333333
+    },
+    "RC": {
+        "Fuel": "Refined Coal",
+        "kg_co2_per_million_btu": 93.24
+    },
+    "RFO": {
+        "Fuel": "Residual Fuel Oil",
+        "kg_co2_per_million_btu": 75.0933333333333
+    },
+    "SGC": {
+        "Fuel": "Synthesis Gas Derived from Coal",
+        "kg_co2_per_million_btu": 93.24
+    },
+    "SGP": {
+        "Fuel": "Synthesis Gas Derived from Petroleum Coke",
+        "kg_co2_per_million_btu": 102.116666666666
+    },
+    "SUB": {
+        "Fuel": "Subbituminous Coal",
+        "kg_co2_per_million_btu": 97.13
+    },
+    "TDF": {
+        "Fuel": "Tire-Derived Fuel",
+        "kg_co2_per_million_btu": 85.97
+    },
+    "WC": {
+        "Fuel": "Waste Coal",
+        "kg_co2_per_million_btu": 93.24
+    },
+    "WO": {
+        "Fuel": "Waste Oil",
+        "kg_co2_per_million_btu": 74.0
+    }
+}
