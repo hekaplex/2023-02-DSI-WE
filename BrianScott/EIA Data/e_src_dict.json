@@ -109,5 +109,8 @@
     },
     "TDF": {
         "energy_source_desc": "Tire-Derived Fuel"
+    },
+    "SLW": {
+        "energy_source_desc": "Sludge waste"
     }
 }
