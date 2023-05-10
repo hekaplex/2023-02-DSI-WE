@@ -1,0 +1,116 @@
+{
+    "MSW": {
+        "energy_source_desc": "Municipal Solid Waste (All)"
+    },
+    "SUN": {
+        "energy_source_desc": "Solar"
+    },
+    "DFO": {
+        "energy_source_desc": "Disillate Fuel Oil"
+    },
+    "WND": {
+        "energy_source_desc": "Wind"
+    },
+    "NG": {
+        "energy_source_desc": "Natural Gas"
+    },
+    "LFG": {
+        "energy_source_desc": "Landfill Gas"
+    },
+    "WH": {
+        "energy_source_desc": "Waste Heat"
+    },
+    "SUB": {
+        "energy_source_desc": "Subbituminous Coal"
+    },
+    "WAT": {
+        "energy_source_desc": "Water"
+    },
+    "MWH": {
+        "energy_source_desc": "Electricity used for energy storage"
+    },
+    "BIT": {
+        "energy_source_desc": "Bituminous Coal"
+    },
+    "RFO": {
+        "energy_source_desc": "Residual Fuel Oil"
+    },
+    "RC": {
+        "energy_source_desc": "Refined Coal"
+    },
+    "OG": {
+        "energy_source_desc": "Other Gas"
+    },
+    "OBG": {
+        "energy_source_desc": "Other Biomass Gases "
+    },
+    "WDS": {
+        "energy_source_desc": "Wood Waste Solids"
+    },
+    "GEO": {
+        "energy_source_desc": "Geothermal"
+    },
+    "BLQ": {
+        "energy_source_desc": "Black Liquor"
+    },
+    "JF": {
+        "energy_source_desc": "Jet Fuel"
+    },
+    "PC": {
+        "energy_source_desc": "Petroleum Coke"
+    },
+    "OTH": {
+        "energy_source_desc": "Other"
+    },
+    "WO": {
+        "energy_source_desc": "Waste Oil"
+    },
+    "AB": {
+        "energy_source_desc": "Agriculture Byproducts"
+    },
+    "PUR": {
+        "energy_source_desc": "Purchased Steam"
+    },
+    "NUC": {
+        "energy_source_desc": "Nuclear"
+    },
+    "WC": {
+        "energy_source_desc": "Waste Coal"
+    },
+    "KER": {
+        "energy_source_desc": "Kerosene"
+    },
+    "LIG": {
+        "energy_source_desc": "Lignite"
+    },
+    "OBL": {
+        "energy_source_desc": "Other Biomass Liquids "
+    },
+    "BFG": {
+        "energy_source_desc": "Blast-Furnace Gas"
+    },
+    "WDL": {
+        "energy_source_desc": "Wood Waste Liquids"
+    },
+    "PG": {
+        "energy_source_desc": "Gaseous Propane"
+    },
+    "Operating": {
+        "energy_source_desc": "Brevard"
+    },
+    "SGC": {
+        "energy_source_desc": "Coal-Derived Synthesis Gas"
+    },
+    "SGP": {
+        "energy_source_desc": "Synthesis Gas from Petroleum Coke"
+    },
+    "OBS": {
+        "energy_source_desc": "Other Biomass Solids"
+    },
+    "TDF": {
+        "energy_source_desc": "Tire-Derived Fuel"
+    },
+    "SLW": {
+        "energy_source_desc": "Sludge waste"
+    }
+}
