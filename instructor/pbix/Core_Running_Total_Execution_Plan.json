@@ -1,0 +1,1354 @@
+{
+  "FileFormatVersion": 2,
+  "PhysicalQueryPlanRows": [
+    {
+      "Records": null,
+      "Operation": "GroupSemijoin: IterPhyOp LogOp=GroupSemiJoin IterCols(0, 1, 2, 3, 4, 5, 6, 7, 8)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'snfl_account_base'[ 'INSURANCE_IND'], ''[Count_of_Active])",
+      "IndentedOperation": "GroupSemijoin: IterPhyOp LogOp=GroupSemiJoin IterCols(0, 1, 2, 3, 4, 5, 6, 7, 8)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'snfl_account_base'[ 'INSURANCE_IND'], ''[Count_of_Active])",
+      "Level": 0,
+      "RowNumber": 1,
+      "NextSiblingRowNumber": 124,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "OuterHashJoin: IterPhyOp LogOp=Subtract IterCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day])",
+      "IndentedOperation": "    OuterHashJoin: IterPhyOp LogOp=Subtract IterCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day])",
+      "Level": 1,
+      "RowNumber": 2,
+      "NextSiblingRowNumber": 124,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "Extend_Lookup: IterPhyOp LogOp=Subtract IterCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day])",
+      "IndentedOperation": "        Extend_Lookup: IterPhyOp LogOp=Subtract IterCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day])",
+      "Level": 2,
+      "RowNumber": 3,
+      "NextSiblingRowNumber": 84,
+      "HighlightRow": false
+    },
+    {
+      "Records": 41939,
+      "Operation": "Spool_Iterator<SpoolIterator>: IterPhyOp LogOp=Count_Vertipaq IterCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) #Records=41939 #KeyCols=8 #ValueCols=1",
+      "IndentedOperation": "            Spool_Iterator<SpoolIterator>: IterPhyOp LogOp=Count_Vertipaq IterCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) #Records=41939 #KeyCols=8 #ValueCols=1",
+      "Level": 3,
+      "RowNumber": 4,
+      "NextSiblingRowNumber": 44,
+      "HighlightRow": false
+    },
+    {
+      "Records": 41939,
+      "Operation": "AggregationSpool<AggFusion<Sum>>: SpoolPhyOp #Records=41939",
+      "IndentedOperation": "                AggregationSpool<AggFusion<Sum>>: SpoolPhyOp #Records=41939",
+      "Level": 4,
+      "RowNumber": 5,
+      "NextSiblingRowNumber": 44,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "CrossApply: IterPhyOp LogOp=Count_Vertipaq IterCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day])",
+      "IndentedOperation": "                    CrossApply: IterPhyOp LogOp=Count_Vertipaq IterCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day])",
+      "Level": 5,
+      "RowNumber": 6,
+      "NextSiblingRowNumber": 44,
+      "HighlightRow": false
+    },
+    {
+      "Records": 29252052,
+      "Operation": "Spool_MultiValuedHashLookup: IterPhyOp LogOp=Filter_Vertipaq LookupCols(40, 44, 63)('snfl_account_base'[ 'INSURANCE_IND'], 'snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'DATE_OPEN'.1]) IterCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) #Records=29252052 #KeyCols=11 #ValueCols=0",
+      "IndentedOperation": "                        Spool_MultiValuedHashLookup: IterPhyOp LogOp=Filter_Vertipaq LookupCols(40, 44, 63)('snfl_account_base'[ 'INSURANCE_IND'], 'snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'DATE_OPEN'.1]) IterCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) #Records=29252052 #KeyCols=11 #ValueCols=0",
+      "Level": 6,
+      "RowNumber": 7,
+      "NextSiblingRowNumber": 43,
+      "HighlightRow": false
+    },
+    {
+      "Records": 29252052,
+      "Operation": "AggregationSpool<GroupBy>: SpoolPhyOp #Records=29252052",
+      "IndentedOperation": "                            AggregationSpool<GroupBy>: SpoolPhyOp #Records=29252052",
+      "Level": 7,
+      "RowNumber": 8,
+      "NextSiblingRowNumber": 43,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "CrossApply: IterPhyOp LogOp=Filter_Vertipaq IterCols(0, 1, 2, 3, 4, 5, 6, 7, 40, 44, 63)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'snfl_account_base'[ 'INSURANCE_IND'], 'snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'DATE_OPEN'.1])",
+      "IndentedOperation": "                                CrossApply: IterPhyOp LogOp=Filter_Vertipaq IterCols(0, 1, 2, 3, 4, 5, 6, 7, 40, 44, 63)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'snfl_account_base'[ 'INSURANCE_IND'], 'snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'DATE_OPEN'.1])",
+      "Level": 8,
+      "RowNumber": 9,
+      "NextSiblingRowNumber": 43,
+      "HighlightRow": false
+    },
+    {
+      "Records": 104336766,
+      "Operation": "Spool_MultiValuedHashLookup: IterPhyOp LogOp=Filter LookupCols(8)('Dates'[Date]) IterCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) #Records=104336766 #KeyCols=7 #ValueCols=0",
+      "IndentedOperation": "                                    Spool_MultiValuedHashLookup: IterPhyOp LogOp=Filter LookupCols(8)('Dates'[Date]) IterCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) #Records=104336766 #KeyCols=7 #ValueCols=0",
+      "Level": 9,
+      "RowNumber": 10,
+      "NextSiblingRowNumber": 26,
+      "HighlightRow": false
+    },
+    {
+      "Records": 104336766,
+      "Operation": "AggregationSpool<GroupBy>: SpoolPhyOp #Records=104336766",
+      "IndentedOperation": "                                        AggregationSpool<GroupBy>: SpoolPhyOp #Records=104336766",
+      "Level": 10,
+      "RowNumber": 11,
+      "NextSiblingRowNumber": 26,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "Filter: IterPhyOp LogOp=Filter IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "IndentedOperation": "                                            Filter: IterPhyOp LogOp=Filter IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "Level": 11,
+      "RowNumber": 12,
+      "NextSiblingRowNumber": 26,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "Extend_Lookup: IterPhyOp LogOp=LessThanOrEqualTo IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "IndentedOperation": "                                                Extend_Lookup: IterPhyOp LogOp=LessThanOrEqualTo IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "Level": 12,
+      "RowNumber": 13,
+      "NextSiblingRowNumber": 26,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "CrossApply: IterPhyOp LogOp=LessThanOrEqualTo IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "IndentedOperation": "                                                    CrossApply: IterPhyOp LogOp=LessThanOrEqualTo IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "Level": 13,
+      "RowNumber": 14,
+      "NextSiblingRowNumber": 21,
+      "HighlightRow": false
+    },
+    {
+      "Records": 14976,
+      "Operation": "Spool_Iterator<SpoolIterator>: IterPhyOp LogOp=Scan_Vertipaq IterCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) #Records=14976 #KeyCols=267 #ValueCols=0",
+      "IndentedOperation": "                                                        Spool_Iterator<SpoolIterator>: IterPhyOp LogOp=Scan_Vertipaq IterCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) #Records=14976 #KeyCols=267 #ValueCols=0",
+      "Level": 14,
+      "RowNumber": 15,
+      "NextSiblingRowNumber": 18,
+      "HighlightRow": false
+    },
+    {
+      "Records": 14976,
+      "Operation": "ProjectionSpool<ProjectFusion<>>: SpoolPhyOp #Records=14976",
+      "IndentedOperation": "                                                            ProjectionSpool<ProjectFusion<>>: SpoolPhyOp #Records=14976",
+      "Level": 15,
+      "RowNumber": 16,
+      "NextSiblingRowNumber": 18,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "Cache: IterPhyOp #FieldCols=6 #ValueCols=0",
+      "IndentedOperation": "                                                                Cache: IterPhyOp #FieldCols=6 #ValueCols=0",
+      "Level": 16,
+      "RowNumber": 17,
+      "NextSiblingRowNumber": 17,
+      "HighlightRow": true
+    },
+    {
+      "Records": 14445,
+      "Operation": "Spool_Iterator<SpoolIterator>: IterPhyOp LogOp=Scan_Vertipaq IterCols(8)('Dates'[Date]) #Records=14445 #KeyCols=267 #ValueCols=0",
+      "IndentedOperation": "                                                        Spool_Iterator<SpoolIterator>: IterPhyOp LogOp=Scan_Vertipaq IterCols(8)('Dates'[Date]) #Records=14445 #KeyCols=267 #ValueCols=0",
+      "Level": 14,
+      "RowNumber": 18,
+      "NextSiblingRowNumber": 21,
+      "HighlightRow": false
+    },
+    {
+      "Records": 14445,
+      "Operation": "ProjectionSpool<ProjectFusion<>>: SpoolPhyOp #Records=14445",
+      "IndentedOperation": "                                                            ProjectionSpool<ProjectFusion<>>: SpoolPhyOp #Records=14445",
+      "Level": 15,
+      "RowNumber": 19,
+      "NextSiblingRowNumber": 21,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "Cache: IterPhyOp #FieldCols=1 #ValueCols=0",
+      "IndentedOperation": "                                                                Cache: IterPhyOp #FieldCols=1 #ValueCols=0",
+      "Level": 16,
+      "RowNumber": 20,
+      "NextSiblingRowNumber": 20,
+      "HighlightRow": true
+    },
+    {
+      "Records": null,
+      "Operation": "LessThanOrEqualTo: LookupPhyOp LogOp=LessThanOrEqualTo LookupCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date]) Boolean",
+      "IndentedOperation": "                                                    LessThanOrEqualTo: LookupPhyOp LogOp=LessThanOrEqualTo LookupCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date]) Boolean",
+      "Level": 13,
+      "RowNumber": 21,
+      "NextSiblingRowNumber": 26,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "ColValue<'Dates'[Date]>: LookupPhyOp LogOp=ColValue<'Dates'[Date]>'Dates'[Date] LookupCols(8)('Dates'[Date]) DateTime",
+      "IndentedOperation": "                                                        ColValue<'Dates'[Date]>: LookupPhyOp LogOp=ColValue<'Dates'[Date]>'Dates'[Date] LookupCols(8)('Dates'[Date]) DateTime",
+      "Level": 14,
+      "RowNumber": 22,
+      "NextSiblingRowNumber": 22,
+      "HighlightRow": false
+    },
+    {
+      "Records": 14444,
+      "Operation": "SpoolLookup: LookupPhyOp LogOp=Max_Vertipaq LookupCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) DateTime #Records=14444 #KeyCols=267 #ValueCols=1 DominantValue=BLANK",
+      "IndentedOperation": "                                                        SpoolLookup: LookupPhyOp LogOp=Max_Vertipaq LookupCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) DateTime #Records=14444 #KeyCols=267 #ValueCols=1 DominantValue=BLANK",
+      "Level": 14,
+      "RowNumber": 23,
+      "NextSiblingRowNumber": 26,
+      "HighlightRow": false
+    },
+    {
+      "Records": 14444,
+      "Operation": "ProjectionSpool<ProjectFusion<Copy>>: SpoolPhyOp #Records=14444",
+      "IndentedOperation": "                                                            ProjectionSpool<ProjectFusion<Copy>>: SpoolPhyOp #Records=14444",
+      "Level": 15,
+      "RowNumber": 24,
+      "NextSiblingRowNumber": 26,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "Cache: IterPhyOp #FieldCols=6 #ValueCols=1",
+      "IndentedOperation": "                                                                Cache: IterPhyOp #FieldCols=6 #ValueCols=1",
+      "Level": 16,
+      "RowNumber": 25,
+      "NextSiblingRowNumber": 25,
+      "HighlightRow": true
+    },
+    {
+      "Records": null,
+      "Operation": "Cache: IterPhyOp #FieldCols=4 #ValueCols=0",
+      "IndentedOperation": "                                    Cache: IterPhyOp #FieldCols=4 #ValueCols=0",
+      "Level": 9,
+      "RowNumber": 26,
+      "NextSiblingRowNumber": 43,
+      "HighlightRow": true
+    },
+    {
+      "Records": 104336766,
+      "Operation": "Spool_Iterator<SpoolIterator>: IterPhyOp LogOp=Filter IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date]) #Records=104336766 #KeyCols=7 #ValueCols=0",
+      "IndentedOperation": "                                        Spool_Iterator<SpoolIterator>: IterPhyOp LogOp=Filter IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date]) #Records=104336766 #KeyCols=7 #ValueCols=0",
+      "Level": 10,
+      "RowNumber": 27,
+      "NextSiblingRowNumber": 43,
+      "HighlightRow": false
+    },
+    {
+      "Records": 104336766,
+      "Operation": "AggregationSpool<GroupBy>: SpoolPhyOp #Records=104336766",
+      "IndentedOperation": "                                            AggregationSpool<GroupBy>: SpoolPhyOp #Records=104336766",
+      "Level": 11,
+      "RowNumber": 28,
+      "NextSiblingRowNumber": 43,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "Filter: IterPhyOp LogOp=Filter IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "IndentedOperation": "                                                Filter: IterPhyOp LogOp=Filter IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "Level": 12,
+      "RowNumber": 29,
+      "NextSiblingRowNumber": 43,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "Extend_Lookup: IterPhyOp LogOp=LessThanOrEqualTo IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "IndentedOperation": "                                                    Extend_Lookup: IterPhyOp LogOp=LessThanOrEqualTo IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "Level": 13,
+      "RowNumber": 30,
+      "NextSiblingRowNumber": 43,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "CrossApply: IterPhyOp LogOp=LessThanOrEqualTo IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "IndentedOperation": "                                                        CrossApply: IterPhyOp LogOp=LessThanOrEqualTo IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "Level": 14,
+      "RowNumber": 31,
+      "NextSiblingRowNumber": 38,
+      "HighlightRow": false
+    },
+    {
+      "Records": 14976,
+      "Operation": "Spool_Iterator<SpoolIterator>: IterPhyOp LogOp=Scan_Vertipaq IterCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) #Records=14976 #KeyCols=267 #ValueCols=0",
+      "IndentedOperation": "                                                            Spool_Iterator<SpoolIterator>: IterPhyOp LogOp=Scan_Vertipaq IterCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) #Records=14976 #KeyCols=267 #ValueCols=0",
+      "Level": 15,
+      "RowNumber": 32,
+      "NextSiblingRowNumber": 35,
+      "HighlightRow": false
+    },
+    {
+      "Records": 14976,
+      "Operation": "ProjectionSpool<ProjectFusion<>>: SpoolPhyOp #Records=14976",
+      "IndentedOperation": "                                                                ProjectionSpool<ProjectFusion<>>: SpoolPhyOp #Records=14976",
+      "Level": 16,
+      "RowNumber": 33,
+      "NextSiblingRowNumber": 35,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "Cache: IterPhyOp #FieldCols=6 #ValueCols=0",
+      "IndentedOperation": "                                                                    Cache: IterPhyOp #FieldCols=6 #ValueCols=0",
+      "Level": 17,
+      "RowNumber": 34,
+      "NextSiblingRowNumber": 34,
+      "HighlightRow": true
+    },
+    {
+      "Records": 14445,
+      "Operation": "Spool_Iterator<SpoolIterator>: IterPhyOp LogOp=Scan_Vertipaq IterCols(8)('Dates'[Date]) #Records=14445 #KeyCols=267 #ValueCols=0",
+      "IndentedOperation": "                                                            Spool_Iterator<SpoolIterator>: IterPhyOp LogOp=Scan_Vertipaq IterCols(8)('Dates'[Date]) #Records=14445 #KeyCols=267 #ValueCols=0",
+      "Level": 15,
+      "RowNumber": 35,
+      "NextSiblingRowNumber": 38,
+      "HighlightRow": false
+    },
+    {
+      "Records": 14445,
+      "Operation": "ProjectionSpool<ProjectFusion<>>: SpoolPhyOp #Records=14445",
+      "IndentedOperation": "                                                                ProjectionSpool<ProjectFusion<>>: SpoolPhyOp #Records=14445",
+      "Level": 16,
+      "RowNumber": 36,
+      "NextSiblingRowNumber": 38,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "Cache: IterPhyOp #FieldCols=1 #ValueCols=0",
+      "IndentedOperation": "                                                                    Cache: IterPhyOp #FieldCols=1 #ValueCols=0",
+      "Level": 17,
+      "RowNumber": 37,
+      "NextSiblingRowNumber": 37,
+      "HighlightRow": true
+    },
+    {
+      "Records": null,
+      "Operation": "LessThanOrEqualTo: LookupPhyOp LogOp=LessThanOrEqualTo LookupCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date]) Boolean",
+      "IndentedOperation": "                                                        LessThanOrEqualTo: LookupPhyOp LogOp=LessThanOrEqualTo LookupCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date]) Boolean",
+      "Level": 14,
+      "RowNumber": 38,
+      "NextSiblingRowNumber": 43,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "ColValue<'Dates'[Date]>: LookupPhyOp LogOp=ColValue<'Dates'[Date]>'Dates'[Date] LookupCols(8)('Dates'[Date]) DateTime",
+      "IndentedOperation": "                                                            ColValue<'Dates'[Date]>: LookupPhyOp LogOp=ColValue<'Dates'[Date]>'Dates'[Date] LookupCols(8)('Dates'[Date]) DateTime",
+      "Level": 15,
+      "RowNumber": 39,
+      "NextSiblingRowNumber": 39,
+      "HighlightRow": false
+    },
+    {
+      "Records": 14444,
+      "Operation": "SpoolLookup: LookupPhyOp LogOp=Max_Vertipaq LookupCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) DateTime #Records=14444 #KeyCols=267 #ValueCols=1 DominantValue=BLANK",
+      "IndentedOperation": "                                                            SpoolLookup: LookupPhyOp LogOp=Max_Vertipaq LookupCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) DateTime #Records=14444 #KeyCols=267 #ValueCols=1 DominantValue=BLANK",
+      "Level": 15,
+      "RowNumber": 40,
+      "NextSiblingRowNumber": 43,
+      "HighlightRow": false
+    },
+    {
+      "Records": 14444,
+      "Operation": "ProjectionSpool<ProjectFusion<Copy>>: SpoolPhyOp #Records=14444",
+      "IndentedOperation": "                                                                ProjectionSpool<ProjectFusion<Copy>>: SpoolPhyOp #Records=14444",
+      "Level": 16,
+      "RowNumber": 41,
+      "NextSiblingRowNumber": 43,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "Cache: IterPhyOp #FieldCols=6 #ValueCols=1",
+      "IndentedOperation": "                                                                    Cache: IterPhyOp #FieldCols=6 #ValueCols=1",
+      "Level": 17,
+      "RowNumber": 42,
+      "NextSiblingRowNumber": 42,
+      "HighlightRow": true
+    },
+    {
+      "Records": null,
+      "Operation": "Cache: IterPhyOp #FieldCols=3 #ValueCols=1",
+      "IndentedOperation": "                        Cache: IterPhyOp #FieldCols=3 #ValueCols=1",
+      "Level": 6,
+      "RowNumber": 43,
+      "NextSiblingRowNumber": 43,
+      "HighlightRow": true
+    },
+    {
+      "Records": 40007,
+      "Operation": "SpoolLookup: LookupPhyOp LogOp=Count_Vertipaq LookupCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) Integer #Records=40007 #KeyCols=8 #ValueCols=1 DominantValue=BLANK",
+      "IndentedOperation": "            SpoolLookup: LookupPhyOp LogOp=Count_Vertipaq LookupCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) Integer #Records=40007 #KeyCols=8 #ValueCols=1 DominantValue=BLANK",
+      "Level": 3,
+      "RowNumber": 44,
+      "NextSiblingRowNumber": 84,
+      "HighlightRow": false
+    },
+    {
+      "Records": 40007,
+      "Operation": "AggregationSpool<AggFusion<Sum>>: SpoolPhyOp #Records=40007",
+      "IndentedOperation": "                AggregationSpool<AggFusion<Sum>>: SpoolPhyOp #Records=40007",
+      "Level": 4,
+      "RowNumber": 45,
+      "NextSiblingRowNumber": 84,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "CrossApply: IterPhyOp LogOp=Count_Vertipaq IterCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day])",
+      "IndentedOperation": "                    CrossApply: IterPhyOp LogOp=Count_Vertipaq IterCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day])",
+      "Level": 5,
+      "RowNumber": 46,
+      "NextSiblingRowNumber": 84,
+      "HighlightRow": false
+    },
+    {
+      "Records": 23906084,
+      "Operation": "Spool_MultiValuedHashLookup: IterPhyOp LogOp=Filter_Vertipaq LookupCols(40, 44, 55, 211)('snfl_account_base'[ 'INSURANCE_IND'], 'snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'DATE_CLOSE'.1], 'Dates'[Date]) IterCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) #Records=23906084 #KeyCols=12 #ValueCols=0",
+      "IndentedOperation": "                        Spool_MultiValuedHashLookup: IterPhyOp LogOp=Filter_Vertipaq LookupCols(40, 44, 55, 211)('snfl_account_base'[ 'INSURANCE_IND'], 'snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'DATE_CLOSE'.1], 'Dates'[Date]) IterCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) #Records=23906084 #KeyCols=12 #ValueCols=0",
+      "Level": 6,
+      "RowNumber": 47,
+      "NextSiblingRowNumber": 83,
+      "HighlightRow": false
+    },
+    {
+      "Records": 23906084,
+      "Operation": "AggregationSpool<GroupBy>: SpoolPhyOp #Records=23906084",
+      "IndentedOperation": "                            AggregationSpool<GroupBy>: SpoolPhyOp #Records=23906084",
+      "Level": 7,
+      "RowNumber": 48,
+      "NextSiblingRowNumber": 83,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "CrossApply: IterPhyOp LogOp=Filter_Vertipaq IterCols(0, 1, 2, 3, 4, 5, 6, 7, 40, 44, 55, 211)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'snfl_account_base'[ 'INSURANCE_IND'], 'snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'DATE_CLOSE'.1], 'Dates'[Date])",
+      "IndentedOperation": "                                CrossApply: IterPhyOp LogOp=Filter_Vertipaq IterCols(0, 1, 2, 3, 4, 5, 6, 7, 40, 44, 55, 211)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'snfl_account_base'[ 'INSURANCE_IND'], 'snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'DATE_CLOSE'.1], 'Dates'[Date])",
+      "Level": 8,
+      "RowNumber": 49,
+      "NextSiblingRowNumber": 83,
+      "HighlightRow": false
+    },
+    {
+      "Records": 104336766,
+      "Operation": "Spool_MultiValuedHashLookup: IterPhyOp LogOp=Filter LookupCols(8)('Dates'[Date]) IterCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) #Records=104336766 #KeyCols=7 #ValueCols=0",
+      "IndentedOperation": "                                    Spool_MultiValuedHashLookup: IterPhyOp LogOp=Filter LookupCols(8)('Dates'[Date]) IterCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) #Records=104336766 #KeyCols=7 #ValueCols=0",
+      "Level": 9,
+      "RowNumber": 50,
+      "NextSiblingRowNumber": 66,
+      "HighlightRow": false
+    },
+    {
+      "Records": 104336766,
+      "Operation": "AggregationSpool<GroupBy>: SpoolPhyOp #Records=104336766",
+      "IndentedOperation": "                                        AggregationSpool<GroupBy>: SpoolPhyOp #Records=104336766",
+      "Level": 10,
+      "RowNumber": 51,
+      "NextSiblingRowNumber": 66,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "Filter: IterPhyOp LogOp=Filter IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "IndentedOperation": "                                            Filter: IterPhyOp LogOp=Filter IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "Level": 11,
+      "RowNumber": 52,
+      "NextSiblingRowNumber": 66,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "Extend_Lookup: IterPhyOp LogOp=LessThanOrEqualTo IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "IndentedOperation": "                                                Extend_Lookup: IterPhyOp LogOp=LessThanOrEqualTo IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "Level": 12,
+      "RowNumber": 53,
+      "NextSiblingRowNumber": 66,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "CrossApply: IterPhyOp LogOp=LessThanOrEqualTo IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "IndentedOperation": "                                                    CrossApply: IterPhyOp LogOp=LessThanOrEqualTo IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "Level": 13,
+      "RowNumber": 54,
+      "NextSiblingRowNumber": 61,
+      "HighlightRow": false
+    },
+    {
+      "Records": 14976,
+      "Operation": "Spool_Iterator<SpoolIterator>: IterPhyOp LogOp=Scan_Vertipaq IterCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) #Records=14976 #KeyCols=267 #ValueCols=0",
+      "IndentedOperation": "                                                        Spool_Iterator<SpoolIterator>: IterPhyOp LogOp=Scan_Vertipaq IterCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) #Records=14976 #KeyCols=267 #ValueCols=0",
+      "Level": 14,
+      "RowNumber": 55,
+      "NextSiblingRowNumber": 58,
+      "HighlightRow": false
+    },
+    {
+      "Records": 14976,
+      "Operation": "ProjectionSpool<ProjectFusion<>>: SpoolPhyOp #Records=14976",
+      "IndentedOperation": "                                                            ProjectionSpool<ProjectFusion<>>: SpoolPhyOp #Records=14976",
+      "Level": 15,
+      "RowNumber": 56,
+      "NextSiblingRowNumber": 58,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "Cache: IterPhyOp #FieldCols=6 #ValueCols=0",
+      "IndentedOperation": "                                                                Cache: IterPhyOp #FieldCols=6 #ValueCols=0",
+      "Level": 16,
+      "RowNumber": 57,
+      "NextSiblingRowNumber": 57,
+      "HighlightRow": true
+    },
+    {
+      "Records": 14445,
+      "Operation": "Spool_Iterator<SpoolIterator>: IterPhyOp LogOp=Scan_Vertipaq IterCols(8)('Dates'[Date]) #Records=14445 #KeyCols=267 #ValueCols=0",
+      "IndentedOperation": "                                                        Spool_Iterator<SpoolIterator>: IterPhyOp LogOp=Scan_Vertipaq IterCols(8)('Dates'[Date]) #Records=14445 #KeyCols=267 #ValueCols=0",
+      "Level": 14,
+      "RowNumber": 58,
+      "NextSiblingRowNumber": 61,
+      "HighlightRow": false
+    },
+    {
+      "Records": 14445,
+      "Operation": "ProjectionSpool<ProjectFusion<>>: SpoolPhyOp #Records=14445",
+      "IndentedOperation": "                                                            ProjectionSpool<ProjectFusion<>>: SpoolPhyOp #Records=14445",
+      "Level": 15,
+      "RowNumber": 59,
+      "NextSiblingRowNumber": 61,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "Cache: IterPhyOp #FieldCols=1 #ValueCols=0",
+      "IndentedOperation": "                                                                Cache: IterPhyOp #FieldCols=1 #ValueCols=0",
+      "Level": 16,
+      "RowNumber": 60,
+      "NextSiblingRowNumber": 60,
+      "HighlightRow": true
+    },
+    {
+      "Records": null,
+      "Operation": "LessThanOrEqualTo: LookupPhyOp LogOp=LessThanOrEqualTo LookupCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date]) Boolean",
+      "IndentedOperation": "                                                    LessThanOrEqualTo: LookupPhyOp LogOp=LessThanOrEqualTo LookupCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date]) Boolean",
+      "Level": 13,
+      "RowNumber": 61,
+      "NextSiblingRowNumber": 66,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "ColValue<'Dates'[Date]>: LookupPhyOp LogOp=ColValue<'Dates'[Date]>'Dates'[Date] LookupCols(8)('Dates'[Date]) DateTime",
+      "IndentedOperation": "                                                        ColValue<'Dates'[Date]>: LookupPhyOp LogOp=ColValue<'Dates'[Date]>'Dates'[Date] LookupCols(8)('Dates'[Date]) DateTime",
+      "Level": 14,
+      "RowNumber": 62,
+      "NextSiblingRowNumber": 62,
+      "HighlightRow": false
+    },
+    {
+      "Records": 14444,
+      "Operation": "SpoolLookup: LookupPhyOp LogOp=Max_Vertipaq LookupCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) DateTime #Records=14444 #KeyCols=267 #ValueCols=1 DominantValue=BLANK",
+      "IndentedOperation": "                                                        SpoolLookup: LookupPhyOp LogOp=Max_Vertipaq LookupCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) DateTime #Records=14444 #KeyCols=267 #ValueCols=1 DominantValue=BLANK",
+      "Level": 14,
+      "RowNumber": 63,
+      "NextSiblingRowNumber": 66,
+      "HighlightRow": false
+    },
+    {
+      "Records": 14444,
+      "Operation": "ProjectionSpool<ProjectFusion<Copy>>: SpoolPhyOp #Records=14444",
+      "IndentedOperation": "                                                            ProjectionSpool<ProjectFusion<Copy>>: SpoolPhyOp #Records=14444",
+      "Level": 15,
+      "RowNumber": 64,
+      "NextSiblingRowNumber": 66,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "Cache: IterPhyOp #FieldCols=6 #ValueCols=1",
+      "IndentedOperation": "                                                                Cache: IterPhyOp #FieldCols=6 #ValueCols=1",
+      "Level": 16,
+      "RowNumber": 65,
+      "NextSiblingRowNumber": 65,
+      "HighlightRow": true
+    },
+    {
+      "Records": null,
+      "Operation": "Cache: IterPhyOp #FieldCols=4 #ValueCols=0",
+      "IndentedOperation": "                                    Cache: IterPhyOp #FieldCols=4 #ValueCols=0",
+      "Level": 9,
+      "RowNumber": 66,
+      "NextSiblingRowNumber": 83,
+      "HighlightRow": true
+    },
+    {
+      "Records": 104336766,
+      "Operation": "Spool_Iterator<SpoolIterator>: IterPhyOp LogOp=Filter IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date]) #Records=104336766 #KeyCols=7 #ValueCols=0",
+      "IndentedOperation": "                                        Spool_Iterator<SpoolIterator>: IterPhyOp LogOp=Filter IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date]) #Records=104336766 #KeyCols=7 #ValueCols=0",
+      "Level": 10,
+      "RowNumber": 67,
+      "NextSiblingRowNumber": 83,
+      "HighlightRow": false
+    },
+    {
+      "Records": 104336766,
+      "Operation": "AggregationSpool<GroupBy>: SpoolPhyOp #Records=104336766",
+      "IndentedOperation": "                                            AggregationSpool<GroupBy>: SpoolPhyOp #Records=104336766",
+      "Level": 11,
+      "RowNumber": 68,
+      "NextSiblingRowNumber": 83,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "Filter: IterPhyOp LogOp=Filter IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "IndentedOperation": "                                                Filter: IterPhyOp LogOp=Filter IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "Level": 12,
+      "RowNumber": 69,
+      "NextSiblingRowNumber": 83,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "Extend_Lookup: IterPhyOp LogOp=LessThanOrEqualTo IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "IndentedOperation": "                                                    Extend_Lookup: IterPhyOp LogOp=LessThanOrEqualTo IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "Level": 13,
+      "RowNumber": 70,
+      "NextSiblingRowNumber": 83,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "CrossApply: IterPhyOp LogOp=LessThanOrEqualTo IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "IndentedOperation": "                                                        CrossApply: IterPhyOp LogOp=LessThanOrEqualTo IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "Level": 14,
+      "RowNumber": 71,
+      "NextSiblingRowNumber": 78,
+      "HighlightRow": false
+    },
+    {
+      "Records": 14976,
+      "Operation": "Spool_Iterator<SpoolIterator>: IterPhyOp LogOp=Scan_Vertipaq IterCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) #Records=14976 #KeyCols=267 #ValueCols=0",
+      "IndentedOperation": "                                                            Spool_Iterator<SpoolIterator>: IterPhyOp LogOp=Scan_Vertipaq IterCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) #Records=14976 #KeyCols=267 #ValueCols=0",
+      "Level": 15,
+      "RowNumber": 72,
+      "NextSiblingRowNumber": 75,
+      "HighlightRow": false
+    },
+    {
+      "Records": 14976,
+      "Operation": "ProjectionSpool<ProjectFusion<>>: SpoolPhyOp #Records=14976",
+      "IndentedOperation": "                                                                ProjectionSpool<ProjectFusion<>>: SpoolPhyOp #Records=14976",
+      "Level": 16,
+      "RowNumber": 73,
+      "NextSiblingRowNumber": 75,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "Cache: IterPhyOp #FieldCols=6 #ValueCols=0",
+      "IndentedOperation": "                                                                    Cache: IterPhyOp #FieldCols=6 #ValueCols=0",
+      "Level": 17,
+      "RowNumber": 74,
+      "NextSiblingRowNumber": 74,
+      "HighlightRow": true
+    },
+    {
+      "Records": 14445,
+      "Operation": "Spool_Iterator<SpoolIterator>: IterPhyOp LogOp=Scan_Vertipaq IterCols(8)('Dates'[Date]) #Records=14445 #KeyCols=267 #ValueCols=0",
+      "IndentedOperation": "                                                            Spool_Iterator<SpoolIterator>: IterPhyOp LogOp=Scan_Vertipaq IterCols(8)('Dates'[Date]) #Records=14445 #KeyCols=267 #ValueCols=0",
+      "Level": 15,
+      "RowNumber": 75,
+      "NextSiblingRowNumber": 78,
+      "HighlightRow": false
+    },
+    {
+      "Records": 14445,
+      "Operation": "ProjectionSpool<ProjectFusion<>>: SpoolPhyOp #Records=14445",
+      "IndentedOperation": "                                                                ProjectionSpool<ProjectFusion<>>: SpoolPhyOp #Records=14445",
+      "Level": 16,
+      "RowNumber": 76,
+      "NextSiblingRowNumber": 78,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "Cache: IterPhyOp #FieldCols=1 #ValueCols=0",
+      "IndentedOperation": "                                                                    Cache: IterPhyOp #FieldCols=1 #ValueCols=0",
+      "Level": 17,
+      "RowNumber": 77,
+      "NextSiblingRowNumber": 77,
+      "HighlightRow": true
+    },
+    {
+      "Records": null,
+      "Operation": "LessThanOrEqualTo: LookupPhyOp LogOp=LessThanOrEqualTo LookupCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date]) Boolean",
+      "IndentedOperation": "                                                        LessThanOrEqualTo: LookupPhyOp LogOp=LessThanOrEqualTo LookupCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date]) Boolean",
+      "Level": 14,
+      "RowNumber": 78,
+      "NextSiblingRowNumber": 83,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "ColValue<'Dates'[Date]>: LookupPhyOp LogOp=ColValue<'Dates'[Date]>'Dates'[Date] LookupCols(8)('Dates'[Date]) DateTime",
+      "IndentedOperation": "                                                            ColValue<'Dates'[Date]>: LookupPhyOp LogOp=ColValue<'Dates'[Date]>'Dates'[Date] LookupCols(8)('Dates'[Date]) DateTime",
+      "Level": 15,
+      "RowNumber": 79,
+      "NextSiblingRowNumber": 79,
+      "HighlightRow": false
+    },
+    {
+      "Records": 14444,
+      "Operation": "SpoolLookup: LookupPhyOp LogOp=Max_Vertipaq LookupCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) DateTime #Records=14444 #KeyCols=267 #ValueCols=1 DominantValue=BLANK",
+      "IndentedOperation": "                                                            SpoolLookup: LookupPhyOp LogOp=Max_Vertipaq LookupCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) DateTime #Records=14444 #KeyCols=267 #ValueCols=1 DominantValue=BLANK",
+      "Level": 15,
+      "RowNumber": 80,
+      "NextSiblingRowNumber": 83,
+      "HighlightRow": false
+    },
+    {
+      "Records": 14444,
+      "Operation": "ProjectionSpool<ProjectFusion<Copy>>: SpoolPhyOp #Records=14444",
+      "IndentedOperation": "                                                                ProjectionSpool<ProjectFusion<Copy>>: SpoolPhyOp #Records=14444",
+      "Level": 16,
+      "RowNumber": 81,
+      "NextSiblingRowNumber": 83,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "Cache: IterPhyOp #FieldCols=6 #ValueCols=1",
+      "IndentedOperation": "                                                                    Cache: IterPhyOp #FieldCols=6 #ValueCols=1",
+      "Level": 17,
+      "RowNumber": 82,
+      "NextSiblingRowNumber": 82,
+      "HighlightRow": true
+    },
+    {
+      "Records": null,
+      "Operation": "Cache: IterPhyOp #FieldCols=4 #ValueCols=1",
+      "IndentedOperation": "                        Cache: IterPhyOp #FieldCols=4 #ValueCols=1",
+      "Level": 6,
+      "RowNumber": 83,
+      "NextSiblingRowNumber": 83,
+      "HighlightRow": true
+    },
+    {
+      "Records": 40007,
+      "Operation": "Spool_Iterator<SpoolIterator>: IterPhyOp LogOp=Count_Vertipaq IterCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) #Records=40007 #KeyCols=8 #ValueCols=1",
+      "IndentedOperation": "        Spool_Iterator<SpoolIterator>: IterPhyOp LogOp=Count_Vertipaq IterCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) #Records=40007 #KeyCols=8 #ValueCols=1",
+      "Level": 2,
+      "RowNumber": 84,
+      "NextSiblingRowNumber": 124,
+      "HighlightRow": false
+    },
+    {
+      "Records": 40007,
+      "Operation": "AggregationSpool<AggFusion<Sum>>: SpoolPhyOp #Records=40007",
+      "IndentedOperation": "            AggregationSpool<AggFusion<Sum>>: SpoolPhyOp #Records=40007",
+      "Level": 3,
+      "RowNumber": 85,
+      "NextSiblingRowNumber": 124,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "CrossApply: IterPhyOp LogOp=Count_Vertipaq IterCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day])",
+      "IndentedOperation": "                CrossApply: IterPhyOp LogOp=Count_Vertipaq IterCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day])",
+      "Level": 4,
+      "RowNumber": 86,
+      "NextSiblingRowNumber": 124,
+      "HighlightRow": false
+    },
+    {
+      "Records": 23906084,
+      "Operation": "Spool_MultiValuedHashLookup: IterPhyOp LogOp=Filter_Vertipaq LookupCols(40, 44, 55, 211)('snfl_account_base'[ 'INSURANCE_IND'], 'snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'DATE_CLOSE'.1], 'Dates'[Date]) IterCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) #Records=23906084 #KeyCols=12 #ValueCols=0",
+      "IndentedOperation": "                    Spool_MultiValuedHashLookup: IterPhyOp LogOp=Filter_Vertipaq LookupCols(40, 44, 55, 211)('snfl_account_base'[ 'INSURANCE_IND'], 'snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'DATE_CLOSE'.1], 'Dates'[Date]) IterCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) #Records=23906084 #KeyCols=12 #ValueCols=0",
+      "Level": 5,
+      "RowNumber": 87,
+      "NextSiblingRowNumber": 123,
+      "HighlightRow": false
+    },
+    {
+      "Records": 23906084,
+      "Operation": "AggregationSpool<GroupBy>: SpoolPhyOp #Records=23906084",
+      "IndentedOperation": "                        AggregationSpool<GroupBy>: SpoolPhyOp #Records=23906084",
+      "Level": 6,
+      "RowNumber": 88,
+      "NextSiblingRowNumber": 123,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "CrossApply: IterPhyOp LogOp=Filter_Vertipaq IterCols(0, 1, 2, 3, 4, 5, 6, 7, 40, 44, 55, 211)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'snfl_account_base'[ 'INSURANCE_IND'], 'snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'DATE_CLOSE'.1], 'Dates'[Date])",
+      "IndentedOperation": "                            CrossApply: IterPhyOp LogOp=Filter_Vertipaq IterCols(0, 1, 2, 3, 4, 5, 6, 7, 40, 44, 55, 211)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'snfl_account_base'[ 'INSURANCE_IND'], 'snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'DATE_CLOSE'.1], 'Dates'[Date])",
+      "Level": 7,
+      "RowNumber": 89,
+      "NextSiblingRowNumber": 123,
+      "HighlightRow": false
+    },
+    {
+      "Records": 104336766,
+      "Operation": "Spool_MultiValuedHashLookup: IterPhyOp LogOp=Filter LookupCols(8)('Dates'[Date]) IterCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) #Records=104336766 #KeyCols=7 #ValueCols=0",
+      "IndentedOperation": "                                Spool_MultiValuedHashLookup: IterPhyOp LogOp=Filter LookupCols(8)('Dates'[Date]) IterCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) #Records=104336766 #KeyCols=7 #ValueCols=0",
+      "Level": 8,
+      "RowNumber": 90,
+      "NextSiblingRowNumber": 106,
+      "HighlightRow": false
+    },
+    {
+      "Records": 104336766,
+      "Operation": "AggregationSpool<GroupBy>: SpoolPhyOp #Records=104336766",
+      "IndentedOperation": "                                    AggregationSpool<GroupBy>: SpoolPhyOp #Records=104336766",
+      "Level": 9,
+      "RowNumber": 91,
+      "NextSiblingRowNumber": 106,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "Filter: IterPhyOp LogOp=Filter IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "IndentedOperation": "                                        Filter: IterPhyOp LogOp=Filter IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "Level": 10,
+      "RowNumber": 92,
+      "NextSiblingRowNumber": 106,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "Extend_Lookup: IterPhyOp LogOp=LessThanOrEqualTo IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "IndentedOperation": "                                            Extend_Lookup: IterPhyOp LogOp=LessThanOrEqualTo IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "Level": 11,
+      "RowNumber": 93,
+      "NextSiblingRowNumber": 106,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "CrossApply: IterPhyOp LogOp=LessThanOrEqualTo IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "IndentedOperation": "                                                CrossApply: IterPhyOp LogOp=LessThanOrEqualTo IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "Level": 12,
+      "RowNumber": 94,
+      "NextSiblingRowNumber": 101,
+      "HighlightRow": false
+    },
+    {
+      "Records": 14976,
+      "Operation": "Spool_Iterator<SpoolIterator>: IterPhyOp LogOp=Scan_Vertipaq IterCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) #Records=14976 #KeyCols=267 #ValueCols=0",
+      "IndentedOperation": "                                                    Spool_Iterator<SpoolIterator>: IterPhyOp LogOp=Scan_Vertipaq IterCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) #Records=14976 #KeyCols=267 #ValueCols=0",
+      "Level": 13,
+      "RowNumber": 95,
+      "NextSiblingRowNumber": 98,
+      "HighlightRow": false
+    },
+    {
+      "Records": 14976,
+      "Operation": "ProjectionSpool<ProjectFusion<>>: SpoolPhyOp #Records=14976",
+      "IndentedOperation": "                                                        ProjectionSpool<ProjectFusion<>>: SpoolPhyOp #Records=14976",
+      "Level": 14,
+      "RowNumber": 96,
+      "NextSiblingRowNumber": 98,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "Cache: IterPhyOp #FieldCols=6 #ValueCols=0",
+      "IndentedOperation": "                                                            Cache: IterPhyOp #FieldCols=6 #ValueCols=0",
+      "Level": 15,
+      "RowNumber": 97,
+      "NextSiblingRowNumber": 97,
+      "HighlightRow": true
+    },
+    {
+      "Records": 14445,
+      "Operation": "Spool_Iterator<SpoolIterator>: IterPhyOp LogOp=Scan_Vertipaq IterCols(8)('Dates'[Date]) #Records=14445 #KeyCols=267 #ValueCols=0",
+      "IndentedOperation": "                                                    Spool_Iterator<SpoolIterator>: IterPhyOp LogOp=Scan_Vertipaq IterCols(8)('Dates'[Date]) #Records=14445 #KeyCols=267 #ValueCols=0",
+      "Level": 13,
+      "RowNumber": 98,
+      "NextSiblingRowNumber": 101,
+      "HighlightRow": false
+    },
+    {
+      "Records": 14445,
+      "Operation": "ProjectionSpool<ProjectFusion<>>: SpoolPhyOp #Records=14445",
+      "IndentedOperation": "                                                        ProjectionSpool<ProjectFusion<>>: SpoolPhyOp #Records=14445",
+      "Level": 14,
+      "RowNumber": 99,
+      "NextSiblingRowNumber": 101,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "Cache: IterPhyOp #FieldCols=1 #ValueCols=0",
+      "IndentedOperation": "                                                            Cache: IterPhyOp #FieldCols=1 #ValueCols=0",
+      "Level": 15,
+      "RowNumber": 100,
+      "NextSiblingRowNumber": 100,
+      "HighlightRow": true
+    },
+    {
+      "Records": null,
+      "Operation": "LessThanOrEqualTo: LookupPhyOp LogOp=LessThanOrEqualTo LookupCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date]) Boolean",
+      "IndentedOperation": "                                                LessThanOrEqualTo: LookupPhyOp LogOp=LessThanOrEqualTo LookupCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date]) Boolean",
+      "Level": 12,
+      "RowNumber": 101,
+      "NextSiblingRowNumber": 106,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "ColValue<'Dates'[Date]>: LookupPhyOp LogOp=ColValue<'Dates'[Date]>'Dates'[Date] LookupCols(8)('Dates'[Date]) DateTime",
+      "IndentedOperation": "                                                    ColValue<'Dates'[Date]>: LookupPhyOp LogOp=ColValue<'Dates'[Date]>'Dates'[Date] LookupCols(8)('Dates'[Date]) DateTime",
+      "Level": 13,
+      "RowNumber": 102,
+      "NextSiblingRowNumber": 102,
+      "HighlightRow": false
+    },
+    {
+      "Records": 14444,
+      "Operation": "SpoolLookup: LookupPhyOp LogOp=Max_Vertipaq LookupCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) DateTime #Records=14444 #KeyCols=267 #ValueCols=1 DominantValue=BLANK",
+      "IndentedOperation": "                                                    SpoolLookup: LookupPhyOp LogOp=Max_Vertipaq LookupCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) DateTime #Records=14444 #KeyCols=267 #ValueCols=1 DominantValue=BLANK",
+      "Level": 13,
+      "RowNumber": 103,
+      "NextSiblingRowNumber": 106,
+      "HighlightRow": false
+    },
+    {
+      "Records": 14444,
+      "Operation": "ProjectionSpool<ProjectFusion<Copy>>: SpoolPhyOp #Records=14444",
+      "IndentedOperation": "                                                        ProjectionSpool<ProjectFusion<Copy>>: SpoolPhyOp #Records=14444",
+      "Level": 14,
+      "RowNumber": 104,
+      "NextSiblingRowNumber": 106,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "Cache: IterPhyOp #FieldCols=6 #ValueCols=1",
+      "IndentedOperation": "                                                            Cache: IterPhyOp #FieldCols=6 #ValueCols=1",
+      "Level": 15,
+      "RowNumber": 105,
+      "NextSiblingRowNumber": 105,
+      "HighlightRow": true
+    },
+    {
+      "Records": null,
+      "Operation": "Cache: IterPhyOp #FieldCols=4 #ValueCols=0",
+      "IndentedOperation": "                                Cache: IterPhyOp #FieldCols=4 #ValueCols=0",
+      "Level": 8,
+      "RowNumber": 106,
+      "NextSiblingRowNumber": 123,
+      "HighlightRow": true
+    },
+    {
+      "Records": 104336766,
+      "Operation": "Spool_Iterator<SpoolIterator>: IterPhyOp LogOp=Filter IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date]) #Records=104336766 #KeyCols=7 #ValueCols=0",
+      "IndentedOperation": "                                    Spool_Iterator<SpoolIterator>: IterPhyOp LogOp=Filter IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date]) #Records=104336766 #KeyCols=7 #ValueCols=0",
+      "Level": 9,
+      "RowNumber": 107,
+      "NextSiblingRowNumber": 123,
+      "HighlightRow": false
+    },
+    {
+      "Records": 104336766,
+      "Operation": "AggregationSpool<GroupBy>: SpoolPhyOp #Records=104336766",
+      "IndentedOperation": "                                        AggregationSpool<GroupBy>: SpoolPhyOp #Records=104336766",
+      "Level": 10,
+      "RowNumber": 108,
+      "NextSiblingRowNumber": 123,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "Filter: IterPhyOp LogOp=Filter IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "IndentedOperation": "                                            Filter: IterPhyOp LogOp=Filter IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "Level": 11,
+      "RowNumber": 109,
+      "NextSiblingRowNumber": 123,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "Extend_Lookup: IterPhyOp LogOp=LessThanOrEqualTo IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "IndentedOperation": "                                                Extend_Lookup: IterPhyOp LogOp=LessThanOrEqualTo IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "Level": 12,
+      "RowNumber": 110,
+      "NextSiblingRowNumber": 123,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "CrossApply: IterPhyOp LogOp=LessThanOrEqualTo IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "IndentedOperation": "                                                    CrossApply: IterPhyOp LogOp=LessThanOrEqualTo IterCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "Level": 13,
+      "RowNumber": 111,
+      "NextSiblingRowNumber": 118,
+      "HighlightRow": false
+    },
+    {
+      "Records": 14976,
+      "Operation": "Spool_Iterator<SpoolIterator>: IterPhyOp LogOp=Scan_Vertipaq IterCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) #Records=14976 #KeyCols=267 #ValueCols=0",
+      "IndentedOperation": "                                                        Spool_Iterator<SpoolIterator>: IterPhyOp LogOp=Scan_Vertipaq IterCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) #Records=14976 #KeyCols=267 #ValueCols=0",
+      "Level": 14,
+      "RowNumber": 112,
+      "NextSiblingRowNumber": 115,
+      "HighlightRow": false
+    },
+    {
+      "Records": 14976,
+      "Operation": "ProjectionSpool<ProjectFusion<>>: SpoolPhyOp #Records=14976",
+      "IndentedOperation": "                                                            ProjectionSpool<ProjectFusion<>>: SpoolPhyOp #Records=14976",
+      "Level": 15,
+      "RowNumber": 113,
+      "NextSiblingRowNumber": 115,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "Cache: IterPhyOp #FieldCols=6 #ValueCols=0",
+      "IndentedOperation": "                                                                Cache: IterPhyOp #FieldCols=6 #ValueCols=0",
+      "Level": 16,
+      "RowNumber": 114,
+      "NextSiblingRowNumber": 114,
+      "HighlightRow": true
+    },
+    {
+      "Records": 14445,
+      "Operation": "Spool_Iterator<SpoolIterator>: IterPhyOp LogOp=Scan_Vertipaq IterCols(8)('Dates'[Date]) #Records=14445 #KeyCols=267 #ValueCols=0",
+      "IndentedOperation": "                                                        Spool_Iterator<SpoolIterator>: IterPhyOp LogOp=Scan_Vertipaq IterCols(8)('Dates'[Date]) #Records=14445 #KeyCols=267 #ValueCols=0",
+      "Level": 14,
+      "RowNumber": 115,
+      "NextSiblingRowNumber": 118,
+      "HighlightRow": false
+    },
+    {
+      "Records": 14445,
+      "Operation": "ProjectionSpool<ProjectFusion<>>: SpoolPhyOp #Records=14445",
+      "IndentedOperation": "                                                            ProjectionSpool<ProjectFusion<>>: SpoolPhyOp #Records=14445",
+      "Level": 15,
+      "RowNumber": 116,
+      "NextSiblingRowNumber": 118,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "Cache: IterPhyOp #FieldCols=1 #ValueCols=0",
+      "IndentedOperation": "                                                                Cache: IterPhyOp #FieldCols=1 #ValueCols=0",
+      "Level": 16,
+      "RowNumber": 117,
+      "NextSiblingRowNumber": 117,
+      "HighlightRow": true
+    },
+    {
+      "Records": null,
+      "Operation": "LessThanOrEqualTo: LookupPhyOp LogOp=LessThanOrEqualTo LookupCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date]) Boolean",
+      "IndentedOperation": "                                                    LessThanOrEqualTo: LookupPhyOp LogOp=LessThanOrEqualTo LookupCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date]) Boolean",
+      "Level": 13,
+      "RowNumber": 118,
+      "NextSiblingRowNumber": 123,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "ColValue<'Dates'[Date]>: LookupPhyOp LogOp=ColValue<'Dates'[Date]>'Dates'[Date] LookupCols(8)('Dates'[Date]) DateTime",
+      "IndentedOperation": "                                                        ColValue<'Dates'[Date]>: LookupPhyOp LogOp=ColValue<'Dates'[Date]>'Dates'[Date] LookupCols(8)('Dates'[Date]) DateTime",
+      "Level": 14,
+      "RowNumber": 119,
+      "NextSiblingRowNumber": 119,
+      "HighlightRow": false
+    },
+    {
+      "Records": 14444,
+      "Operation": "SpoolLookup: LookupPhyOp LogOp=Max_Vertipaq LookupCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) DateTime #Records=14444 #KeyCols=267 #ValueCols=1 DominantValue=BLANK",
+      "IndentedOperation": "                                                        SpoolLookup: LookupPhyOp LogOp=Max_Vertipaq LookupCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) DateTime #Records=14444 #KeyCols=267 #ValueCols=1 DominantValue=BLANK",
+      "Level": 14,
+      "RowNumber": 120,
+      "NextSiblingRowNumber": 123,
+      "HighlightRow": false
+    },
+    {
+      "Records": 14444,
+      "Operation": "ProjectionSpool<ProjectFusion<Copy>>: SpoolPhyOp #Records=14444",
+      "IndentedOperation": "                                                            ProjectionSpool<ProjectFusion<Copy>>: SpoolPhyOp #Records=14444",
+      "Level": 15,
+      "RowNumber": 121,
+      "NextSiblingRowNumber": 123,
+      "HighlightRow": false
+    },
+    {
+      "Records": null,
+      "Operation": "Cache: IterPhyOp #FieldCols=6 #ValueCols=1",
+      "IndentedOperation": "                                                                Cache: IterPhyOp #FieldCols=6 #ValueCols=1",
+      "Level": 16,
+      "RowNumber": 122,
+      "NextSiblingRowNumber": 122,
+      "HighlightRow": true
+    },
+    {
+      "Records": null,
+      "Operation": "Cache: IterPhyOp #FieldCols=4 #ValueCols=1",
+      "IndentedOperation": "                    Cache: IterPhyOp #FieldCols=4 #ValueCols=1",
+      "Level": 5,
+      "RowNumber": 123,
+      "NextSiblingRowNumber": 124,
+      "HighlightRow": true
+    }
+  ],
+  "LogicalQueryPlanRows": [
+    {
+      "Operation": "GroupSemiJoin: RelLogOp DependOnCols()() 0-8 RequiredCols(0, 1, 2, 3, 4, 5, 6, 7, 8)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'snfl_account_base'[ 'INSURANCE_IND'], ''[Count_of_Active])",
+      "IndentedOperation": "GroupSemiJoin: RelLogOp DependOnCols()() 0-8 RequiredCols(0, 1, 2, 3, 4, 5, 6, 7, 8)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'snfl_account_base'[ 'INSURANCE_IND'], ''[Count_of_Active])",
+      "Level": 0,
+      "RowNumber": 1,
+      "NextSiblingRowNumber": 31,
+      "HighlightRow": false
+    },
+    {
+      "Operation": "Scan_Vertipaq: RelLogOp DependOnCols()() 0-1 RequiredCols(0, 1)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'])",
+      "IndentedOperation": "    Scan_Vertipaq: RelLogOp DependOnCols()() 0-1 RequiredCols(0, 1)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'])",
+      "Level": 1,
+      "RowNumber": 2,
+      "NextSiblingRowNumber": 2,
+      "HighlightRow": false
+    },
+    {
+      "Operation": "Scan_Vertipaq: RelLogOp DependOnCols()() 2-7 RequiredCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day])",
+      "IndentedOperation": "    Scan_Vertipaq: RelLogOp DependOnCols()() 2-7 RequiredCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day])",
+      "Level": 1,
+      "RowNumber": 3,
+      "NextSiblingRowNumber": 3,
+      "HighlightRow": false
+    },
+    {
+      "Operation": "VarScope: ScaLogOp MeasureRef=[Count of Active] DependOnCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) Integer DominantValue=BLANK",
+      "IndentedOperation": "    VarScope: ScaLogOp MeasureRef=[Count of Active] DependOnCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) Integer DominantValue=BLANK",
+      "Level": 1,
+      "RowNumber": 4,
+      "NextSiblingRowNumber": 31,
+      "HighlightRow": false
+    },
+    {
+      "Operation": "Max_Vertipaq: ScaLogOp VarName=MaxDate DependOnCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) DateTime DominantValue=BLANK",
+      "IndentedOperation": "        Max_Vertipaq: ScaLogOp VarName=MaxDate DependOnCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) DateTime DominantValue=BLANK",
+      "Level": 2,
+      "RowNumber": 5,
+      "NextSiblingRowNumber": 8,
+      "HighlightRow": false
+    },
+    {
+      "Operation": "Scan_Vertipaq: RelLogOp DependOnCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) 8-19 RequiredCols(2, 3, 4, 5, 6, 7, 9)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "IndentedOperation": "            Scan_Vertipaq: RelLogOp DependOnCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) 8-19 RequiredCols(2, 3, 4, 5, 6, 7, 9)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "Level": 3,
+      "RowNumber": 6,
+      "NextSiblingRowNumber": 6,
+      "HighlightRow": false
+    },
+    {
+      "Operation": "'Dates'[Date]: ScaLogOp DependOnCols(9)('Dates'[Date]) DateTime DominantValue=NONE",
+      "IndentedOperation": "            'Dates'[Date]: ScaLogOp DependOnCols(9)('Dates'[Date]) DateTime DominantValue=NONE",
+      "Level": 3,
+      "RowNumber": 7,
+      "NextSiblingRowNumber": 7,
+      "HighlightRow": false
+    },
+    {
+      "Operation": "Calculate: ScaLogOp DependOnCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) Integer DominantValue=BLANK",
+      "IndentedOperation": "        Calculate: ScaLogOp DependOnCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) Integer DominantValue=BLANK",
+      "Level": 2,
+      "RowNumber": 8,
+      "NextSiblingRowNumber": 31,
+      "HighlightRow": false
+    },
+    {
+      "Operation": "Subtract: ScaLogOp DependOnCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) Integer DominantValue=BLANK",
+      "IndentedOperation": "            Subtract: ScaLogOp DependOnCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) Integer DominantValue=BLANK",
+      "Level": 3,
+      "RowNumber": 9,
+      "NextSiblingRowNumber": 26,
+      "HighlightRow": false
+    },
+    {
+      "Operation": "Calculate: ScaLogOp MeasureRef=[Count of Open] DependOnCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) Integer DominantValue=BLANK",
+      "IndentedOperation": "                Calculate: ScaLogOp MeasureRef=[Count of Open] DependOnCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) Integer DominantValue=BLANK",
+      "Level": 4,
+      "RowNumber": 10,
+      "NextSiblingRowNumber": 18,
+      "HighlightRow": false
+    },
+    {
+      "Operation": "Count_Vertipaq: ScaLogOp DependOnCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) Integer DominantValue=BLANK",
+      "IndentedOperation": "                    Count_Vertipaq: ScaLogOp DependOnCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) Integer DominantValue=BLANK",
+      "Level": 5,
+      "RowNumber": 11,
+      "NextSiblingRowNumber": 13,
+      "HighlightRow": false
+    },
+    {
+      "Operation": "Scan_Vertipaq: RelLogOp DependOnCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) 222-434 RequiredCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day])",
+      "IndentedOperation": "                        Scan_Vertipaq: RelLogOp DependOnCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) 222-434 RequiredCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day])",
+      "Level": 6,
+      "RowNumber": 12,
+      "NextSiblingRowNumber": 12,
+      "HighlightRow": false
+    },
+    {
+      "Operation": "Filter_Vertipaq: RelLogOp DependOnCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) 9-221 RequiredCols(0, 1, 2, 3, 4, 5, 6, 7, 40, 44, 63)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'snfl_account_base'[ 'INSURANCE_IND'], 'snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'DATE_OPEN'.1])",
+      "IndentedOperation": "                    Filter_Vertipaq: RelLogOp DependOnCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) 9-221 RequiredCols(0, 1, 2, 3, 4, 5, 6, 7, 40, 44, 63)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'snfl_account_base'[ 'INSURANCE_IND'], 'snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'DATE_OPEN'.1])",
+      "Level": 5,
+      "RowNumber": 13,
+      "NextSiblingRowNumber": 18,
+      "HighlightRow": false
+    },
+    {
+      "Operation": "Scan_Vertipaq: RelLogOp DependOnCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) 9-221 RequiredCols(0, 1, 2, 3, 4, 5, 6, 7, 40, 44, 63, 211)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'snfl_account_base'[ 'INSURANCE_IND'], 'snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'DATE_OPEN'.1], 'Dates'[Date])",
+      "IndentedOperation": "                        Scan_Vertipaq: RelLogOp DependOnCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) 9-221 RequiredCols(0, 1, 2, 3, 4, 5, 6, 7, 40, 44, 63, 211)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'snfl_account_base'[ 'INSURANCE_IND'], 'snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'DATE_OPEN'.1], 'Dates'[Date])",
+      "Level": 6,
+      "RowNumber": 14,
+      "NextSiblingRowNumber": 14,
+      "HighlightRow": false
+    },
+    {
+      "Operation": "LessThanOrEqualTo: ScaLogOp DependOnCols(63, 211)('snfl_account_base'[ 'DATE_OPEN'.1], 'Dates'[Date]) Boolean DominantValue=NONE",
+      "IndentedOperation": "                        LessThanOrEqualTo: ScaLogOp DependOnCols(63, 211)('snfl_account_base'[ 'DATE_OPEN'.1], 'Dates'[Date]) Boolean DominantValue=NONE",
+      "Level": 6,
+      "RowNumber": 15,
+      "NextSiblingRowNumber": 18,
+      "HighlightRow": false
+    },
+    {
+      "Operation": "'snfl_account_base'[ 'DATE_OPEN'.1]: ScaLogOp DependOnCols(63)('snfl_account_base'[ 'DATE_OPEN'.1]) DateTime DominantValue=NONE",
+      "IndentedOperation": "                            'snfl_account_base'[ 'DATE_OPEN'.1]: ScaLogOp DependOnCols(63)('snfl_account_base'[ 'DATE_OPEN'.1]) DateTime DominantValue=NONE",
+      "Level": 7,
+      "RowNumber": 16,
+      "NextSiblingRowNumber": 16,
+      "HighlightRow": false
+    },
+    {
+      "Operation": "'Dates'[Date]: ScaLogOp DependOnCols(211)('Dates'[Date]) DateTime DominantValue=NONE",
+      "IndentedOperation": "                            'Dates'[Date]: ScaLogOp DependOnCols(211)('Dates'[Date]) DateTime DominantValue=NONE",
+      "Level": 7,
+      "RowNumber": 17,
+      "NextSiblingRowNumber": 17,
+      "HighlightRow": false
+    },
+    {
+      "Operation": "Calculate: ScaLogOp MeasureRef=[Count of Closed] DependOnCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) Integer DominantValue=BLANK",
+      "IndentedOperation": "                Calculate: ScaLogOp MeasureRef=[Count of Closed] DependOnCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) Integer DominantValue=BLANK",
+      "Level": 4,
+      "RowNumber": 18,
+      "NextSiblingRowNumber": 26,
+      "HighlightRow": false
+    },
+    {
+      "Operation": "Count_Vertipaq: ScaLogOp DependOnCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) Integer DominantValue=BLANK",
+      "IndentedOperation": "                    Count_Vertipaq: ScaLogOp DependOnCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) Integer DominantValue=BLANK",
+      "Level": 5,
+      "RowNumber": 19,
+      "NextSiblingRowNumber": 21,
+      "HighlightRow": false
+    },
+    {
+      "Operation": "Scan_Vertipaq: RelLogOp DependOnCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) 222-434 RequiredCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day])",
+      "IndentedOperation": "                        Scan_Vertipaq: RelLogOp DependOnCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) 222-434 RequiredCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day])",
+      "Level": 6,
+      "RowNumber": 20,
+      "NextSiblingRowNumber": 20,
+      "HighlightRow": false
+    },
+    {
+      "Operation": "Filter_Vertipaq: RelLogOp DependOnCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) 9-221 RequiredCols(0, 1, 2, 3, 4, 5, 6, 7, 40, 44, 55, 211)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'snfl_account_base'[ 'INSURANCE_IND'], 'snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'DATE_CLOSE'.1], 'Dates'[Date])",
+      "IndentedOperation": "                    Filter_Vertipaq: RelLogOp DependOnCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) 9-221 RequiredCols(0, 1, 2, 3, 4, 5, 6, 7, 40, 44, 55, 211)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'snfl_account_base'[ 'INSURANCE_IND'], 'snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'DATE_CLOSE'.1], 'Dates'[Date])",
+      "Level": 5,
+      "RowNumber": 21,
+      "NextSiblingRowNumber": 26,
+      "HighlightRow": false
+    },
+    {
+      "Operation": "Scan_Vertipaq: RelLogOp DependOnCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) 9-221 RequiredCols(0, 1, 2, 3, 4, 5, 6, 7, 40, 44, 55, 211)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'snfl_account_base'[ 'INSURANCE_IND'], 'snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'DATE_CLOSE'.1], 'Dates'[Date])",
+      "IndentedOperation": "                        Scan_Vertipaq: RelLogOp DependOnCols(0, 1, 2, 3, 4, 5, 6, 7)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) 9-221 RequiredCols(0, 1, 2, 3, 4, 5, 6, 7, 40, 44, 55, 211)('snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'INSURANCE_IND'], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'snfl_account_base'[ 'INSURANCE_IND'], 'snfl_account_base'[ 'ACCOUNT_TYPE'], 'snfl_account_base'[ 'DATE_CLOSE'.1], 'Dates'[Date])",
+      "Level": 6,
+      "RowNumber": 22,
+      "NextSiblingRowNumber": 22,
+      "HighlightRow": false
+    },
+    {
+      "Operation": "LessThanOrEqualTo: ScaLogOp DependOnCols(55, 211)('snfl_account_base'[ 'DATE_CLOSE'.1], 'Dates'[Date]) Boolean DominantValue=NONE",
+      "IndentedOperation": "                        LessThanOrEqualTo: ScaLogOp DependOnCols(55, 211)('snfl_account_base'[ 'DATE_CLOSE'.1], 'Dates'[Date]) Boolean DominantValue=NONE",
+      "Level": 6,
+      "RowNumber": 23,
+      "NextSiblingRowNumber": 26,
+      "HighlightRow": false
+    },
+    {
+      "Operation": "'snfl_account_base'[ 'DATE_CLOSE'.1]: ScaLogOp DependOnCols(55)('snfl_account_base'[ 'DATE_CLOSE'.1]) DateTime DominantValue=NONE",
+      "IndentedOperation": "                            'snfl_account_base'[ 'DATE_CLOSE'.1]: ScaLogOp DependOnCols(55)('snfl_account_base'[ 'DATE_CLOSE'.1]) DateTime DominantValue=NONE",
+      "Level": 7,
+      "RowNumber": 24,
+      "NextSiblingRowNumber": 24,
+      "HighlightRow": false
+    },
+    {
+      "Operation": "'Dates'[Date]: ScaLogOp DependOnCols(211)('Dates'[Date]) DateTime DominantValue=NONE",
+      "IndentedOperation": "                            'Dates'[Date]: ScaLogOp DependOnCols(211)('Dates'[Date]) DateTime DominantValue=NONE",
+      "Level": 7,
+      "RowNumber": 25,
+      "NextSiblingRowNumber": 25,
+      "HighlightRow": false
+    },
+    {
+      "Operation": "Filter: RelLogOp DependOnCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) 8-8 RequiredCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "IndentedOperation": "            Filter: RelLogOp DependOnCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) 8-8 RequiredCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date])",
+      "Level": 3,
+      "RowNumber": 26,
+      "NextSiblingRowNumber": 31,
+      "HighlightRow": false
+    },
+    {
+      "Operation": "Scan_Vertipaq: RelLogOp DependOnCols()() 8-8 RequiredCols(8)('Dates'[Date])",
+      "IndentedOperation": "                Scan_Vertipaq: RelLogOp DependOnCols()() 8-8 RequiredCols(8)('Dates'[Date])",
+      "Level": 4,
+      "RowNumber": 27,
+      "NextSiblingRowNumber": 27,
+      "HighlightRow": false
+    },
+    {
+      "Operation": "LessThanOrEqualTo: ScaLogOp DependOnCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date]) Boolean DominantValue=NONE",
+      "IndentedOperation": "                LessThanOrEqualTo: ScaLogOp DependOnCols(2, 3, 4, 5, 6, 7, 8)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day], 'Dates'[Date]) Boolean DominantValue=NONE",
+      "Level": 4,
+      "RowNumber": 28,
+      "NextSiblingRowNumber": 31,
+      "HighlightRow": false
+    },
+    {
+      "Operation": "'Dates'[Date]: ScaLogOp DependOnCols(8)('Dates'[Date]) DateTime DominantValue=NONE",
+      "IndentedOperation": "                    'Dates'[Date]: ScaLogOp DependOnCols(8)('Dates'[Date]) DateTime DominantValue=NONE",
+      "Level": 5,
+      "RowNumber": 29,
+      "NextSiblingRowNumber": 29,
+      "HighlightRow": false
+    },
+    {
+      "Operation": "ScalarVarProxy: ScaLogOp DependOnCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) DateTime DominantValue=BLANK RefVarName=MaxDate",
+      "IndentedOperation": "                    ScalarVarProxy: ScaLogOp DependOnCols(2, 3, 4, 5, 6, 7)('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo], 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]) DateTime DominantValue=BLANK RefVarName=MaxDate",
+      "Level": 5,
+      "RowNumber": 30,
+      "NextSiblingRowNumber": 31,
+      "HighlightRow": false
+    }
+  ]
+}

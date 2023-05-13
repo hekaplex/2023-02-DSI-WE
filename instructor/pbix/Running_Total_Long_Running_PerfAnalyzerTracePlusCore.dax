@@ -1,0 +1,319 @@
+﻿// DAX Query (from "Copy Query" in Perfromance Analyzer)
+DEFINE
+  VAR __ScopedCoreI0 = 
+    SUMMARIZECOLUMNS(
+
+      "Count_of_Active", 'TMeasures'[Count of Active]
+    )
+
+  VAR __ScopedCoreDM1 = 
+    SELECTCOLUMNS(
+      KEEPFILTERS(
+        FILTER(
+          KEEPFILTERS(
+            SUMMARIZECOLUMNS(
+              'snfl_account_base'[ 'ACCOUNT_TYPE'],
+              'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year],
+              'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter],
+              'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo],
+              'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month],
+              'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo],
+              'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day],
+              "MinDate", IGNORE(CALCULATE(MIN('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Date]))),
+              "CountRowssnfl_account_base", CALCULATE(COUNTROWS('snfl_account_base'))
+            )
+          ),
+          OR(
+            OR(
+              OR(
+                OR(
+                  OR(
+                    OR(
+                      NOT(ISBLANK('snfl_account_base'[ 'ACCOUNT_TYPE'])),
+                      NOT(ISBLANK('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year]))
+                    ),
+                    NOT(ISBLANK('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter]))
+                  ),
+                  NOT(ISBLANK('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo]))
+                ),
+                NOT(ISBLANK('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month]))
+              ),
+              NOT(ISBLANK('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo]))
+            ),
+            NOT(ISBLANK('LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]))
+          )
+        )
+      ),
+      "'snfl_account_base'[ 'ACCOUNT_TYPE']", 'snfl_account_base'[ 'ACCOUNT_TYPE'],
+      "'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year]", 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year],
+      "'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter]", 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter],
+      "'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo]", 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo],
+      "'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month]", 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month],
+      "'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo]", 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo],
+      "'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]", 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day],
+      "MinDate", [MinDate]
+    )
+
+  VAR __DS0Core = 
+    NATURALLEFTOUTERJOIN(
+      __ScopedCoreI0,
+      __ScopedCoreDM1
+    )
+
+  VAR __DS0PrimaryBase = 
+    SUMMARIZE(
+      __DS0Core,
+      'snfl_account_base'[ 'ACCOUNT_TYPE'],
+      'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year],
+      'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter],
+      'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo],
+      'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month],
+      'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo],
+      'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]
+    )
+
+  VAR __DS0SecondaryBase = 
+    SUMMARIZE(__DS0Core, 'snfl_account_base'[ 'INSURANCE_IND'])
+
+  VAR __DS0ScopedPreLimitL1 = 
+    SUMMARIZE(
+      __DS0PrimaryBase,
+      'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year],
+      'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter],
+      'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo],
+      'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month],
+      'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo],
+      'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]
+    )
+
+  VAR __DS0ScopedPreLimitL1Count = CALCULATE(COUNTROWS(__DS0ScopedPreLimitL1))
+
+  VAR __DS0ScopedPreLimitL0 = 
+    SUMMARIZE(__DS0PrimaryBase, 'snfl_account_base'[ 'ACCOUNT_TYPE'])
+
+  VAR __DS0ScopedPreLimitL0Count = CALCULATE(COUNTROWS(__DS0ScopedPreLimitL0))
+
+  VAR __DS0ScopedPreLimitL2Count = CALCULATE(COUNTROWS(__DS0SecondaryBase))
+
+  VAR __DS0LimitBlock0DbCount = MIN(__DS0ScopedPreLimitL0Count, 6)
+
+  VAR __DS0LimitBlock1DbCount = 
+    (__DS0ScopedPreLimitL1Count * __DS0ScopedPreLimitL2Count)
+
+  VAR __DS0RemainingCapacityAtStart = DIVIDE(30000, __DS0LimitBlock0DbCount)
+
+  VAR __DS0LimitBlock1Count = 
+    CEILING(
+      MAX(MIN(MIN(__DS0RemainingCapacityAtStart, 3500), __DS0LimitBlock1DbCount), 1),
+      1
+    )
+
+  VAR __DS0InitTargetPrimaryCount = 
+    IF(
+      __DS0LimitBlock1DbCount <= __DS0LimitBlock1Count,
+      __DS0LimitBlock1Count,
+      IF(
+        AND(__DS0ScopedPreLimitL1Count > 1000, __DS0ScopedPreLimitL2Count > 60),
+        CEILING(DIVIDE(__DS0LimitBlock1Count, 60), 1),
+        IF(
+          __DS0ScopedPreLimitL2Count > 60,
+          __DS0ScopedPreLimitL1Count,
+          CEILING(DIVIDE(__DS0LimitBlock1Count, __DS0ScopedPreLimitL2Count), 1)
+        )
+      )
+    )
+
+  VAR __DS0InitTargetSecondaryCount = 
+    IF(
+      __DS0LimitBlock1DbCount <= __DS0LimitBlock1Count,
+      __DS0LimitBlock1Count,
+      IF(
+        AND(__DS0ScopedPreLimitL1Count > 1000, __DS0ScopedPreLimitL2Count > 60),
+        60,
+        IF(
+          __DS0ScopedPreLimitL2Count > 60,
+          CEILING(DIVIDE(__DS0LimitBlock1Count, __DS0ScopedPreLimitL1Count), 1),
+          __DS0ScopedPreLimitL2Count
+        )
+      )
+    )
+
+  VAR __DS0MinPrimaryCount = MIN(10, __DS0ScopedPreLimitL1Count)
+
+  VAR __DS0MinSecondaryCount = MIN(10, __DS0ScopedPreLimitL2Count)
+
+  VAR __DS0TargetPrimaryCount = 
+    IF(
+      __DS0InitTargetPrimaryCount < __DS0MinPrimaryCount,
+      __DS0MinPrimaryCount,
+      IF(
+        __DS0InitTargetSecondaryCount < __DS0MinSecondaryCount,
+        CEILING(DIVIDE(__DS0LimitBlock1Count, __DS0MinSecondaryCount), 1),
+        __DS0InitTargetPrimaryCount
+      )
+    )
+
+  VAR __DS0TargetSecondaryCount = 
+    IF(
+      __DS0InitTargetPrimaryCount < __DS0MinPrimaryCount,
+      CEILING(DIVIDE(__DS0LimitBlock1Count, __DS0MinPrimaryCount), 1),
+      IF(
+        __DS0InitTargetSecondaryCount < __DS0MinSecondaryCount,
+        __DS0MinSecondaryCount,
+        __DS0InitTargetSecondaryCount
+      )
+    )
+
+  VAR __DS0ScopedLimitL0 = 
+    TOPN(6, __DS0ScopedPreLimitL0, 'snfl_account_base'[ 'ACCOUNT_TYPE'], 1)
+
+  VAR __DS0ScopedLimitL1 = 
+    SAMPLE(
+      __DS0TargetPrimaryCount,
+      __DS0ScopedPreLimitL1,
+      'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year],
+      1,
+      'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo],
+      1,
+      'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter],
+      1,
+      'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo],
+      1,
+      'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month],
+      1,
+      'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day],
+      1
+    )
+
+  VAR __SyncDS0SyncTable = 
+    SUBSTITUTEWITHINDEX(
+      ADDCOLUMNS(
+        KEEPFILTERS(__DS0ScopedLimitL1),
+        "ClonedYear", 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year],
+        "ClonedQuarter", 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter],
+        "ClonedQuarterNo", 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo],
+        "ClonedMonth", 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month],
+        "ClonedMonthNo", 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo],
+        "ClonedDay", 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]
+      ),
+      "SyncI0",
+      SELECTCOLUMNS(
+        KEEPFILTERS(__DS0ScopedLimitL1),
+        "ClonedYear", 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year],
+        "ClonedQuarter", 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter],
+        "ClonedQuarterNo", 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo],
+        "ClonedMonth", 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month],
+        "ClonedMonthNo", 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo],
+        "ClonedDay", 'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]
+      ),
+      [ClonedYear],
+      ASC,
+      [ClonedQuarterNo],
+      ASC,
+      [ClonedQuarter],
+      ASC,
+      [ClonedMonthNo],
+      ASC,
+      [ClonedMonth],
+      ASC,
+      [ClonedDay],
+      ASC
+    )
+
+  VAR __DS0BodyRegroupedToDM1ScopedLimitedL1 = 
+    NATURALLEFTOUTERJOIN(
+      __SyncDS0SyncTable,
+      __DS0PrimaryBase
+    )
+
+  VAR __IsDM1Valid = 
+    CALCULATE(NOT(ISEMPTY(__DS0BodyRegroupedToDM1ScopedLimitedL1)))
+
+  VAR __DS0PrimaryLimited = 
+    NATURALLEFTOUTERJOIN(
+      __DS0ScopedLimitL0,
+      ADDCOLUMNS(
+        KEEPFILTERS(__DS0BodyRegroupedToDM1ScopedLimitedL1),
+        "IsDM1Valid", __IsDM1Valid
+      )
+    )
+
+  VAR __DS0ScopedLimitL2 = 
+    TOPN(
+      __DS0TargetSecondaryCount,
+      __DS0SecondaryBase,
+      'snfl_account_base'[ 'INSURANCE_IND'],
+      1
+    )
+
+  VAR __DS0BodyLimited = 
+    NATURALLEFTOUTERJOIN(
+      __DS0PrimaryLimited,
+      SUBSTITUTEWITHINDEX(
+        __DS0Core,
+        "ColumnIndex",
+        __DS0ScopedLimitL2,
+        'snfl_account_base'[ 'INSURANCE_IND'],
+        ASC
+      )
+    )
+
+EVALUATE
+  ROW(
+    "DS0ScopedPreLimitL0Count", __DS0ScopedPreLimitL0Count,
+    "DS0ScopedLimitL0Count", 6,
+    "DS0ScopedPreLimitL1Count", __DS0ScopedPreLimitL1Count,
+    "DS0ScopedLimitL1Count", __DS0TargetPrimaryCount,
+    "DS0ScopedPreLimitL2Count", __DS0ScopedPreLimitL2Count,
+    "DS0ScopedLimitL2Count", __DS0TargetSecondaryCount
+  )
+
+EVALUATE
+  __DS0ScopedLimitL1
+
+ORDER BY
+  'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year],
+  'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo],
+  'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter],
+  'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo],
+  'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month],
+  'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day]
+
+EVALUATE
+  GROUPBY(
+    __DS0Core,
+    "MinCount_of_Active", MINX(CURRENTGROUP(), [Count_of_Active]),
+    "MaxCount_of_Active", MAXX(CURRENTGROUP(), [Count_of_Active])
+  )
+
+EVALUATE
+  __DS0ScopedLimitL2
+
+ORDER BY
+  'snfl_account_base'[ 'INSURANCE_IND']
+
+EVALUATE
+  __DS0BodyLimited
+
+ORDER BY
+  'snfl_account_base'[ 'ACCOUNT_TYPE'],
+  'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year],
+  'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo],
+  'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter],
+  'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo],
+  'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month],
+  'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day],
+  [ColumnIndex]
+
+//core DAX extracted from first variable
+EVALUATE     SUMMARIZECOLUMNS(
+      'snfl_account_base'[ 'ACCOUNT_TYPE'],
+      'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Year],
+      'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Quarter],
+      'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[QuarterNo],
+      'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Month],
+      'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[MonthNo],
+      'LocalDateTable_e9fc8ccc-f97b-4356-9f53-95b869d235bd'[Day],
+      'snfl_account_base'[ 'INSURANCE_IND'],
+      "Count_of_Active", 'TMeasures'[Count of Active]
+    )

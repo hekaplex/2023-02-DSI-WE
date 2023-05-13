@@ -1,0 +1,29 @@
+// DAX Query
+DEFINE
+//from Filter Pane
+  VAR __DS0FilterTable = 
+    TREATAS({"Top Competitors",
+      "VanArsdel"}, 'Manufacturer'[Manufacturer (groups)])
+//From Date Slicer
+  VAR __DS0FilterTable2 = 
+    FILTER(
+      KEEPFILTERS(VALUES('Date'[Date])),
+      AND('Date'[Date] >= DATE(2015, 5, 17), 'Date'[Date] < DATE(2018, 9, 9))
+    )
+
+  VAR __DS0Core = 
+    SUMMARIZECOLUMNS(
+      ROLLUPADDISSUBTOTAL('Manufacturer'[Manufacturer], "IsGrandTotalRowTotal"),
+      __DS0FilterTable,
+      __DS0FilterTable2,
+      "Total_Sales", 'Sales'[Total Sales]
+    )
+
+  VAR __DS0PrimaryWindowed = 
+    TOPN(502, __DS0Core, [IsGrandTotalRowTotal], 0, [Total_Sales], 0, 'Manufacturer'[Manufacturer], 1)
+
+EVALUATE
+  __DS0PrimaryWindowed
+
+ORDER BY
+  [IsGrandTotalRowTotal] DESC, [Total_Sales] DESC, 'Manufacturer'[Manufacturer]

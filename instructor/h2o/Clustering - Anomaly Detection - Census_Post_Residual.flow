@@ -1,0 +1,133 @@
+{
+  "version": "1.0.0",
+  "cells": [
+    {
+      "type": "cs",
+      "input": "assist"
+    },
+    {
+      "type": "cs",
+      "input": "importFiles"
+    },
+    {
+      "type": "cs",
+      "input": "importFiles [ \"c:\\\\h2o\\\\census_post_resdiual.csv\" ]"
+    },
+    {
+      "type": "cs",
+      "input": "setupParse source_frames: [ \"nfs:\\\\c:\\\\h2o\\\\census_post_resdiual.csv\" ]"
+    },
+    {
+      "type": "cs",
+      "input": "parseFiles\n  source_frames: [\"nfs:\\\\c:\\\\h2o\\\\census_post_resdiual.csv\"]\n  destination_frame: \"census_post_resdiual.hex\"\n  parse_type: \"CSV\"\n  separator: 44\n  number_columns: 22\n  single_quotes: false\n  column_names: [\"predict\",\"<=50K\",\">50K\",\"income\",\"Age\",\"workclass\",\"fnlwgt\",\"education\",\"education-num\",\"marital-status\",\"occupation\",\"relationship\",\"race\",\"sex\",\"capital-gain\",\"capital-loss\",\"hours-per-week\",\"native-country\",\"income0\",\"Income (Binary)\",\"HasCapitalGains\",\"Age (bins)\"]\n  column_types: [\"Enum\",\"Numeric\",\"Numeric\",\"Numeric\",\"Numeric\",\"Enum\",\"Numeric\",\"Enum\",\"Numeric\",\"Enum\",\"Enum\",\"Enum\",\"Enum\",\"Enum\",\"Numeric\",\"Numeric\",\"Numeric\",\"Enum\",\"Enum\",\"Numeric\",\"Enum\",\"Numeric\"]\n  delete_on_done: true\n  check_header: 1\n  chunk_size: 65296"
+    },
+    {
+      "type": "cs",
+      "input": "getFrameSummary \"census_post_resdiual.hex\""
+    },
+    {
+      "type": "cs",
+      "input": "assist splitFrame, \"census_post_resdiual.hex\""
+    },
+    {
+      "type": "cs",
+      "input": "splitFrame \"census_post_resdiual.hex\", [0.75], [\"frame_0.750\",\"frame_0.250\"], 173917"
+    },
+    {
+      "type": "cs",
+      "input": "assist buildModel, null, training_frame: \"census_post_resdiual.hex\""
+    },
+    {
+      "type": "cs",
+      "input": "getModels"
+    },
+    {
+      "type": "cs",
+      "input": "buildModel 'drf', {\"model_id\":\"drf-560f2813-f473-4829-9dcb-90a9c28dc88f\",\"training_frame\":\"census_post_resdiual.hex\",\"nfolds\":0,\"response_column\":\"income\",\"ignored_columns\":[\"predict\",\"<=50K\",\">50K\",\"income0\",\"Income (Binary)\"],\"ignore_const_cols\":true,\"ntrees\":50,\"max_depth\":20,\"min_rows\":1,\"nbins\":20,\"seed\":-1,\"mtries\":-1,\"sample_rate\":0.632,\"score_each_iteration\":false,\"score_tree_interval\":0,\"nbins_top_level\":1024,\"nbins_cats\":1024,\"r2_stopping\":1.7976931348623157e+308,\"stopping_rounds\":0,\"stopping_metric\":\"AUTO\",\"stopping_tolerance\":0.001,\"max_runtime_secs\":0,\"col_sample_rate_per_tree\":1,\"min_split_improvement\":0.00001,\"histogram_type\":\"AUTO\",\"categorical_encoding\":\"AUTO\",\"distribution\":\"AUTO\",\"gainslift_bins\":-1,\"auc_type\":\"AUTO\",\"build_tree_one_node\":false,\"sample_rate_per_class\":[],\"binomial_double_trees\":false,\"col_sample_rate_change_per_level\":1,\"calibrate_model\":false,\"check_constant_response\":true}"
+    },
+    {
+      "type": "cs",
+      "input": "buildModel 'drf', {\"model_id\":\"drf-560f2813-f473-4829-9dcb-90a9c28dc88f\",\"training_frame\":\"census_post_resdiual.hex\",\"nfolds\":0,\"response_column\":\"income0\",\"ignored_columns\":[\"predict\",\"<=50K\",\">50K\",\"Income (Binary)\"],\"ignore_const_cols\":true,\"ntrees\":50,\"max_depth\":20,\"min_rows\":1,\"nbins\":20,\"seed\":-1,\"mtries\":-1,\"sample_rate\":0.632,\"score_each_iteration\":false,\"score_tree_interval\":0,\"balance_classes\":false,\"nbins_top_level\":1024,\"nbins_cats\":1024,\"r2_stopping\":1.7976931348623157e+308,\"stopping_rounds\":0,\"stopping_metric\":\"AUTO\",\"stopping_tolerance\":0.001,\"max_runtime_secs\":0,\"col_sample_rate_per_tree\":1,\"min_split_improvement\":0.00001,\"histogram_type\":\"AUTO\",\"categorical_encoding\":\"AUTO\",\"distribution\":\"AUTO\",\"gainslift_bins\":-1,\"auc_type\":\"AUTO\",\"build_tree_one_node\":false,\"sample_rate_per_class\":[],\"binomial_double_trees\":false,\"col_sample_rate_change_per_level\":1,\"calibrate_model\":false,\"check_constant_response\":true}"
+    },
+    {
+      "type": "cs",
+      "input": "getModel \"drf-560f2813-f473-4829-9dcb-90a9c28dc88f\""
+    },
+    {
+      "type": "cs",
+      "input": "buildModel 'drf', {\"model_id\":\"drf-560f2813-f473-4829-9dcb-90a9c28dc88f\",\"training_frame\":\"frame_0.250\",\"validation_frame\":\"frame_0.750\",\"nfolds\":0,\"response_column\":\"income0\",\"ignored_columns\":[\"predict\",\"<=50K\",\">50K\",\"Income (Binary)\"],\"ignore_const_cols\":true,\"ntrees\":50,\"max_depth\":20,\"min_rows\":1,\"nbins\":20,\"seed\":-1,\"mtries\":-1,\"sample_rate\":0.632,\"score_each_iteration\":false,\"score_tree_interval\":0,\"balance_classes\":false,\"nbins_top_level\":1024,\"nbins_cats\":1024,\"r2_stopping\":1.7976931348623157e+308,\"stopping_rounds\":0,\"stopping_metric\":\"AUTO\",\"stopping_tolerance\":0.001,\"max_runtime_secs\":0,\"col_sample_rate_per_tree\":1,\"min_split_improvement\":0.00001,\"histogram_type\":\"AUTO\",\"categorical_encoding\":\"AUTO\",\"distribution\":\"AUTO\",\"gainslift_bins\":-1,\"auc_type\":\"AUTO\",\"build_tree_one_node\":false,\"sample_rate_per_class\":[],\"binomial_double_trees\":false,\"col_sample_rate_change_per_level\":1,\"calibrate_model\":false,\"check_constant_response\":true}"
+    },
+    {
+      "type": "cs",
+      "input": "getModel \"drf-560f2813-f473-4829-9dcb-90a9c28dc88f\""
+    },
+    {
+      "type": "cs",
+      "input": "predict model: \"drf-560f2813-f473-4829-9dcb-90a9c28dc88f\""
+    },
+    {
+      "type": "cs",
+      "input": "predict model: \"drf-560f2813-f473-4829-9dcb-90a9c28dc88f\", frame: \"census_post_resdiual.hex\", predictions_frame: \"prediction-70204c1f-31e6-4e8d-ae93-a9cdf2ab4f13\""
+    },
+    {
+      "type": "cs",
+      "input": "getFrames"
+    },
+    {
+      "type": "cs",
+      "input": "getFrameSummary \"census_post_resdiual.hex\""
+    },
+    {
+      "type": "cs",
+      "input": "assist buildModel, null, training_frame: \"census_post_resdiual.hex\""
+    },
+    {
+      "type": "cs",
+      "input": "buildModel 'kmeans', {\"model_id\":\"kmeans-890e5c1f-54e1-4e79-8b11-91e8de0d6b78\",\"training_frame\":\"census_post_resdiual.hex\",\"nfolds\":0,\"ignored_columns\":[\"predict\",\"<=50K\",\">50K\"],\"ignore_const_cols\":true,\"k\":12,\"estimate_k\":true,\"max_iterations\":240,\"standardize\":true,\"init\":\"Furthest\",\"score_each_iteration\":false,\"seed\":-1,\"max_runtime_secs\":0,\"categorical_encoding\":\"AUTO\",\"cluster_size_constraints\":[]}"
+    },
+    {
+      "type": "cs",
+      "input": "getModel \"kmeans-890e5c1f-54e1-4e79-8b11-91e8de0d6b78\""
+    },
+    {
+      "type": "cs",
+      "input": "predict model: \"kmeans-890e5c1f-54e1-4e79-8b11-91e8de0d6b78\""
+    },
+    {
+      "type": "cs",
+      "input": "predict model: \"kmeans-890e5c1f-54e1-4e79-8b11-91e8de0d6b78\", frame: \"census_post_resdiual.hex\", predictions_frame: \"prediction-8ef87af9-e270-438a-86ee-a3dfa946e0f6\""
+    },
+    {
+      "type": "cs",
+      "input": "bindFrames \"combined-prediction-8ef87af9-e270-438a-86ee-a3dfa946e0f6\", [ \"prediction-8ef87af9-e270-438a-86ee-a3dfa946e0f6\", \"census_post_resdiual.hex\" ]"
+    },
+    {
+      "type": "cs",
+      "input": "getFrameSummary \"combined-prediction-8ef87af9-e270-438a-86ee-a3dfa946e0f6\""
+    },
+    {
+      "type": "cs",
+      "input": "buildModel 'isolationforest', {\"model_id\":\"isolationforest-f2598fd0-9b70-4aa9-8f33-0c438564d7dd\",\"training_frame\":\"census_post_resdiual.hex\",\"ignored_columns\":[],\"ignore_const_cols\":true,\"ntrees\":50,\"max_depth\":8,\"min_rows\":1,\"seed\":-1,\"mtries\":-1,\"sample_size\":256,\"sample_rate\":-1,\"contamination\":-1,\"score_each_iteration\":false,\"score_tree_interval\":0,\"max_runtime_secs\":0,\"col_sample_rate_per_tree\":1,\"categorical_encoding\":\"AUTO\",\"stopping_rounds\":0,\"stopping_metric\":\"AUTO\",\"stopping_tolerance\":0.01,\"build_tree_one_node\":false,\"col_sample_rate_change_per_level\":1}"
+    },
+    {
+      "type": "cs",
+      "input": "getModel \"isolationforest-f2598fd0-9b70-4aa9-8f33-0c438564d7dd\""
+    },
+    {
+      "type": "cs",
+      "input": "predict model: \"isolationforest-f2598fd0-9b70-4aa9-8f33-0c438564d7dd\""
+    },
+    {
+      "type": "cs",
+      "input": "predict model: \"isolationforest-f2598fd0-9b70-4aa9-8f33-0c438564d7dd\", frame: \"census_post_resdiual.hex\", predictions_frame: \"prediction-836ee980-1134-48a9-9a4e-0d22bbaec503\""
+    },
+    {
+      "type": "cs",
+      "input": "bindFrames \"combined-prediction-836ee980-1134-48a9-9a4e-0d22bbaec503\", [ \"prediction-836ee980-1134-48a9-9a4e-0d22bbaec503\", \"census_post_resdiual.hex\" ]"
+    },
+    {
+      "type": "cs",
+      "input": "getFrameSummary \"combined-prediction-836ee980-1134-48a9-9a4e-0d22bbaec503\""
+    }
+  ]
+}
