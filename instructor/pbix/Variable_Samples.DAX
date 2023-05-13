@@ -1,0 +1,19 @@
+Salary Type = 
+//if salary > avg, "High" else "Low"
+//VAR in DAX  is a variable that is either a DAX Table, DAX Column or DAX Measure
+VAR AvgSalary = CALCULATE(AVERAGE(Instructors[AnnualSalary]),ALL(Instructors))
+RETURN IF(Instructors[AnnualSalary] >= AvgSalary, "High Salary","Low Salary")
+
+Salary Type = IF(Instructors[AnnualSalary] >= CALCULATE(AVERAGE(Instructors[AnnualSalary]),ALL(Instructors)), "High Salary","Low Salary")
+
+Salary Type = 
+//if salary > avg, "High" else "Low"
+IF(
+    Instructors[AnnualSalary] 
+    >= 
+    CALCULATE(
+        AVERAGE(Instructors[AnnualSalary])
+        ,ALL(Instructors)
+        )
+    , "High Salary"
+    ,"Low Salary")
