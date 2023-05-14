@@ -1,0 +1,16 @@
+_Binary Classification _Template = SELECTCOLUMNS (
+titanic    //output of model
+    ,"Raw Score",titanic[p1]
+    //input of target
+    ,"Actual", titanic[survived]
+    //features for residual analysis
+    ,"Pclass",titanic[Pclass]
+    ,"Name",titanic[Name]
+    ,"Sex",titanic[Sex]
+    ,"Age",titanic[Age]
+    ,"SibSp",titanic[SibSp]
+    ,"Parch",titanic[Parch]
+    ,"Fare",titanic[Fare]
+    ,"Cabin",titanic[Cabin]
+    ,"Embarked",titanic[Embarked]
+)
